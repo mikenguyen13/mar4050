@@ -8,9 +8,15 @@ urlcolor: blue
 
 The term project is designed to provide you with firsthand experience in designing and carrying out a marketing research project. The project is divided into n assignments, described below. Each completed assignment should be submitted by the date and time specified below. All components of an assignment must be turned in to receive full credit.
 
-# Assignment 1: GROUP FORMATION
+# Assignment 1: GROUP FORMATION (8/ by 5:00 pm)
 
-Your group will work together extensively throughout the semester to complete a term research project. There are four to five members per group. You may choose the members of your group or have the instructor assign you to a group. During the first two class sessions there will be small group breakout sessions that will allow you to get to know some of your classmates.
+Your group will work together extensively throughout the semester to complete a term research project. There are four to five members per group. You may choose the members of your group or have the instructor assign you to a group. Group assignments done by the instructor will be on a random basis. During the first two class sessions there will be small group breakout sessions that will allow you to get to know some of your classmates.
+
+By 5:00 pm on this day, submit this assignment on Canvas and indicate:
+
+a\. whether you and three other classmates have formed a team and, if so, the identity of your teammates, or
+
+b\. whether you would like the instructor to assign you to a team.
 
 Submit this assignment on Canvas and indicate:
 
@@ -20,15 +26,105 @@ b)  Title your assignment word document file name with **'Random & your initial'
 
 This assignment needs to be submitted individually by each student in the class.
 
-# Assignment 2: TEAM ORIENTATION; PROJECT TOPIC CHOICES
+<br>
+
+# Assignment 2: TEAM ORIENTATION; PROJECT TOPIC CHOICES (8/ )
 
 On this day, your group should submit the two items below on Canvas.
 
 **(1)** Completed [Team Orientation Assignment](), including the group project contract.
 
+**(2)** Your group's client sponsor nominations (see underlined material below).
+
 **(2)** Your group's first, second, and third choices for a project topic, from the [project topic list](). You may also propose a topic of your own. If you wish to propose a topic, provide some details so your instructor can evaluate whether the proposed project would work for this class.
 
 The instructor will make every attempt to assign your group its first choice for project topic, but that may not be possible if other groups have the same first choice. The instructor will notify you of your group's final topic assignment.
+
+**Nominating Client Sponsors**
+
+Selecting an appropriate client sponsor is critical to the success of your project. The sponsor you select will greatly influence the kind of experience you have with the project over the semester. With an appropriate sponsor, your project can be a rewarding and interesting experience. With the wrong sponsor, you may face difficulties at every stage of the project. Investing time now in selecting an appropriate client will pay big dividends for you.
+
+[Each group is responsible for identifying and conducting initial problem definition with two or three potential clients.]{.ul}
+
+Final client selection will be done in consultation with the instructor.
+
+[Client nominations: The following should be turned in at the beginning of class on the due date]{.ul}:
+
+(1) the names of 2 or 3 clients who are interested in working with your group
+
+(2) for each potential client sponsor include:
+
+-   the business name
+-   the name of your contact at the business and his/her email address and telephone numbers
+-   a brief description of the problem your project would address (e.g., assess potential demand for opening a new location of the client's frozen yogurt business on the west side of Columbia; determine whether vintage clothing or plus size clothing would be a better use of the upstairs space at the client's retail store, etc.)
+-   whether the client has agreed to meet in person with group members for 30-45 minutes within the next few days to discuss the project and its scope; if not, you will need to find another client
+-   a brief description of how you would collect data for the project survey and how you would reach those people to survey them
+
+(3) identify which client your group is most interested in working with
+
+**Guidelines for Choosing a Client**
+
+-   Contact several potential clients early - as soon as your group is formed. Contact them in person, definitely not by email and preferably not by telephone. In-person contact increases the chance that your client will be interested in sponsoring your project, and also gives you an opportunity to assess how well the client and his/her business problem fit the project requirements.
+
+-   Your client sponsor should be a local business or campus department (such as the MU Rec Center, the library, or Campus Dining Services) that needs **survey research** to help it solve a marketing problem (however, **do not choose a bar** for your client; also, your client cannot be located in the College of Business). Marketing problems suitable for a project often involve a decision the client is contemplating, for example:
+
+    -   determining whether there is sufficient customer interest to warrant adding an outside dining area to a restaurant
+
+    -   identifying which services and tanning packages would be most effective in attracting more student customers to a tanning salon
+
+    -   determining how to increase potential customers' awareness of a store or other business and identifying which promotions would be most likely to stimulate a visit to the store
+
+<br>
+
+-   Projects that don't involve a specific decision can also be successful if the results of the survey can help the client make important changes to its marketing program, for example:
+
+    -   identifying how the image of a retailer compares with its competitors and what its relative strengths and weaknesses are in the eyes of customers
+
+    -   assessing customer satisfaction with a business's merchandise and services and identifying improvements customers would like to see made to the business
+
+-   Think about how you'll eventually administer the survey. If you're obtaining information about prospective customers, where will you find them? If they're college students, the survey will be relatively easy to conduct. If the prospective customers are families who live on the south side of town, however, you may need to do an intercept survey by standing outside a place where there are lots of local residents, such as the shopping centers near Schnucks or Kohls. Columbia Mall will not let students survey in (or outside) the mall. If your client is a Columbia Mall tenant, however, you can probably survey inside your client's store as long as the client gives permission.
+
+-   Determine whether the proposed project for the client is feasible. Particular consideration is how difficult it will be to contact appropriate people to complete the survey. Most groups will need a sample size of over 150 to 200 qualified respondents, and you should be able to think of a reasonable way to gain the participation of these respondents. In most cases it is not feasible to conduct a telephone survey, and internet surveys are difficult to do because a contact list is needed and most people won't complete them. Most student projects involve intercepting potential respondents in a public place, such as a strip mall or on campus.
+
+-   The project should focus on ***either*** current customers or potential customers, but it's not feasible to include both in one project.
+
+-   The sponsoring client should have a genuine need for the research and not agree to work with you "just to be nice." With a genuine need, the sponsor will be more interested in your project and more responsive when you need feedback at various stages of your work.
+
+-   The sponsor should be enthusiastic about the project and willing to provide the information, assistance, and feedback your group needs in a timely manner. Someone who doesn't return phone calls or emails in a timely manner during the initial contact phase may not be an easy client to work with.
+
+-   The sponsor must be willing to meet in person with your group within a few days so you can complete PA \#3 on time
+
+-   The sponsor should be willing to pay for any necessary and reasonable expenses involved in collecting data for the study, including the cost of duplicating questionnaires and, if necessary, an incentive to reward people for participation (such as a piece of candy or other small token).
+
+-   The instructor has prepared a letter to sponsors that briefly describes the project and the sponsor's responsibilities. You can show this to potential clients to give them an idea of what's involved in the project. You MUST give a copy of the letter to the client sponsor you choose to work with. The letter is available on Canvas (sponsor_letter.pdf).
+
+<br>
+
+**Projects/Clients to Avoid**
+
+-   The client sponsor cannot be the employer of a group member and cannot be an organization that is owned or operated by a relative of a group member.
+
+-   The client must not be doing a project this semester with another Marketing 4050 group.
+
+-   You may not use a bar or nightclub for a client or do a project involving the sale of alcohol. Your client may not be located in the College of Business.
+
+-   Surveys for this project are normally administered in person. In some cases it might be possible to do an internet survey, but these can be very difficult to do and require special instructor permission.
+
+-   Avoid projects where you have to survey officers of a campus organization, because these people are hard to contact and often do not return surveys.
+
+-   Avoid projects where you have to survey business owners, managers, or employees; they are hard to reach.
+
+-   Avoid businesses located near campus or that heavily cater to students, unless the business is new. These businesses are often asked by students to participate in projects and usually want to help, but they are overused for projects and thus are less likely to have a meaningful issue to address in your survey.
+
+-   Avoid a project where the objective is to increase a restaurant's business on slow nights of the week. There really isn't much you can do to help with that problem. If you want to work with a restaurant, choose a more focused topic such as examining the attractiveness of some particular change the owner is contemplating or assessing customer satisfaction.
+
+-   Avoid a project in which the client's objective is "to attract more customers." Such a project will lack focus and be difficult to carry out.  The project will be more effective if the client has a specific business change under consideration to attract more customers, in which case your project could focus on the likely effectiveness of the proposed change.
+
+-   The assigned reading on Canvas and the page titled "Some Project Guidelines" in the course packet provides additional useful hints for choosing a topic and dealing with a client. If you're having difficulty finding a client, you can contact the University Center for Innovation and Entrepreneurship in Lafferre Hall (Engineering Bldg.), Room W1026. The center may have some clients who need to have a marketing research study conducted.
+
+-   The sample project reports available on Canvas will give you an idea of the scope of the project and may help you decide whether a client you're considering is appropriate.
+
+<br>
 
 # Assignment 3: DEFINE THE RESEARCH PROBLEM
 
@@ -64,13 +160,13 @@ In this assignment, based on your knowledge of marketing, business principle, an
 
 -   Determine what changes would improve incoming freshmen's satisfaction with orientation procedures.
 
-**(6)** a list of research questions for each of the objectives in (5).
+**(6)** a list of research questions for each of the objectives in (5)
 
-[Organize this assignment so that each objective is followed by the research questions that are designed to meet each objective]{.ul}
+-   Organize this assignment so that each objective is followed by the research questions that are designed to meet each objective
 
 The form of research questions will be discussed in class. You can also look at [example term projects]() to see examples of research questions. Some important points to remember are below.
 
--   Research questions are [not]{.ul} the same as questionnaire questions. Questionnaire questions are what you ask the consumer on a survey. Research questions are the questions the **manager** wants answered. Put [research questions only]{.ul} in this assignment. Review lecture and [CE 1 discussion](https://docs.google.com/document/d/1W18sz7sM8zHGAYHnkmGR9-WLqzqgByLP-FZHYNHBC7E/edit?usp=sharing) to make sure your research questions are phrased appropriately. They should [not]{.ul} include any second person pronouns.
+-   Research questions are [not]{.ul} the same as questionnaire questions. Questionnaire questions are what you ask the consumer on a survey. Research questions are the questions the **manager** wants answered. Put [research questions only]{.ul} in this assignment. Review lecture and [CE 1 discussion](https://github.com/mikenguyen13/mar4050_F21/raw/master/CE1%20%20discussion.docx) to make sure your research questions are phrased appropriately. They should [not]{.ul} include any second person pronouns.
 
 -   The research questions should be very **specific**.
 
@@ -82,6 +178,8 @@ The form of research questions will be discussed in class. You can also look at 
 
 **REMEMBER**: When you prepare this assignment, **put each research question directly beneath the objective** the research question it relates to.
 
+<br>
+
 # Assignment 3.5: DEFINE THE RESEARCH PROBLEM - revise and resubmit.
 
 **Please highlight the changes that you made in green**
@@ -92,7 +190,15 @@ Note this project requires meeting with the professor and your team members. See
 
 <!-- For your partner team meeting. See [instruction](https://docs.google.com/document/d/1m85mnPgACTD9ecyACWnMdcLEEbtFJmAMJb8Q2LSNMkg/edit?usp=sharing). -->
 
-The questionnaire is one of the most important parts of the project. Example questionnaires are available ([Nike shoes survey](https://github.com/mikenguyen13/mar4050_F21/raw/master/example_questionaire/9-running%20shoe%20Qnaire.pdf); [Dishwasher](https://github.com/mikenguyen13/mar4050_F21/raw/master/example_questionaire/9-dishwasher%20Qnaire.pdf); [USPS](https://github.com/mikenguyen13/mar4050_F21/raw/master/example_questionaire/9-USPS%20survey.pdf)); examine these for ideas about question wording and format and questionnaire layout. Be sure to also look at [Questionnaire Tips](https://drive.google.com/file/d/1dGOVwNOeMThizUgYtZzf3QJZJX5q5tMB/view?usp=sharing).
+The questionnaire is one of the most important parts of the project.
+
+Example questionnaires are available
+
+-   [Nike shoes survey](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/example_questionaire/9-running%20shoe%20Qnaire.pdf)
+-   [Dishwasher](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/example_questionaire/9-dishwasher%20Qnaire.pdf)
+-   [USPS](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/example_questionaire/9-USPS%20survey.pdf)
+
+You can consult these examples for reference regarding ideas about question wording and format and questionnaire layout. Be sure to also look at [Questionnaire Tips](https://drive.google.com/file/d/1dGOVwNOeMThizUgYtZzf3QJZJX5q5tMB/view?usp=sharing).
 
 For this assignment, complete all steps of the questionnaire design process as covered in class. Make sure your questionnaire has been pretested and revised by this date. The questionnaire you turn in should be your final, best work. Submit the following items on Canvas:
 
@@ -102,17 +208,21 @@ For this assignment, complete all steps of the questionnaire design process as c
 
 -   your final project objectives and list of research questions; the research questions must be numbered
 
--   a completed copy of Questionnaire Worksheet A ([WorksheetA template](https://drive.google.com/file/d/1vrfDBorF-Kpw2NMFrrKtCzHkfDZ2ACbA/view?usp=sharing))
+-   a completed copy of Questionnaire Worksheet A ([WorksheetA template](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/questionaire_worksheet/8-Qnaire%20worksheet%20A.xls))
 
--   a completed copy of Questionnaire Worksheet B ([WorksheetB template](https://drive.google.com/file/d/1Rp-dBjG3i3J8OrqWdRdfXdXkd4SKPYOt/view?usp=sharing))
+-   a completed copy of Questionnaire Worksheet B ([WorksheetB template](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/questionaire_worksheet/8-Qnaire%20worksheet%20B.xls))
 
 The questionnaire must include [screener questions]{.ul} (if relevant) and [a complete set of demographic questions]{.ul} appropriate to the people you are surveying.
+
+<br>
 
 # Assignment 4.5: REVISED COPY OF QUESTIONNAIRE
 
 Revise and resubmit Assignment 4 - Design a questionnaire
 
 Please **highlight** the changes that you made in green on both the questionnaire and the worksheet A and B.
+
+<br>
 
 # Assignment 5: COMPLETE DATA COLLECTION, DATA COLLECTION RESULTS REPORT
 
@@ -132,23 +242,25 @@ If you have trouble finding the downloaded report on your computer, search for "
 
 Submit your results report on Canvas.
 
+<br>
+
 # Assignment 6: DATA ANALYSIS PLAN
 
-Type the data analysis plan for your project that you develop in class into a formal document, using the [Data Analysis Plan template](https://drive.google.com/file/d/1hFg5ipjgmUWCkkyC8wLIaBnNijf8N3if/view?usp=sharing) and the [cheat sheet](https://docs.google.com/spreadsheets/d/14IsWrKChT5sRHDjbgIzI41cA7Q6AzSCYRLGiKQ5yv_k/edit?usp=sharing). [Include at least one difference analysis in your data analysis plan]{.ul}. You can use this [Qualtrics guide](https://drive.google.com/file/d/1uwyQz2LCU0MSYEZJ1oxITdBiomQla9s2/view?usp=sharing) for the difference research questions. You don't need to do the analysis yet, you only need to plan for the analysis.
+Type the data analysis plan for your project that you develop in class into a formal document, using the [Data Analysis Plan template](https://drive.google.com/file/d/1hFg5ipjgmUWCkkyC8wLIaBnNijf8N3if/view?usp=sharing) and the [cheat sheet](https://docs.google.com/spreadsheets/d/14IsWrKChT5sRHDjbgIzI41cA7Q6AzSCYRLGiKQ5yv_k/edit?usp=sharing). [Include at least one group comparison analysis in your data analysis plan]{.ul}. You can use this [Qualtrics guide](https://drive.google.com/file/d/1uwyQz2LCU0MSYEZJ1oxITdBiomQla9s2/view?usp=sharing) for the group comparison research questions. You don't need to do the analysis yet, you only need to plan for the analysis.
 
 Submit your typed data analysis plan on Canvas including:
 
-(2) When class begins, each team member should have in his/her possession the following items to refer to during class:\
+(1) your typed data analysis plan
 
-(3) your typed data analysis plan
+(2) your research questions and research objectives
 
-(4) your research questions and research objectives
+(3) your questionnaire & Questionnaire Worksheet B (updated final version)
 
-(5) your questionnaire & Questionnaire Worksheet B (updated final version)
-
-(6) the Results Report from Qualtrics (see PA 5)
+(4) the Results Report from Qualtrics (see PA 5)
 
 when the actual in-class analysis begins, each team member should have in his/her possession the above items to refer to during class.
+
+<br>
 
 # Assignment 7: INITIAL DATA ANALYSIS REPORT
 
@@ -160,9 +272,9 @@ To answer your research questions, you must analyze your data. In the assignment
 
 3.  You can use the [analysis techniques](https://mailmissouri-my.sharepoint.com/:x:/g/personal/ylb3c_umsystem_edu/EeYgQWvbg3NHsFYaKMe4hqMBRXjaRjkU3IJ7W57lZMwyFA?e=ySDwtD) excel sheet when you do actual analysis.
 
-4.  You can consult the [level of measurement common issues](https://docs.google.com/document/d/1tz06AxAxUWbbhGNhJnae5nunS54TUeoLHgxAQUR4yF8/edit?usp=sharing)for your revision on the level of measurement.
+4.  You can consult the [level of measurement common issues](https://docs.google.com/document/d/1tz06AxAxUWbbhGNhJnae5nunS54TUeoLHgxAQUR4yF8/edit?usp=sharing) for your revision on the level of measurement.
 
-5.  You **should** consult the [Sample student projects](https://drive.google.com/file/d/11SbGxUXGmUYsVaeKNiF-9rb3eXC0oD_h/view?usp=sharing)for its **result session** (from pages 29 to 49) on the **expected PA outputs**. The analysis report is organized by research question and should include the following:
+5.  You **should** consult the [Sample student projects](https://drive.google.com/file/d/11SbGxUXGmUYsVaeKNiF-9rb3eXC0oD_h/view?usp=sharing) for its **result session** (from pages 29 to 49) on the **expected PA outputs**. The analysis report is organized by research question and should include the following:
 
 For each research question
 
@@ -180,11 +292,15 @@ For each research question
 
 You can use an outline format for your report. [Submit the report on Canvas]{.ul}.
 
+<br>
+
 # Assignment 8: ZOOM PRESENTATION PRACTICE
 
 Completing this assignment will also make it easier for your group to record your presentation on Zoom.
 
 To complete this assignment, follow the [Zoom Group Presentation Instructions](https://drive.google.com/file/d/1BnCzV6cRSjRAWeyEYqMz-pPNJucesdJR/view?usp=sharing) and create a 1- to 2-minute presentation on any topic using at least two PowerPoint slides. Upload the recorded presentation. Also prepare and upload a one-paragraph document describing any difficulties you may have encountered and any suggestions you have for improving the instructions. All group members must participate in the presentation for the group to receive credit.
+
+<br>
 
 # Assignment: Extra credit - STATISTICAL TESTS 10 points
 
@@ -194,9 +310,11 @@ You need to apply **up to two analyses** among following statistical tools that 
 
 Follow the same format as the Assignment 7: INITIAL DATA ANALYSIS REPORT on those appropriate research questions.
 
+<br>
+
 # Assignment 9: TERM PROJECT PRESENTATION
 
--   The presentation of your term project should cover the topics described on the [Pointers on Presentations](https://drive.google.com/file/d/1l6GqvR_u2P-iqnb1jpq_uJFzBZ-JkvGp/view?usp=sharing) .
+-   The presentation of your term project should cover the topics described on the [Pointers on Presentations](https://drive.google.com/file/d/1l6GqvR_u2P-iqnb1jpq_uJFzBZ-JkvGp/view?usp=sharing).
 
 -   The presentation must be in PowerPoint format or Google Slides.
 
@@ -214,17 +332,23 @@ On this day:
 
 2)  submit your recorded presentation on Canvas
 
+<br>
+
 # Assignment 10: PRESENTATION CRITIQUE
 
 Prepare a written critique of the presentations of your **paired four other peer teams**, based on their video recording. Details of the critique assignment are described in the "[Presentation Evaluation Form](https://docs.google.com/document/d/15P8bHYcZ5shXgm6F2nqEfhUCn_GbDkQsEE-M41pcWm8/edit)". The video recording for each presentation team is included as a link in the evaluation sheet under each presentation team number.
 
 Upload a screenshot of your task completion to the Canvas assignment.
 
+<br>
+
 # Assignment 11: WRITTEN PROJECT REPORT
 
 [Sample student projects](https://drive.google.com/file/d/11SbGxUXGmUYsVaeKNiF-9rb3eXC0oD_h/view?usp=sharing)are available. [Report format](https://drive.google.com/file/d/1Adk5rI12OYh1BZonfJ2e17XxIiuDr2Tw/view?usp=sharing) and other guidelines are covered in class. See also the material titled "[Project Report Guidelines](https://drive.google.com/file/d/1bstngjXUH-wyNG2QhnN1dWwPfaATyD-Q/view?usp=sharing)".
 
 For this assignment, submit an electronic copy of your report on Canvas.
+
+<br>
 
 # Assignment 12: PEER EVALUATION
 

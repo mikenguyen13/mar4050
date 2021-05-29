@@ -39,6 +39,8 @@ This course will provide students with an understanding of the role of marketing
 
 -   make effective formal presentations
 
+This course has been constructed based on previous notes by professor Marsha Richins, and Frank Lin
+
 <br>
 
 ## **Prerequisites**
@@ -143,7 +145,7 @@ Sample term project report
 
 ## Attendance, Participation, and Professionalism
 
--   This class meets in-person at the scheduled time slot. Students are expected to be present at all class sessions and to participate by asking and answering questions at multiple points during each class session. In other words, attendance is **mandatory**. Failure to do so will result in loss of class participation and attendance points.  Both quality and quantity of contributions are considered in assigning the class participation grade.
+-   This class meets in-person at the scheduled time slot. Students are expected to be present at all class sessions and to participate by asking and answering questions at multiple points during each class session. In other words, attendance is **mandatory**. Failure to do so will result in loss of class participation and attendance points. Both quality and quantity of contributions are considered in assigning the class participation grade.
 
 -   To be excused due to illness, the student must either notify the professor before class of the illness, or provide the instructor with **a doctor's note**.
 
@@ -157,8 +159,7 @@ Sample term project report
 
 -   **Import note on participation**: Your participation points are also recorded by **iClicker in class polls**. Students who are late to class will be marked **absent**. The start and end times for the class are determined by the classroom clock, not the time on students' phones.
 
--   **Import note on professionalism**:Students are expected to act in a professional manner during the class. If over half of your group members rate your performance as poor, professionalism point will automatically be 0. Professionalism includes being on time, being courteous to class members and
-    the instructor, being reliable and conscientious when working on group projects, and other aspects of behavior normally expected of students or employees.
+-   **Import note on professionalism**:Students are expected to act in a professional manner during the class. If over half of your group members rate your performance as poor, professionalism point will automatically be 0. Professionalism includes being on time, being courteous to class members and the instructor, being reliable and conscientious when working on group projects, and other aspects of behavior normally expected of students or employees.
 
 <br>
 
@@ -188,7 +189,7 @@ If you have special needs as addressed by the Americans with Disabilities Act an
 
 <br>
 
-# Policy on Discrimination 
+# Policy on Discrimination
 
 *We have **no tolerance** for discrimination or acts of hate in our community and encourage robust, respectful dialogue and interactions. No matter where you come from, no matter your race, gender, identity, preference or idea & perspective, we all come together to learn, and everyone deserves to be treated with respect and to thrive. If anyone experiences discrimination or harassment, we encourage them to report it to our campus [Offices of Civil Rights](https://www.umsystem.edu/ums/dei/titleix/title_ix_offices) and Title IX at civilrights-titleix\@missouri.edu.*
 
@@ -210,9 +211,9 @@ MU cares about the health and safety of its students, faculty, and staff. To pro
 
 -   Online office hours will be available for all students.
 
-Compliance with these guidelines is required for all; anyone who fails to comply will be subject to the[ accountability process](https://accountability.missouri.edu/accountability/conduct-process/), as stated in the University's[ Collected Rules and Regulations](https://www.umsystem.edu/ums/rules/collected_rules/programs/ch200), Chapter 200 Student Code of Conduct.
+Compliance with these guidelines is required for all; anyone who fails to comply will be subject to the[accountability process](https://accountability.missouri.edu/accountability/conduct-process/), as stated in the University's [Collected Rules and Regulations](https://www.umsystem.edu/ums/rules/collected_rules/programs/ch200), Chapter 200 Student Code of Conduct.
 
-If an instructor has concerns about how a student is following COVID-19 policies and protocols, please report those concerns to the Office of the Dean of Students. You can fill out a COVID Safety Measures Reporting Form here:[ https://cm.maxient.com/reportingform.php?UnivofMissouriSystem&layout_id=38](https://cm.maxient.com/reportingform.php?UnivofMissouriSystem&layout_id=38)
+If an instructor has concerns about how a student is following COVID-19 policies and protocols, please report those concerns to the Office of the Dean of Students. You can fill out a COVID Safety Measures Reporting Form here:<https://cm.maxient.com/reportingform.php?UnivofMissouriSystem&layout_id=38>
 
 By taking the above measures, we are supporting your health and that of the whole Mizzou community. Thank you in advance for joining me and your peers in adhering to these safety measures.
 
