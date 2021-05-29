@@ -1,0 +1,252 @@
+---
+title: "Project Assignments (PA) and Due Dates"
+output:
+  pdf_document: default
+  html_notebook: default
+urlcolor: blue
+---
+
+The term project is designed to provide you with firsthand experience in designing and carrying out a marketing research project. The project is divided into n assignments, described below. Each completed assignment should be submitted by the date and time specified below. All components of an assignment must be turned in to receive full credit.
+
+# Assignment 1: GROUP FORMATION
+
+Your group will work together extensively throughout the semester to complete a term research project. There are four to five members per group. You may choose the members of your group or have the instructor assign you to a group. During the first two class sessions there will be small group breakout sessions that will allow you to get to know some of your classmates.
+
+Submit this assignment on Canvas and indicate:
+
+a) Title your assignment word document file name with **'Group & team captain's initials'** if you and **three or four** other classmates have formed a team (maximum 5 people in a team). For example, if your team captain is Michael Jordan then you will title your word document as 'Group MJ'. In the word document to be submitted, please include the identity of your teammates including your name in descending order of the first name.
+
+b) Title your assignment word document file name with **'Random & your initial'** if you would like the instructor to assign you to a team.
+
+This assignment needs to be submitted individually by each student in the class.
+
+# Assignment 2: TEAM ORIENTATION; PROJECT TOPIC CHOICES
+
+On this day, your group should submit the two items below on Canvas.
+
+**(1)** Completed [Team Orientation Assignment](), including the group project contract.
+
+**(2)** Your group's first, second, and third choices for a project topic, from the [project topic list](). You may also propose a topic of your own. If you wish to propose a topic, provide some details so your instructor can evaluate whether the proposed project would work for this class.
+
+The instructor will make every attempt to assign your group its first choice for project topic, but that may not be possible if other groups have the same first choice. The instructor will notify you of your group's final topic assignment.
+
+# Assignment 3: DEFINE THE RESEARCH PROBLEM
+
+Note this project requires meeting with the professor. See the [signup sheet](https://docs.google.com/spreadsheets/d/13Y4uTVFiYiVHVRIfo_7YZZAFuL6Z6JDR3gUXydcBqK8/edit?usp=sharing).
+
+Note: the PA is highly similar to our [CE1 discussion]().
+
+Your project topic is typical of the kind of problem or decision facing a local business or nonprofit organization. Your group's role is to act as marketing consultants to the business described by your topic.
+
+In this assignment, based on your knowledge of marketing, business principle, and the student population, you will set at least two research objectives for your research project and a set of research questions for each objective that your project will answer. Your assignment should include the following elements:
+
+**(1)** a general statement of the client's problem that the client hopes to solve with the information you will provide in your report.
+
+**(2)** the decision(s) to be made by your client based on your research, and the decision alternatives
+
+**(3)** the target for the decision(s) to be made--is the goal to increase satisfaction/patronage of existing customers or is it to bring new customers to the business. You ***must*** choose ONE of these; for this project, you cannot do both.
+
+**(4)** the client's ***managerial objectives*** for the research project (may overlap with 1 and 2 above)
+
+ * **NOTE regarding managerial and research objectives**:
+A managerial objective is what the client hopes will result from the research project; examples might be (a) "to develop a more effective advertising campaign" or (b) "to increase the number of college students who shop at our store." A research objective is different from a managerial objective. Your research objective should be to provide information that will help your client reach his/her managerial objective. For the managerial objective in example (a) above, a good research objective might be "to determine which media college students are exposed to most frequently, and which media most strongly influence their purchase behavior." You must provide both a managerial objective (in part 4) and a research objective (in part 5, next) in this assignment.
+
+**(5)** your project's ***research objective(s)***. Your project needs to have at least two research objectives. Some examples are listed below:
+
+ * Assess Columbia residents' awareness and knowledge about a local specialty grocery store that carries international foods.
+
+ * Identity the best media for the store to use to increase awareness.
+
+ * Determine whether customers would like a local restaurant to add a deck for outside dining and how often they would use it.
+
+ * Identify what features customers desire for the deck.
+
+ * Find out how satisfied incoming freshmen are with Mizzou's orientation procedures.
+
+ * Determine what changes would improve incoming freshmen's satisfaction with orientation procedures.
+
+**(6)** a list of research questions for each of the objectives in (5).
+
+
+Organize this assignment so that each objective is followed by the research questions that are designed to meet each objective
+
+The form of research questions will be discussed in class. You can also look at [example term projects]() to see examples of research questions. Some important points to remember are below.
+
+ * Research questions are [not]{.ul} the same as questionnaire questions. Questionnaire questions are what you ask the consumer on a survey. Research questions are the questions the **manager** wants answered. Put [research questions only]{.ul} in this assignment. Review lecture and [CE 1 discussion](https://docs.google.com/document/d/1W18sz7sM8zHGAYHnkmGR9-WLqzqgByLP-FZHYNHBC7E/edit?usp=sharing) to make sure your research questions are phrased appropriately. They should [not]{.ul} include any second person pronouns.
+
+ * The research questions should be very **specific**.
+
+ * You need at least 10 research questions. You can also include a few additional, less important research questions in case there is space for them in the project.
+
+ *  **At least one of your research questions must be a group comparison research question** in which you compare groups of people among your respondents. For instance, you might compare heavy or light users of a product; compare students living in three different areas of Columbia with respect to their interest in a particular type of store; compare new versus established customers' brand perceptions, etc. This is called a group comparison research question. [**Clearly identify which of your research questions is intended to be a group comparison research question**]{.ul}**.**
+
+ * Number the research questions so they are easy to refer to.
+
+**REMEMBER**: When you prepare this assignment, **put each research question directly beneath the objective** the research question relates to.
+
+# Assignment 3.5: DEFINE THE RESEARCH PROBLEM - revise and resubmit.
+
+**Please highlight the changes that you made in green**
+
+# Assignment 4: DESIGN A QUESTIONNAIRE
+
+Note this project requires meeting with the professor and your team partner. See the [signup sheet](https://docs.google.com/spreadsheets/d/13Y4uTVFiYiVHVRIfo_7YZZAFuL6Z6JDR3gUXydcBqK8/edit?usp=sharing).
+
+<!-- For your partner team meeting. See [instruction](https://docs.google.com/document/d/1m85mnPgACTD9ecyACWnMdcLEEbtFJmAMJb8Q2LSNMkg/edit?usp=sharing). -->
+
+The questionnaire is one of the most important parts of the project. Example questionnaires are available ([Nike shoes survey](https://drive.google.com/file/d/1YC7DYzWoMJi5D4VCpxJXk6UnF3V0ulbY/view?usp=sharing); [Dishwasher](https://drive.google.com/file/d/14Qp1kfQeag24Vm8BaKgNddutu1ATrLCE/view?usp=sharing); [USPS](https://drive.google.com/file/d/1HV57BD18qExAQtescZEaf_At-ou6HTOU/view?usp=sharing)); examine these for ideas about question wording and format and questionnaire layout. Be sure to also look at [Questionnaire Tips](https://drive.google.com/file/d/1dGOVwNOeMThizUgYtZzf3QJZJX5q5tMB/view?usp=sharing).
+
+For this assignment, complete all steps of the questionnaire design process as covered in class. Make sure your questionnaire has been pretested and revised by this date. The questionnaire you turn in should be your final, best work. Submit the following items on Canvas:
+
+ * the message you will use to introduce the survey and ask for participation; put these on a separate page from your questionnaire
+
+ *  your questionnaire (downloaded from Qualtrics)
+ 
+ * your final project objectives and list of research questions; the research questions must be numbered
+
+ * a completed copy of Questionnaire Worksheet A ([WorksheetA template](https://drive.google.com/file/d/1vrfDBorF-Kpw2NMFrrKtCzHkfDZ2ACbA/view?usp=sharing))
+
+ * a completed copy of Questionnaire Worksheet B ([WorksheetB template](https://drive.google.com/file/d/1Rp-dBjG3i3J8OrqWdRdfXdXkd4SKPYOt/view?usp=sharing))
+
+
+The questionnaire must include [screener questions]{.ul} (if relevant) and [a complete set of demographic questions]{.ul} appropriate to the people you are surveying.
+
+# Assignment 4.5: REVISED COPY OF QUESTIONNAIRE
+
+Revise and resubmit Assignment 4 - Design a questionnaire
+
+Please **highlight** the changes that you made in green on both the questionnaire and the worksheet A and B.
+
+# Assignment 5: COMPLETE DATA COLLECTION, DATA COLLECTION RESULTS REPORT
+
+Complete your data collection. Each team will need 160\~200 completed questionnaires to have enough sample size to do the subsequent data analysis.
+
+Prepare a results report in Qualtrics. Go to Projects in Qualtrics and do the
+following to get your report.
+
+1.  Select your project and then click on Reports (in the gray bar
+    near the top).
+
+2.  Click the button for Share Report (toward the upper right) and
+    select Word Document.
+
+3.  Be sure that Select All is checked in the dialog box that
+    appears; click Export Pages.
+
+4.  In the box that appears, click Download (may take a few seconds
+    to appear)
+
+
+If you have trouble finding the downloaded report on your computer, search for "Default Report.docx"
+
+Submit your results report on Canvas.
+
+
+# Assignment 6: DATA ANALYSIS PLAN
+
+Type the data analysis plan for your project that you develop in class into a formal document, using the [Data Analysis Plan template](https://drive.google.com/file/d/1hFg5ipjgmUWCkkyC8wLIaBnNijf8N3if/view?usp=sharing) and the [cheat sheet](https://docs.google.com/spreadsheets/d/14IsWrKChT5sRHDjbgIzI41cA7Q6AzSCYRLGiKQ5yv_k/edit?usp=sharing). [Include at least one difference analysis in your data analysis plan]{.ul}. You can use this [Qualtrics guide](https://drive.google.com/file/d/1uwyQz2LCU0MSYEZJ1oxITdBiomQla9s2/view?usp=sharing) for the difference research questions. You don't need to do the analysis yet, you only need to plan for the analysis.
+
+Submit your typed data analysis plan on Canvas
+including:
+
+(2) When class begins, each team
+member should have in his/her possession the following items to refer to during
+class:\
+
+ (1) your typed data analysis plan
+
+ (2) your research questions and research objectives
+
+ (3) your questionnaire & Questionnaire Worksheet B (updated final version)
+
+ (4) the Results Report from Qualtrics (see PA 5)
+
+when the actual in-class analysis begins, each team member should have in his/her possession the above items to refer to during class.
+
+# Assignment 7: INITIAL DATA ANALYSIS REPORT
+
+To answer your research questions, you must analyze your data. In the assignment, you will conduct the analyses to answer your research questions and summarize the results in a pdf document. [Be sure to number the pages on this document]{.ul}. You can consult the following documents that we went through in class:
+
+1. You can use this [Qualtrics guide](https://drive.google.com/file/d/1uwyQz2LCU0MSYEZJ1oxITdBiomQla9s2/view?usp=sharing) for the difference research questions.
+
+2. You can use the lecture slides [Descriptive Statistics (means, frequencies, crosstabs)](https://drive.google.com/file/d/128nJxj9V3o4HOVajncStfItfAEcNjPPo/view?usp=sharing) for the difference questions bar-charts.
+
+3. You can use the [analysis techniques](https://mailmissouri-my.sharepoint.com/:x:/g/personal/ylb3c_umsystem_edu/EeYgQWvbg3NHsFYaKMe4hqMBRXjaRjkU3IJ7W57lZMwyFA?e=ySDwtD) excel sheet when you do actual analysis.
+
+4. You can consult the [level of measurement common issues](https://docs.google.com/document/d/1tz06AxAxUWbbhGNhJnae5nunS54TUeoLHgxAQUR4yF8/edit?usp=sharing)for your revision on the level of measurement.
+
+5. You **should** consult the [Sample student projects](https://drive.google.com/file/d/11SbGxUXGmUYsVaeKNiF-9rb3eXC0oD_h/view?usp=sharing)for its **result session** (from pages 29 to 49) on the **expected PA outputs**. The analysis report is organized by research question and should include the following:
+
+For each research question
+
+ * write out the research question
+
+ * indicate which questionnaire question answers the research question
+
+ * indicate the statistical test used to answer the question (percent, crosstabulation, etc.)
+
+ * briefly describe the answer to the research question.
+
+ * for each research question, copy and paste the relevant part of the Qualtrics Results Report into your document.
+
+ * add bar chart to visualize the results.
+
+You can use an outline format for your report. [Submit the report on Canvas]{.ul}.
+
+
+# Assignment 8: ZOOM PRESENTATION PRACTICE
+
+Completing this assignment will also make it easier for your group to record your presentation on Zoom.
+
+To complete this assignment, follow the [Zoom Group Presentation Instructions](https://drive.google.com/file/d/1BnCzV6cRSjRAWeyEYqMz-pPNJucesdJR/view?usp=sharing) and create a 1- to 2-minute presentation on any topic using at least two PowerPoint slides. Upload the recorded presentation. Also prepare and upload a one-paragraph document describing any difficulties you may have encountered and any suggestions you have for improving the instructions. All group members must participate in the presentation for the group to receive credit.
+
+# Assignment: Extra credit - STATISTICAL TESTS 10 points
+
+Completing this assignment will gain your ten extra points in total or five points per analysis.
+
+You need to apply **up to two analyses** among following statistical tools that we covered for second exam: a) confidence interval for mean b) confidence interval for percent c) independent t test d) two way chi-square test
+
+Follow the same format as the Assignment 7: INITIAL DATA ANALYSIS REPORT on those appropriate research questions.
+
+# Assignment 9: TERM PROJECT PRESENTATION
+
+ * The presentation of your term project should cover the topics described on the [Pointers on Presentations](https://drive.google.com/file/d/1l6GqvR_u2P-iqnb1jpq_uJFzBZ-JkvGp/view?usp=sharing) .
+ * The presentation must be in PowerPoint format or Google Slides.
+
+ * While
+preparing the presentation, carefully read and follow the Pointers on
+Presentations and review [the slides design tips](https://docs.google.com/presentation/d/1_m1OiODqh4sBpi_l7z48I2HBGVlkeZyHwtQSsHfKiBQ/edit?usp=sharing) and the [sample student presentation
+slides](https://drive.google.com/file/d/1GqAk7a7LGjmu1cIIae8i3ljUNnj_PFmh/view?usp=sharing) for reference.
+
+ * The presentation should last between 12 and 15 minutes. If you go under or over this time frame,
+there is a grade deduction of 1 point per minute.
+
+ * Your presentation will be graded on the criteria described in "[Presentation Evaluation Form](https://docs.google.com/document/d/15P8bHYcZ5shXgm6F2nqEfhUCn_GbDkQsEE-M41pcWm8/edit)."
+
+ * You are responsible for recording your presentation using Zoom ([Zoom Group Presentation Instructions](https://drive.google.com/file/d/1BnCzV6cRSjRAWeyEYqMz-pPNJucesdJR/view?usp=sharing)). Your group can use a Zoom meeting to practice your presentation and then record the final presentation when you're ready. Make sure you **name the recording file with your group number in the format of .mp4**. For example, group 1's recording should be 'Group1_presentation.mp4'.
+
+
+On this day:
+
+1) submit your presentation PowerPoint deck on
+Canvas
+
+2) submit your recorded presentation on Canvas
+
+# Assignment 10: PRESENTATION CRITIQUE
+
+Prepare a written critique of the presentations of your **paired four other peer teams**, based on their video recording. Details of the critique assignment are described in the "[Presentation Evaluation Form](https://docs.google.com/document/d/15P8bHYcZ5shXgm6F2nqEfhUCn_GbDkQsEE-M41pcWm8/edit)". The video recording for each presentation team is included as a link in the evaluation sheet under each presentation team number.
+
+Upload a screenshot of your task completion to the Canvas assignment.
+
+# Assignment 11: WRITTEN PROJECT REPORT
+
+[Sample student projects ](https://drive.google.com/file/d/11SbGxUXGmUYsVaeKNiF-9rb3eXC0oD_h/view?usp=sharing)are available.
+[Report format](https://drive.google.com/file/d/1Adk5rI12OYh1BZonfJ2e17XxIiuDr2Tw/view?usp=sharing) and other guidelines are covered in class. See also the material titled "[Project Report Guidelines](https://drive.google.com/file/d/1bstngjXUH-wyNG2QhnN1dWwPfaATyD-Q/view?usp=sharing)".
+
+For this assignment, submit an electronic copy of your report on Canvas.
+
+# Assignment 12: PEER EVALUATION
+
+In this assignment, you will evaluate your own performance throughout the project and that of other members of your group. [Download the form](https://drive.google.com/file/d/1iT28wwc3_JtopOyo9vk7JSqjILl1LzPi/view?usp=sharing), complete it, then submit on Canvas. on this date. If this form is not submitted, you may receive an incomplete grade for the course.
+

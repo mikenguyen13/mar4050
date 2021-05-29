@@ -21,6 +21,8 @@ Office Hours: By appointment
 
 Course packet, College of Business Copy Center (required---will be used in almost every class meeting)
 
+[Auto-access Trouble Shoot](https://github.com/mikenguyen13/mar4050_F21/raw/master/Autoaccess_troubleshoot.docx)
+
 <br>
 
 # Course Objectives
@@ -166,7 +168,7 @@ Sample term project report
 
 -   Late assignments are eligible for up to 50% of total points if they are turned in with 24 hours of the due date; after that, no credit will be given for late assignments. To be considered, any requests to re-grade an assignment must be made within one week after the grade has been posted on Canvas.
 
--   ***Project Assignments*** (PA) are described in the course packet immediately following the syllabus. They are to be completed by group members and turned in on the due dates shown.
+-   ***Project Assignments*** (PA) are described in the course packet immediately following the syllabus. They are to be completed by group members and turned in on the due dates shown. To be considered, any requests to re-grade an assignment must be made within one week after the grade has been posted on Canvas.
 
 -   ***Discussion Cases*** are [individual]{.ul} exercises to be completed on your own and form the basis for our class discussions. They need to be completed before class meets, and you will be called upon at various times throughout the semester to discuss your work on these exercises. Your work on these exercises will not be collected, but if you're unable to discuss your work when called upon, your participation grade will be negatively affected.
 
@@ -183,6 +185,36 @@ Academic honesty is fundamental to the activities and principles of a university
 # Special Needs
 
 If you have special needs as addressed by the Americans with Disabilities Act and need assistance, you must notify the instructor by the second week of the semester. To request academic accommodations, students must also register with Disability Services, AO38 Brady Commons, 882-4696. It is the campus office responsible for reviewing documentation provided by students requesting academic accommodations, and for accommodations planning in cooperation with students and instructors, as needed and consistent with course requirements.
+
+<br>
+
+# Policy on Discrimination 
+
+*We have **no tolerance** for discrimination or acts of hate in our community and encourage robust, respectful dialogue and interactions. No matter where you come from, no matter your race, gender, identity, preference or idea & perspective, we all come together to learn, and everyone deserves to be treated with respect and to thrive. If anyone experiences discrimination or harassment, we encourage them to report it to our campus [Offices of Civil Rights](https://www.umsystem.edu/ums/dei/titleix/title_ix_offices) and Title IX at civilrights-titleix\@missouri.edu.*
+
+<br>
+
+# **Decreasing the Risk of COVID-19 in Classrooms and Labs**
+
+MU cares about the health and safety of its students, faculty, and staff. To provide safe, high-quality education amid COVID-19, we will follow several specific campus policies in accordance with the advice of the Center for Disease Control and Boone County health authorities. This statement will be updated as information changes.
+
+-   **If you are experiencing any COVID-related symptoms,** or are otherwise feeling unwell, do not attend in-person classes and contact your health care provider and/or student health immediately. COVID symptoms include: fever greater than 100.4 or chills; cough, shortness of breath or difficulty breathing; fatigue; unexplained muscle or body aches; headache; new loss of taste or smell; sore throat; congestion or runny nose; nausea or vomiting; diarrhea.
+
+-   We will all wear **face coverings while in the classroom**, unless you have a documented exemption due to a disability or medical condition.
+
+-   We will maintain a **6-foot distance from each other at all times** (except in specific lab/studio courses with other specific guidelines for social distancing).
+
+-   We will enter the classroom and **fill the room starting at the front, filing all the way across a row**. When class ends, we will exit the row nearest to the door first; the instructor or TA will give the signal for the next row to exit, in the same manner.
+
+-   In any small section or lab class that requires them, **additional measures will be listed in the syllabus and be mandatory for class participation**.
+
+-   Online office hours will be available for all students.
+
+Compliance with these guidelines is required for all; anyone who fails to comply will be subject to the[ accountability process](https://accountability.missouri.edu/accountability/conduct-process/), as stated in the University's[ Collected Rules and Regulations](https://www.umsystem.edu/ums/rules/collected_rules/programs/ch200), Chapter 200 Student Code of Conduct.
+
+If an instructor has concerns about how a student is following COVID-19 policies and protocols, please report those concerns to the Office of the Dean of Students. You can fill out a COVID Safety Measures Reporting Form here:[ https://cm.maxient.com/reportingform.php?UnivofMissouriSystem&layout_id=38](https://cm.maxient.com/reportingform.php?UnivofMissouriSystem&layout_id=38)
+
+By taking the above measures, we are supporting your health and that of the whole Mizzou community. Thank you in advance for joining me and your peers in adhering to these safety measures.
 
 <br>
 
