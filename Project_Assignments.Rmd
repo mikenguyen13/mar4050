@@ -489,7 +489,7 @@ On the day of your presentation [before 9:00 am,  submit your presentation Powe
 -   The presentation should last between 12 and 14 minutes. If you go under or over this time frame, there is a grade deduction of 1 point per minute. The class will have an opportunity to ask you
     questions following your presentation.
 
--   Your presentation will be graded on the criteria described in "[Presentation Evaluation Form](https://docs.google.com/document/d/15P8bHYcZ5shXgm6F2nqEfhUCn_GbDkQsEE-M41pcWm8/edit)."
+-   Your presentation will be graded on the criteria described in "[Presentation Evaluation Form](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/Presentation%20Evaluation%20Assignment.docx)."
 
 -   You are responsible for practicing your presentation on the classroom equipment before presentation day and making sure that everyone in the group is familiar with how the equipment works.
 
