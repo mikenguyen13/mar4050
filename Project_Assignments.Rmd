@@ -32,13 +32,9 @@ This assignment needs to be submitted individually by each student in the class.
 
 On this day, your group should submit the two items below on Canvas.
 
-**(1)** Completed [Team Orientation Assignment](), including the group project contract.
+**(1)** Completed [Team Orientation Assignment](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/Team%20Orientation.docx), including the group project contract.
 
 **(2)** Your group's client sponsor nominations (see underlined material below).
-
-**(2)** Your group's first, second, and third choices for a project topic, from the [project topic list](). You may also propose a topic of your own. If you wish to propose a topic, provide some details so your instructor can evaluate whether the proposed project would work for this class.
-
-The instructor will make every attempt to assign your group its first choice for project topic, but that may not be possible if other groups have the same first choice. The instructor will notify you of your group's final topic assignment.
 
 **Nominating Client Sponsors**
 
@@ -126,6 +122,30 @@ Final client selection will be done in consultation with the instructor.
 
 <br>
 
+**Hints for topics while talking to clients**
+
+1\. What is the product/service being provided?
+
+2\. What is special 'unique about the product/service?
+
+3\. Does the client know who their competition is?
+
+4\. Is there a special group of people (such as college students) that the product/service is meant for? Are there different groups of people that the client thinks use their product/service?
+
+5\. Does the client think the different groups think of their product/service differently?
+
+6\. What information does the client hope to get from this project? Do they want this information?
+
+7\. What are the different things that the client wants to know? Prioritize these questions.
+
+8\. What decisions will the client make using the information above? There should be several alternatives that you should get from the client for this decision- e.g., where to advertise their product is the decision that will be aided by your project. The decision alternatives would be advertising in Add Sheet, Columbia Tribune, Missourian, Radio, Television etc.
+
+9\. Is the information asked for in item 6 above the best information to make decision in item 8?
+
+10 Create a sample data set (with made up data) and ask the client if this is what they had in mind. This should be done in the second meeting.
+
+<br>
+
 # Assignment 3: DEFINE THE RESEARCH PROBLEM (9/ )
 
 Note this project requires meeting with the professor. See the [signup sheet](https://docs.google.com/spreadsheets/d/13Y4uTVFiYiVHVRIfo_7YZZAFuL6Z6JDR3gUXydcBqK8/edit?usp=sharing).
@@ -182,8 +202,7 @@ The form of research questions will be discussed in class. You can also look at 
 
 This assignment develops the scope of your project, so you must complete your interview with your client before preparing this assignment. Every effort should be made for [***all***]{.ul} group members to meet with the client, not just one or two.
 
-You will meet with the instructor on the due date. Bring [5 copies]{.ul} of this assignment to your meeting. Your double-spaced,
-typewritten paper (1-2 pages) should include the following:
+You will meet with the instructor on the due date. Bring [5 copies]{.ul} of this assignment to your meeting. Your double-spaced, typewritten paper (1-2 pages) should include the following:
 
 **(1)** the name of the client business and the contact person you interviewed
 
@@ -211,16 +230,15 @@ Find out how satisfied incoming freshmen are with Mizzou's orientation procedure
 
 **REMEMBER**: When you prepare this assignment**, put each research question directly beneath the objective** the research questions relates to.
 
- * Research questions are [not]{.ul} the same as questionnaire questions. Questionnaire questions are what you ask the consumer on a survey. Research questions are the questions the **manager** wants answered. Put [research questions only]{.ul} in this assignment. Review lecture and course packet materials to make sure your research questions are phrased appropriately. They should [not]{.ul} include any second person pronouns.
+-   Research questions are [not]{.ul} the same as questionnaire questions. Questionnaire questions are what you ask the consumer on a survey. Research questions are the questions the **manager** wants answered. Put [research questions only]{.ul} in this assignment. Review lecture and course packet materials to make sure your research questions are phrased appropriately. They should [not]{.ul} include any second person pronouns.
 
- * The research questions should be very specific.
+-   The research questions should be very specific.
 
- * You'll probably need about 10 research questions. You can also include a few, less important research questions in case there is space for them in the project.
+-   You'll probably need about 10 research questions. You can also include a few, less important research questions in case there is space for them in the project.
 
- * At least one of your research questions must be a differences research question in which you compare groups of people among your respondents. For instance, you might compare heavy or light users of a product; compare younger, middle-aged, and older consumers with respect to their interest in a particular type of store; compare new versus established customers' brand perceptions, etc. This is called a differences research question. [Clearly identify which of
-your research questions is intended to be a differences research question]{.ul}.
+-   At least one of your research questions must be a differences research question in which you compare groups of people among your respondents. For instance, you might compare heavy or light users of a product; compare younger, middle-aged, and older consumers with respect to their interest in a particular type of store; compare new versus established customers' brand perceptions, etc. This is called a differences research question. [Clearly identify which of your research questions is intended to be a differences research question]{.ul}.
 
- * Number the research questions so they are easy to refer to.
+-   Number the research questions so they are easy to refer to.
 
 **(9)** before turning in the assignment, have your client review your objectives and research questions and make any requested changes.
 
@@ -264,31 +282,81 @@ For this assignment, complete all steps of the questionnaire design process as c
 
 The questionnaire must include [screener questions]{.ul} (if relevant) and [a complete set of demographic questions]{.ul} appropriate to the people you are surveying.
 
-
 <br>
 
+For this assignment, complete the questionnaire design process through Step \#8. Make sure your questionnaire has been pretested and revised by this date. The questionnaire you turn in should be your final, best work. On this date, bring to class the items listed below. The required number of each of these items must be available at the beginning of class.
 
-For this assignment, complete the questionnaire design process through Step #8.  Make sure your questionnaire has been pretested and revised by this date.  The questionnaire you turn in should be your final, best work.   On this date, bring to class the items listed below.  The required number of each of these items must be available at the beginning of class.
+    •   the oral instructions you will use to introduce the survey, including any qualifier or screener questions; put these on a separate page from your questionnaire
+    •   five (5) blank copies of your questionnaire 
+    •   five (5) copies of your final project objectives and list of research questions; the research questions must be numbered
+    •   one completed copy of Questionnaire Worksheet A (a template is available on Canvas)
+    •   one completed copy of Questionnaire Worksheet B (template also available on Canvas) 
 
-	•	the oral instructions you will use to introduce the survey, including any qualifier or screener questions; put these on a separate page from your questionnaire
-	•	five (5) blank copies of your questionnaire	
-	•	five (5) copies of your final project objectives and list of research questions; the research questions must be numbered
-	•	one completed copy of Questionnaire Worksheet A (a template is available on Canvas)
-	•	one completed copy of Questionnaire Worksheet B (template also available on Canvas)	
+Unless an exception is granted by the instructor, the questionnaire should fit on the front and back of a single sheet of letter size paper. It must include a complete set of demographic questions appropriate to the people you are surveying.
 
-Unless an exception is granted by the instructor, the questionnaire should fit on the front and back of a single sheet of letter size paper.  It must include a complete set of demographic questions appropriate to the people you are surveying.  
+Also, plan a meeting with your client in which you show the client your final problem definition and a copy of your questionnaire. At this meeting, have the client sign the Project Review Statement (p. 12-1 of course packet). You will turn in this signed statement when you turn in PA \#6.
 
-Also, plan a meeting with your client in which you show the client your final problem definition and a copy of your questionnaire.  At this meeting, have the client sign the Project Review Statement (p. 12-1 of course packet).  You will turn in this signed statement when you turn in PA #6.
+# Assignment 5: CLIENT CHECK, REVISED COPY OF QUESTIONNAIRE, SAMPLING PLAN, AND MEETING WITH INSTRUCTOR ()
 
+On this date, turn in the following items on Canvas:
 
+-   the message you will use to introduce the survey and ask for participation; put these on a separate page from your questionnaire
 
+-   the final version of your questionnaire, which has been revised based on classmates' reviews of your questionnaire
 
+-   your final project objectives and list of research questions; the research questions must be numbered
 
-# Assignment 4.5: REVISED COPY OF QUESTIONNAIRE
+-   a revised copy of Questionnaire Worksheet A, incorporating changes made to the questionnaire based on the classroom review
+
+-   a revised copy of Questionnaire Worksheet B, incorporating changes made
+
+-   your sampling plan
+
+Also on this date your group will have a meeting with your instructor to review your questionnaire and your group's sampling plan. Bring printed copies of the following materials to this meeting:
+
+(1)  Project Review Statement (p. 12-1, course packet) signed by group members and the client
+
+(2)  Sampling Plan (3 printed copies)
+
+(3)  Questionnaire (3 printed copies)
+
+The sampling plan is a complete description of how you will choose individuals to participate in your survey.  Sampling plans have been described in class and an example sampling plan are included in this packet.  Before completing the sampling plan, review the Sampling Plan Checklist in the course packet (p. 11-10)   The plan may be presented in outline form.  Your sampling plan must include a completed time sampling grid (typed). 
 
 Revise and resubmit Assignment 4 - Design a questionnaire
 
 Please **highlight** the changes that you made in green on both the questionnaire and the worksheet A and B.
+
+<br>
+
+# Assignment 6: CODEBOOK PREPARED ()
+
+Prepare a codebook for entering your survey data into Excel.  Submit your codebook on Canvas.
+
+<br>
+
+# Assignment 7: DATA COLLECTION UNDERWAY ()
+
+Also by this date, you should have obtained completed questionnaires from at least 8 respondents.  Respondents must be chosen according to your sampling plan.  Photograph the front page of each completed questionnaire and submit the photos on Canvas.  The remaining data collection needs to be completed by the Assignment \#7 due date.
+
+<br>
+
+# Assignment 8: DATA COLLECTION COMPLETED, EXCEL DATA FILE PREPARED ()
+
+Your data collection must be completed by this date and your data entered into an Excel spreadsheet.  Turn in your Excel spreadsheet on Canvas.
+
+[Make sure that at least everyone in your group have access to the complete data file]{.ul}.
+
+<br>
+
+# Assignment 9: PREPARE FOR DATA ANALYSIS
+
+This assignment requires no new work by team members.  However, when class begins, each team member should have in his/her possession the following items to refer to during class:
+
+-   your final list of research questions (numbered)
+
+-   the final version of your team's questionnaire
+
+-   Questionnaire Worksheet B (updated final version)
 
 <br>
 
@@ -312,7 +380,7 @@ Submit your results report on Canvas.
 
 <br>
 
-# Assignment 6: DATA ANALYSIS PLAN
+# Assignment 10: DATA ANALYSIS PLAN ()
 
 Type the data analysis plan for your project that you develop in class into a formal document, using the [Data Analysis Plan template](https://drive.google.com/file/d/1hFg5ipjgmUWCkkyC8wLIaBnNijf8N3if/view?usp=sharing) and the [cheat sheet](https://docs.google.com/spreadsheets/d/14IsWrKChT5sRHDjbgIzI41cA7Q6AzSCYRLGiKQ5yv_k/edit?usp=sharing). [Include at least one group comparison analysis in your data analysis plan]{.ul}. You can use this [Qualtrics guide](https://drive.google.com/file/d/1uwyQz2LCU0MSYEZJ1oxITdBiomQla9s2/view?usp=sharing) for the group comparison research questions. You don't need to do the analysis yet, you only need to plan for the analysis.
 
@@ -330,7 +398,21 @@ when the actual in-class analysis begins, each team member should have in his/he
 
 <br>
 
-# Assignment 7: INITIAL DATA ANALYSIS REPORT
+# Assignment 11: MID-SEMESTER PEER EVALUATION
+
+In this assignment, you will evaluate your own performance throughout the project and that of other members of your group on the major project assignments completed so far.  A Word version of the evaluation form is available on Canvas.  Download the form, complete it, then submit on Canvas.
+
+This evaluation is confidential and will not be shared with group members.  However, if you have a concern about your level of contribution to the project, or the contribution of another group member, you are encouraged to discuss this with your group.  Regardless, it is a good time of the semester to take a few minutes of a regularly scheduled group meeting to discuss the following issues:
+
+-   is communication in the group working effectively? Are there ways it could be improved?
+
+-   is everyone doing their fair share of work?  Is anyone feeling over-burdened?
+
+-   what significant contributions has each group member made to the project so far?
+
+-   what changes could each group member make to enhance group functioning?
+
+# Assignment 12: INITIAL DATA ANALYSIS REPORT
 
 To answer your research questions, you must analyze your data. In the assignment, you will conduct the analyses to answer your research questions and summarize the results in a pdf document. [Be sure to number the pages on this document]{.ul}. You can consult the following documents that we went through in class:
 
@@ -362,11 +444,15 @@ You can use an outline format for your report. [Submit the report on Canvas]{.ul
 
 <br>
 
-# Assignment 8: ZOOM PRESENTATION PRACTICE
+# Assignment 13: MEETING WITH INSTRUCTOR (optional) (Meeting ; sign by up )
 
-Completing this assignment will also make it easier for your group to record your presentation on Zoom.
+On this date, you may meet with your professor to ask questions about your presentation or anything else.  If you have questions about your data analysis results, bring the following with you to your meeting:
 
-To complete this assignment, follow the [Zoom Group Presentation Instructions](https://drive.google.com/file/d/1BnCzV6cRSjRAWeyEYqMz-pPNJucesdJR/view?usp=sharing) and create a 1- to 2-minute presentation on any topic using at least two PowerPoint slides. Upload the recorded presentation. Also prepare and upload a one-paragraph document describing any difficulties you may have encountered and any suggestions you have for improving the instructions. All group members must participate in the presentation for the group to receive credit.
+-   your questionnaire
+
+-   your data analysis plan (Assignment \#10, updated)
+
+-   initial data analysis report (PA \#12)
 
 <br>
 
@@ -376,29 +462,39 @@ Completing this assignment will gain your ten extra points in total or five poin
 
 You need to apply **up to two analyses** among following statistical tools that we covered for second exam: a) confidence interval for mean b) confidence interval for percent c) independent t test d) two way chi-square test
 
-Follow the same format as the Assignment 7: INITIAL DATA ANALYSIS REPORT on those appropriate research questions.
+Follow the same format as the Assignment 12: INITIAL DATA ANALYSIS REPORT on those appropriate research questions.
 
 <br>
 
-# Assignment 9: TERM PROJECT PRESENTATION
+# Assignment 14: TERM PROJECT PRESENTATION ()
+
+Notify your client in advance of the presentation date and time and invite
+your client to attend.  Provide a map and
+parking information if necessary.  The
+instructor can provide a parking permit for your client if you provide four
+days advance notice.
+
+ 
+
+On the day of your presentation [before 9:00 am,  submit your presentation PowerPoint deck (or your choice of presentation tools) on Canvas]{.ul},
 
 -   The presentation of your term project should cover the topics described on the [Pointers on Presentations](https://drive.google.com/file/d/1l6GqvR_u2P-iqnb1jpq_uJFzBZ-JkvGp/view?usp=sharing).
 
--   The presentation must be in PowerPoint format or Google Slides.
+-   The presentation can be either PowerPoint format, Google Slides or Prezi.
+
+-   During the presentation, the monitor at the back of the room will be turned off so that you can get more practice in a setting similar to what you will encounter in a business environment.
 
 -   While preparing the presentation, carefully read and follow the Pointers on Presentations and review [the slides design tips](https://docs.google.com/presentation/d/1_m1OiODqh4sBpi_l7z48I2HBGVlkeZyHwtQSsHfKiBQ/edit?usp=sharing) and the [sample student presentation slides](https://drive.google.com/file/d/1GqAk7a7LGjmu1cIIae8i3ljUNnj_PFmh/view?usp=sharing) for reference.
 
--   The presentation should last between 12 and 15 minutes. If you go under or over this time frame, there is a grade deduction of 1 point per minute.
+-   The presentation should last between 12 and 14 minutes. If you go under or over this time frame, there is a grade deduction of 1 point per minute. The class will have an opportunity to ask you
+    questions following your presentation.
 
 -   Your presentation will be graded on the criteria described in "[Presentation Evaluation Form](https://docs.google.com/document/d/15P8bHYcZ5shXgm6F2nqEfhUCn_GbDkQsEE-M41pcWm8/edit)."
 
--   You are responsible for recording your presentation using Zoom ([Zoom Group Presentation Instructions](https://drive.google.com/file/d/1BnCzV6cRSjRAWeyEYqMz-pPNJucesdJR/view?usp=sharing)). Your group can use a Zoom meeting to practice your presentation and then record the final presentation when you're ready. Make sure you **name the recording file with your group number in the format of .mp4**. For example, group 1's recording should be 'Group1_presentation.mp4'.
+-   You are responsible for practicing your presentation on the classroom equipment before presentation day and making sure that everyone in the group is familiar with how the equipment works.
 
-On this day:
-
-1)  submit your presentation PowerPoint deck on Canvas
-
-2)  submit your recorded presentation on Canvas
+-   On presentation day, you must be set up and ready to go [before]{.ul} the beginning of class. 
+    If you are not ready at that time, there will be point deductions and you may be asked to give your presentation at another time.  Class time is very tightly scheduled during presentation days, and it is necessary that all groups be ready to present at the appointed time.
 
 <br>
 
