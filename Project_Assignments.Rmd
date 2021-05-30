@@ -114,7 +114,7 @@ Final client selection will be done in consultation with the instructor.
 
 -   Avoid a project where the objective is to increase a restaurant's business on slow nights of the week. There really isn't much you can do to help with that problem. If you want to work with a restaurant, choose a more focused topic such as examining the attractiveness of some particular change the owner is contemplating or assessing customer satisfaction.
 
--   Avoid a project in which the client's objective is "to attract more customers." Such a project will lack focus and be difficult to carry out.  The project will be more effective if the client has a specific business change under consideration to attract more customers, in which case your project could focus on the likely effectiveness of the proposed change.
+-   Avoid a project in which the client's objective is "to attract more customers." Such a project will lack focus and be difficult to carry out. The project will be more effective if the client has a specific business change under consideration to attract more customers, in which case your project could focus on the likely effectiveness of the proposed change.
 
 -   The assigned reading on Canvas and the page titled "Some Project Guidelines" in the course packet provides additional useful hints for choosing a topic and dealing with a client. If you're having difficulty finding a client, you can contact the University Center for Innovation and Entrepreneurship in Lafferre Hall (Engineering Bldg.), Room W1026. The center may have some clients who need to have a marketing research study conducted.
 
@@ -182,7 +182,8 @@ In this assignment, based on your knowledge of marketing, business principle, an
 
 **(6)** a list of research questions for each of the objectives in (5)
 
--   Organize this assignment so that each objective is followed by the research questions that are designed to meet each objective
+
+Organize this assignment so that each objective is followed by the research questions that are designed to meet each objective
 
 The form of research questions will be discussed in class. You can also look at [example term projects]() to see examples of research questions. Some important points to remember are below.
 
@@ -226,7 +227,9 @@ Determine whether adding a deck for outside dining would be profitable for a loc
 
 Find out how satisfied incoming freshmen are with Mizzou's orientation procedures and determine what changes would improve their satisfaction.
 
-**(8)** a list of research questions for each of the objectives in (7). [Organize this assignment so that each objective is followed by the research questions that are designed to meet each objective]{.ul}. The form of research questions will be discussed in class. You can also look at example term projects on Canvas to see examples of research questions. Some important points to remember are below.
+**(8)** a list of research questions for each of the objectives in (7).
+
+Organize this assignment so that each objective is followed by the research questions that are designed to meet each objective. The form of research questions will be discussed in class. You can also look at example term projects on Canvas to see examples of research questions. Some important points to remember are below.
 
 **REMEMBER**: When you prepare this assignment**, put each research question directly beneath the objective** the research questions relates to.
 
@@ -286,11 +289,11 @@ The questionnaire must include [screener questions]{.ul} (if relevant) and [a co
 
 For this assignment, complete the questionnaire design process through Step \#8. Make sure your questionnaire has been pretested and revised by this date. The questionnaire you turn in should be your final, best work. On this date, bring to class the items listed below. The required number of each of these items must be available at the beginning of class.
 
-    •   the oral instructions you will use to introduce the survey, including any qualifier or screener questions; put these on a separate page from your questionnaire
-    •   five (5) blank copies of your questionnaire 
-    •   five (5) copies of your final project objectives and list of research questions; the research questions must be numbered
-    •   one completed copy of Questionnaire Worksheet A (a template is available on Canvas)
-    •   one completed copy of Questionnaire Worksheet B (template also available on Canvas) 
+-   the oral instructions you will use to introduce the survey, including any qualifier or screener questions; put these on a separate page from your questionnaire
+-   five (5) blank copies of your questionnaire
+-   five (5) copies of your final project objectives and list of research questions; the research questions must be numbered
+-   one completed copy of Questionnaire Worksheet A (a template is available on Canvas)
+-   one completed copy of Questionnaire Worksheet B (template also available on Canvas)
 
 Unless an exception is granted by the instructor, the questionnaire should fit on the front and back of a single sheet of letter size paper. It must include a complete set of demographic questions appropriate to the people you are surveying.
 
@@ -314,13 +317,13 @@ On this date, turn in the following items on Canvas:
 
 Also on this date your group will have a meeting with your instructor to review your questionnaire and your group's sampling plan. Bring printed copies of the following materials to this meeting:
 
-(1)  Project Review Statement (p. 12-1, course packet) signed by group members and the client
+(1) Project Review Statement (p. 12-1, course packet) signed by group members and the client
 
-(2)  Sampling Plan (3 printed copies)
+(2) Sampling Plan (3 printed copies)
 
-(3)  Questionnaire (3 printed copies)
+(3) Questionnaire (3 printed copies)
 
-The sampling plan is a complete description of how you will choose individuals to participate in your survey.  Sampling plans have been described in class and an example sampling plan are included in this packet.  Before completing the sampling plan, review the Sampling Plan Checklist in the course packet (p. 11-10)   The plan may be presented in outline form.  Your sampling plan must include a completed time sampling grid (typed). 
+The sampling plan is a complete description of how you will choose individuals to participate in your survey. Sampling plans have been described in class and an example sampling plan are included in this packet. Before completing the sampling plan, review the Sampling Plan Checklist in the course packet (p. 11-10) The plan may be presented in outline form. Your sampling plan must include a completed time sampling grid (typed).
 
 Revise and resubmit Assignment 4 - Design a questionnaire
 
@@ -330,19 +333,19 @@ Please **highlight** the changes that you made in green on both the questionnair
 
 # Assignment 6: CODEBOOK PREPARED ()
 
-Prepare a codebook for entering your survey data into Excel.  Submit your codebook on Canvas.
+Prepare a codebook for entering your survey data into Excel. Submit your codebook on Canvas.
 
 <br>
 
 # Assignment 7: DATA COLLECTION UNDERWAY ()
 
-Also by this date, you should have obtained completed questionnaires from at least 8 respondents.  Respondents must be chosen according to your sampling plan.  Photograph the front page of each completed questionnaire and submit the photos on Canvas.  The remaining data collection needs to be completed by the Assignment \#7 due date.
+Also by this date, you should have obtained completed questionnaires from at least 8 respondents. Respondents must be chosen according to your sampling plan. Photograph the front page of each completed questionnaire and submit the photos on Canvas. The remaining data collection needs to be completed by the Assignment \#7 due date.
 
 <br>
 
 # Assignment 8: DATA COLLECTION COMPLETED, EXCEL DATA FILE PREPARED ()
 
-Your data collection must be completed by this date and your data entered into an Excel spreadsheet.  Turn in your Excel spreadsheet on Canvas.
+Your data collection must be completed by this date and your data entered into an Excel spreadsheet. Turn in your Excel spreadsheet on Canvas.
 
 [Make sure that at least everyone in your group have access to the complete data file]{.ul}.
 
@@ -350,7 +353,7 @@ Your data collection must be completed by this date and your data entered into a
 
 # Assignment 9: PREPARE FOR DATA ANALYSIS
 
-This assignment requires no new work by team members.  However, when class begins, each team member should have in his/her possession the following items to refer to during class:
+This assignment requires no new work by team members. However, when class begins, each team member should have in his/her possession the following items to refer to during class:
 
 -   your final list of research questions (numbered)
 
@@ -400,13 +403,13 @@ when the actual in-class analysis begins, each team member should have in his/he
 
 # Assignment 11: MID-SEMESTER PEER EVALUATION
 
-In this assignment, you will evaluate your own performance throughout the project and that of other members of your group on the major project assignments completed so far.  A Word version of the evaluation form is available on Canvas.  Download the form, complete it, then submit on Canvas.
+In this assignment, you will evaluate your own performance throughout the project and that of other members of your group on the major project assignments completed so far. [A Word version of the evaluation form]( is available on Canvas. Download the form, complete it, then submit on Canvas.
 
-This evaluation is confidential and will not be shared with group members.  However, if you have a concern about your level of contribution to the project, or the contribution of another group member, you are encouraged to discuss this with your group.  Regardless, it is a good time of the semester to take a few minutes of a regularly scheduled group meeting to discuss the following issues:
+This evaluation is confidential and will not be shared with group members. However, if you have a concern about your level of contribution to the project, or the contribution of another group member, you are encouraged to discuss this with your group.  Regardless, it is a good time of the semester to take a few minutes of a regularly scheduled group meeting to discuss the following issues:
 
 -   is communication in the group working effectively? Are there ways it could be improved?
 
--   is everyone doing their fair share of work?  Is anyone feeling over-burdened?
+-   is everyone doing their fair share of work? Is anyone feeling over-burdened?
 
 -   what significant contributions has each group member made to the project so far?
 
@@ -446,7 +449,7 @@ You can use an outline format for your report. [Submit the report on Canvas]{.ul
 
 # Assignment 13: MEETING WITH INSTRUCTOR (optional) (Meeting ; sign by up )
 
-On this date, you may meet with your professor to ask questions about your presentation or anything else.  If you have questions about your data analysis results, bring the following with you to your meeting:
+On this date, you may meet with your professor to ask questions about your presentation or anything else. If you have questions about your data analysis results, bring the following with you to your meeting:
 
 -   your questionnaire
 
@@ -468,37 +471,33 @@ Follow the same format as the Assignment 12: INITIAL DATA ANALYSIS REPORT on tho
 
 # Assignment 14: TERM PROJECT PRESENTATION ()
 
-Notify your client in advance of the presentation date and time and invite
-your client to attend.  Provide a map and
-parking information if necessary.  The
-instructor can provide a parking permit for your client if you provide four
-days advance notice.
+Notify your client in advance of the presentation date and time and invite your client to attend. Provide a map and parking information if necessary. The instructor can provide a parking permit for your client if you provide **four days** advance notice.
 
- 
+On the day of your presentation [before 9:00 am, submit your presentation PowerPoint deck (or your choice of presentation tools) on Canvas]{.ul},
 
-On the day of your presentation [before 9:00 am,  submit your presentation PowerPoint deck (or your choice of presentation tools) on Canvas]{.ul},
-
--   The presentation of your term project should cover the topics described on the [Pointers on Presentations](https://drive.google.com/file/d/1l6GqvR_u2P-iqnb1jpq_uJFzBZ-JkvGp/view?usp=sharing).
+-   The presentation of your term project should cover the topics described on the [Pointers on Presentations](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/presentation/Pointers%20on%20presentations.docx).
 
 -   The presentation can be either PowerPoint format, Google Slides or Prezi.
 
 -   During the presentation, the monitor at the back of the room will be turned off so that you can get more practice in a setting similar to what you will encounter in a business environment.
 
--   While preparing the presentation, carefully read and follow the Pointers on Presentations and review [the slides design tips](https://docs.google.com/presentation/d/1_m1OiODqh4sBpi_l7z48I2HBGVlkeZyHwtQSsHfKiBQ/edit?usp=sharing) and the [sample student presentation slides](https://drive.google.com/file/d/1GqAk7a7LGjmu1cIIae8i3ljUNnj_PFmh/view?usp=sharing) for reference.
+-   While preparing the presentation, carefully read and follow the Pointers on Presentations and review [the slides design tips](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/presentation/Presentation%20slide%20examples.pptx) and the [sample student presentation slides](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/presentation/Sample%20Student%20Presentation%20from%20previous%20semester.pptx) for reference.
 
--   The presentation should last between 12 and 14 minutes. If you go under or over this time frame, there is a grade deduction of 1 point per minute. The class will have an opportunity to ask you
-    questions following your presentation.
+-   The presentation should last between 12 and 14 minutes. If you go under or over this time frame, there is a grade deduction of 1 point per minute. The class will have an opportunity to ask you questions following your presentation.
 
--   Your presentation will be graded on the criteria described in "[Presentation Evaluation Form](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/Presentation%20Evaluation%20Assignment.docx)."
+-   Your presentation will be graded on the criteria described in "[Presentation Evaluation Form](https://github.com/mikenguyen13/mar4050_F21/blob/master/project_assignment/presentation/Presentation%20Evaluation%20Assignment.docx)."
 
 -   You are responsible for practicing your presentation on the classroom equipment before presentation day and making sure that everyone in the group is familiar with how the equipment works.
 
--   On presentation day, you must be set up and ready to go [before]{.ul} the beginning of class. 
-    If you are not ready at that time, there will be point deductions and you may be asked to give your presentation at another time.  Class time is very tightly scheduled during presentation days, and it is necessary that all groups be ready to present at the appointed time.
+-   On presentation day, you must be set up and ready to go [before]{.ul} the beginning of class.  If you are not ready at that time, there will be point deductions and you may be asked to give your presentation at another time. Class time is very tightly scheduled during presentation days, and it is necessary that all groups be ready to present at the appointed time.
 
 <br>
 
-# Assignment 10: PRESENTATION CRITIQUE
+# Assignment 15: PRESENTATION CRITIQUE ()
+
+This assignment is due 11/20 if your presentation was on 11/18.
+
+It's due 12/2 if your presentation was on 11/30.
 
 Prepare a written critique of the presentations of your **paired four other peer teams**, based on their video recording. Details of the critique assignment are described in the "[Presentation Evaluation Form](https://docs.google.com/document/d/15P8bHYcZ5shXgm6F2nqEfhUCn_GbDkQsEE-M41pcWm8/edit)". The video recording for each presentation team is included as a link in the evaluation sheet under each presentation team number.
 
@@ -506,14 +505,30 @@ Upload a screenshot of your task completion to the Canvas assignment.
 
 <br>
 
-# Assignment 11: WRITTEN PROJECT REPORT
+# Assignment 11: WRITTEN PROJECT REPORT ()
 
-[Sample student projects](https://drive.google.com/file/d/11SbGxUXGmUYsVaeKNiF-9rb3eXC0oD_h/view?usp=sharing)are available. [Report format](https://drive.google.com/file/d/1Adk5rI12OYh1BZonfJ2e17XxIiuDr2Tw/view?usp=sharing) and other guidelines are covered in class. See also the material titled "[Project Report Guidelines](https://drive.google.com/file/d/1bstngjXUH-wyNG2QhnN1dWwPfaATyD-Q/view?usp=sharing)".
+Sample student projects ([1](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/written_report/example1%20SlideDoc%20research%20report.pdf), [2](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/written_report/example2%20SlideDoc%20research%20report.pdf)) are available. [Report format](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/written_report/Slidedocs%20report%20templates.pptx) and other guidelines are covered in class. See also the material titled "[Project Report Guidelines](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/written_report/Project%20Report%20Guideline.pdf)".
 
 For this assignment, submit an electronic copy of your report on Canvas.
 
+This assignment contains 3 parts:
+
+(1) Submit an electronic copy of your report on Canvas
+
+(2) Provide your client each of the following items by this date:
+
+-   a printed and bound copy of your report
+
+-   a hard copy and an electronic copy of the client Project Evaluation Form (available on Canvas)
+
+-   contact information for all group members
+
+-   in addition, the group must make itself available to your client to discuss the report should he/she have questions.
+
+(3) Turn in the Statement of Submission to Client form (course packet p. 30-2). This statement acknowledges that you have provided the above items to your client. Turn in a copy of this statement, [signed by the contact person for your client company]{.ul} and by all group members, to the instructor. [If this form isn't received in time, all group members will receive an incomplete for the class]{.ul}. The incomplete will be removed with the instructor receives the signed form.
+
 <br>
 
-# Assignment 12: PEER EVALUATION
+# Assignment 12: PEER EVALUATION ( by 5 pm)
 
-In this assignment, you will evaluate your own performance throughout the project and that of other members of your group. [Download the form](https://drive.google.com/file/d/1iT28wwc3_JtopOyo9vk7JSqjILl1LzPi/view?usp=sharing), complete it, then submit on Canvas. on this date. If this form is not submitted, you may receive an incomplete grade for the course.
+In this assignment, you will evaluate your own performance throughout the project and that of other members of your group. [Download the form](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/peer%20evaluation.docx), complete it, then submit on Canvas before 5 p.m. on this date. on this date. If this form is not submitted, you may receive an incomplete grade for the course.
