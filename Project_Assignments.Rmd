@@ -126,7 +126,7 @@ Final client selection will be done in consultation with the instructor.
 
 <br>
 
-# Assignment 3: DEFINE THE RESEARCH PROBLEM
+# Assignment 3: DEFINE THE RESEARCH PROBLEM (9/ )
 
 Note this project requires meeting with the professor. See the [signup sheet](https://docs.google.com/spreadsheets/d/13Y4uTVFiYiVHVRIfo_7YZZAFuL6Z6JDR3gUXydcBqK8/edit?usp=sharing).
 
@@ -180,6 +180,56 @@ The form of research questions will be discussed in class. You can also look at 
 
 <br>
 
+This assignment develops the scope of your project, so you must complete your interview with your client before preparing this assignment. Every effort should be made for [***all***]{.ul} group members to meet with the client, not just one or two.
+
+You will meet with the instructor on the due date. Bring [5 copies]{.ul} of this assignment to your meeting. Your double-spaced,
+typewritten paper (1-2 pages) should include the following:
+
+**(1)** the name of the client business and the contact person you interviewed
+
+**(2)** the names of group members who were present during the interview
+
+**(3)** a general statement of the client's problem that the client hopes to solve with the information you will provide in your report. In addition, provide some brief background information if any is relevant. For instance, you might briefly describe the meeting(s) you've had with your client. You might also explain why the particular topic was chosen.
+
+**(4)** the decision(s) to be made by your client based on your research, and the decision alternatives
+
+**(5)** the target for the decision(s) to be made--is the goal to increase satisfaction/patronage of existing customers or is it to bring new customers to the business. You ***must*** choose ONE of these; for this project, you cannot do both.
+
+**(6)** the client's ***managerial objectives*** for the research project (may overlap with 3 and 4 above)
+
+**NOTE re managerial and research objectives**: A managerial objective is what the client hopes will result from the research project; examples might be (a) "to develop a more effective advertising campaign" or (b) "to increase the number of college students who shop at our store." A research objective is different from a managerial objective. Your research objective should be to provide information that will help your client reach his/her managerial objective. For the managerial objective in example (a) above, a good research objective might be "to determine which media college students are exposed to most frequently, and which media most strongly influence their purchase behavior." You must provide both a managerial objective (in part 6) and a research objective (in part 7, next) in this assignment.
+
+**(7)** your project's ***research objective(s)***. Most projects will have one or two research objectives. Some examples are listed below:
+
+Assess Columbia residents' awareness and knowledge about a local specialty grocery store that carries international foods; identity the best media for the store to use to increase awareness.
+
+Determine whether adding a deck for outside dining would be profitable for a local restaurant and, if so, what features customers desire for the deck.
+
+Find out how satisfied incoming freshmen are with Mizzou's orientation procedures and determine what changes would improve their satisfaction.
+
+**(8)** a list of research questions for each of the objectives in (7). [Organize this assignment so that each objective is followed by the research questions that are designed to meet each objective]{.ul}. The form of research questions will be discussed in class. You can also look at example term projects on Canvas to see examples of research questions. Some important points to remember are below.
+
+**REMEMBER**: When you prepare this assignment**, put each research question directly beneath the objective** the research questions relates to.
+
+ * Research questions are [not]{.ul} the same as questionnaire questions. Questionnaire questions are what you ask the consumer on a survey. Research questions are the questions the **manager** wants answered. Put [research questions only]{.ul} in this assignment. Review lecture and course packet materials to make sure your research questions are phrased appropriately. They should [not]{.ul} include any second person pronouns.
+
+ * The research questions should be very specific.
+
+ * You'll probably need about 10 research questions. You can also include a few, less important research questions in case there is space for them in the project.
+
+ * At least one of your research questions must be a differences research question in which you compare groups of people among your respondents. For instance, you might compare heavy or light users of a product; compare younger, middle-aged, and older consumers with respect to their interest in a particular type of store; compare new versus established customers' brand perceptions, etc. This is called a differences research question. [Clearly identify which of
+your research questions is intended to be a differences research question]{.ul}.
+
+ * Number the research questions so they are easy to refer to.
+
+**(9)** before turning in the assignment, have your client review your objectives and research questions and make any requested changes.
+
+**(10)** attach a copy of the Sponsor Agreement Form completed and signed by your client. This form is available on Canvas. Be sure you have provided your client with a copy of the Sponsor Letter (available on Canvas) and with contact information for all group members.
+
+**REMEMBER**: When you prepare this assignment**, put each research question directly beneath the objective** the research questions relates to.
+
+<br>
+
 # Assignment 3.5: DEFINE THE RESEARCH PROBLEM - revise and resubmit.
 
 **Please highlight the changes that you made in green**
@@ -214,7 +264,25 @@ For this assignment, complete all steps of the questionnaire design process as c
 
 The questionnaire must include [screener questions]{.ul} (if relevant) and [a complete set of demographic questions]{.ul} appropriate to the people you are surveying.
 
+
 <br>
+
+
+For this assignment, complete the questionnaire design process through Step #8.  Make sure your questionnaire has been pretested and revised by this date.  The questionnaire you turn in should be your final, best work.   On this date, bring to class the items listed below.  The required number of each of these items must be available at the beginning of class.
+
+	•	the oral instructions you will use to introduce the survey, including any qualifier or screener questions; put these on a separate page from your questionnaire
+	•	five (5) blank copies of your questionnaire	
+	•	five (5) copies of your final project objectives and list of research questions; the research questions must be numbered
+	•	one completed copy of Questionnaire Worksheet A (a template is available on Canvas)
+	•	one completed copy of Questionnaire Worksheet B (template also available on Canvas)	
+
+Unless an exception is granted by the instructor, the questionnaire should fit on the front and back of a single sheet of letter size paper.  It must include a complete set of demographic questions appropriate to the people you are surveying.  
+
+Also, plan a meeting with your client in which you show the client your final problem definition and a copy of your questionnaire.  At this meeting, have the client sign the Project Review Statement (p. 12-1 of course packet).  You will turn in this signed statement when you turn in PA #6.
+
+
+
+
 
 # Assignment 4.5: REVISED COPY OF QUESTIONNAIRE
 
