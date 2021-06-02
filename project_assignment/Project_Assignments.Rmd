@@ -182,7 +182,6 @@ In this assignment, based on your knowledge of marketing, business principle, an
 
 **(6)** a list of research questions for each of the objectives in (5)
 
-
 Organize this assignment so that each objective is followed by the research questions that are designed to meet each objective
 
 The form of research questions will be discussed in class. You can also look at [example term projects]() to see examples of research questions. Some important points to remember are below.
@@ -245,7 +244,7 @@ Organize this assignment so that each objective is followed by the research ques
 
 **(9)** before turning in the assignment, have your client review your objectives and research questions and make any requested changes.
 
-**(10)** attach a copy of the Sponsor Agreement Form completed and signed by your client. This form is available on Canvas. Be sure you have provided your client with a copy of the Sponsor Letter (available on Canvas) and with contact information for all group members.
+**(10)** submit a copy of the (Sponsor Agreement Form)[] completed and signed by your client. This form is available on Canvas. Be sure you have provided your client with a copy of the [Sponsor Letter]() (available on Canvas) and with contact information for all group members.
 
 **REMEMBER**: When you prepare this assignment**, put each research question directly beneath the objective** the research questions relates to.
 
@@ -337,15 +336,13 @@ Prepare a codebook for entering your survey data into Excel. Submit your codeboo
 
 Codebooks for Research Projects
 
-The codebook contains information about the variables in your study.  At the top of the codebook is a title and a sentence or two describing the study.  This is followed by information concerning each of the variables in your survey.  For each variable, the following should be included.
+The codebook contains information about the variables in your study. At the top of the codebook is a title and a sentence or two describing the study. This is followed by information concerning each of the variables in your survey. For each variable, the following should be included.
 
- * The variable name (must not begin with a number)
- * Source of the variable (usually the question number on the survey)
- * Acceptable values for the variable and their definitions
+-   The variable name (must not begin with a number)
+-   Source of the variable (usually the question number on the survey)
+-   Acceptable values for the variable and their definitions
 
 [An example codebook for the library questionnaires](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/questionaire_worksheet/Coodbook%20for%20the%20library%20questionnaire.xlsx).
-
-
 
 <br>
 
@@ -417,9 +414,9 @@ when the actual in-class analysis begins, each team member should have in his/he
 
 # Assignment 11: MID-SEMESTER PEER EVALUATION
 
-In this assignment, you will evaluate your own performance throughout the project and that of other members of your group on the major project assignments completed so far. [A Word version of the evaluation form]( is available on Canvas. Download the form, complete it, then submit on Canvas.
+In this assignment, you will evaluate your own performance throughout the project and that of other members of your group on the major project assignments completed so far. [A Word version of the evaluation form](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/Mid-semester%20peer%20evaluation%20form.docx) is available on Canvas. Download the form, complete it, then submit on Canvas. (remember to put it on Canvas, not as a word doc for student)
 
-This evaluation is confidential and will not be shared with group members. However, if you have a concern about your level of contribution to the project, or the contribution of another group member, you are encouraged to discuss this with your group.  Regardless, it is a good time of the semester to take a few minutes of a regularly scheduled group meeting to discuss the following issues:
+This evaluation is confidential and will not be shared with group members. However, if you have a concern about your level of contribution to the project, or the contribution of another group member, you are encouraged to discuss this with your group. Regardless, it is a good time of the semester to take a few minutes of a regularly scheduled group meeting to discuss the following issues:
 
 -   is communication in the group working effectively? Are there ways it could be improved?
 
@@ -485,7 +482,7 @@ Follow the same format as the Assignment 12: INITIAL DATA ANALYSIS REPORT on tho
 
 # Assignment 14: TERM PROJECT PRESENTATION ()
 
-Notify your client in advance of the presentation date and time and invite your client to attend. Provide a map and parking information if necessary. The instructor can provide a parking permit for your client if you provide **four days** advance notice.
+Notify your client in advance of the presentation date and time and invite your client to attend. Provide a map and parking information if necessary. The instructor can provide a parking permit (which requires name, license plate, make, model, and color to submit to Halsey) for your client if you provide **four days** advance notice.
 
 On the day of your presentation [before 9:00 am, submit your presentation PowerPoint deck (or your choice of presentation tools) on Canvas]{.ul},
 
@@ -501,9 +498,11 @@ On the day of your presentation [before 9:00 am, submit your presentation PowerP
 
 -   Your presentation will be graded on the criteria described in "[Presentation Evaluation Form](https://github.com/mikenguyen13/mar4050_F21/blob/master/project_assignment/presentation/Presentation%20Evaluation%20Assignment.docx)."
 
+-   Each person will submit an evaluation for every group.
+
 -   You are responsible for practicing your presentation on the classroom equipment before presentation day and making sure that everyone in the group is familiar with how the equipment works.
 
--   On presentation day, you must be set up and ready to go [before]{.ul} the beginning of class.  If you are not ready at that time, there will be point deductions and you may be asked to give your presentation at another time. Class time is very tightly scheduled during presentation days, and it is necessary that all groups be ready to present at the appointed time.
+-   On presentation day, you must be set up and ready to go [before]{.ul} the beginning of class. If you are not ready at that time, there will be point deductions and you may be asked to give your presentation at another time. Class time is very tightly scheduled during presentation days, and it is necessary that all groups be ready to present at the appointed time.
 
 <br>
 
@@ -540,6 +539,11 @@ This assignment contains 3 parts:
 -   in addition, the group must make itself available to your client to discuss the report should he/she have questions.
 
 (3) Turn in the Statement of Submission to Client form (course packet p. 30-2). This statement acknowledges that you have provided the above items to your client. Turn in a copy of this statement, [signed by the contact person for your client company]{.ul} and by all group members, to the instructor. [If this form isn't received in time, all group members will receive an incomplete for the class]{.ul}. The incomplete will be removed with the instructor receives the signed form.
+
+NOTE:
+
+-   You may wonder what the difference between the presentation (if you use powerpoint) and the written report. In the presentation, you have 10-12 minutes to present in the most succinct way about your research project, which means that you might not be able to address all the research questions. However, in the report, you can put everything that is of interest to the consumers of that report (e.g., managers).
+-   If you attempt to submit the same powerpoint presentation as your written report. You will receive no points for this assignment because you did not perform any work for this assignment.
 
 <br>
 
