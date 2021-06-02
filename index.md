@@ -7,6 +7,6 @@ This page gives you quick access to all the class materials. You can either see 
  * [Project Assignment]()
  * [Lectures]()
 
-![Image](src = "..\download.jpg")
+![Image](https://raw.githubusercontent.com/mikenguyen13/mar4050_F21/gh-pages/download.jpg)
 
 
