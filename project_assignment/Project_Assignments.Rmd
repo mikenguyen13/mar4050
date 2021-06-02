@@ -297,7 +297,7 @@ For this assignment, complete the questionnaire design process through Step \#8.
 
 Unless an exception is granted by the instructor, the questionnaire should fit on the front and back of a single sheet of letter size paper. It must include a complete set of demographic questions appropriate to the people you are surveying.
 
-Also, plan a meeting with your client in which you show the client your final problem definition and a copy of your questionnaire. At this meeting, have the client sign the Project Review Statement (p. 12-1 of course packet). You will turn in this signed statement when you turn in PA \#6.
+Also, plan a meeting with your client in which you show the client your final problem definition and a copy of your questionnaire. At this meeting, have the client sign the [Project Review Statement]. You will turn in this signed statement when you turn in PA \#6.
 
 # Assignment 5: CLIENT CHECK, REVISED COPY OF QUESTIONNAIRE, SAMPLING PLAN, AND MEETING WITH INSTRUCTOR ()
 
@@ -343,7 +343,7 @@ The codebook contains information about the variables in your study.  At the top
  * Source of the variable (usually the question number on the survey)
  * Acceptable values for the variable and their definitions
 
-[An example codebook for the library questionnaires].
+[An example codebook for the library questionnaires](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/questionaire_worksheet/Coodbook%20for%20the%20library%20questionnaire.xlsx).
 
 
 
