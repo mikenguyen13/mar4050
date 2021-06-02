@@ -335,6 +335,18 @@ Please **highlight** the changes that you made in green on both the questionnair
 
 Prepare a codebook for entering your survey data into Excel. Submit your codebook on Canvas.
 
+Codebooks for Research Projects
+
+The codebook contains information about the variables in your study.  At the top of the codebook is a title and a sentence or two describing the study.  This is followed by information concerning each of the variables in your survey.  For each variable, the following should be included.
+
+ * The variable name (must not begin with a number)
+ * Source of the variable (usually the question number on the survey)
+ * Acceptable values for the variable and their definitions
+
+[An example codebook for the library questionnaires].
+
+
+
 <br>
 
 # Assignment 7: DATA COLLECTION UNDERWAY ()
