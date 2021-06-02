@@ -203,7 +203,7 @@ MU cares about the health and safety of its students, faculty, and staff. To pro
 
 -   We will all wear **face coverings while in the classroom**, unless you have a documented exemption due to a disability or medical condition.
 
--   We will maintain a **6-foot distance from each other at all times** (except in specific lab/studio courses with other specific guidelines for social distancing).
+-   We will maintain a **6 feet distance from each other at all times** (except in specific lab/studio courses with other specific guidelines for social distancing).
 
 -   We will enter the classroom and **fill the room starting at the front, filing all the way across a row**. When class ends, we will exit the row nearest to the door first; the instructor or TA will give the signal for the next row to exit, in the same manner.
 
@@ -211,7 +211,7 @@ MU cares about the health and safety of its students, faculty, and staff. To pro
 
 -   Online office hours will be available for all students.
 
-Compliance with these guidelines is required for all; anyone who fails to comply will be subject to the[accountability process](https://accountability.missouri.edu/accountability/conduct-process/), as stated in the University's [Collected Rules and Regulations](https://www.umsystem.edu/ums/rules/collected_rules/programs/ch200), Chapter 200 Student Code of Conduct.
+Compliance with these guidelines is required for all; anyone who fails to comply will be subject to the [accountability process](https://accountability.missouri.edu/accountability/conduct-process/), as stated in the University's [Collected Rules and Regulations](https://www.umsystem.edu/ums/rules/collected_rules/programs/ch200), Chapter 200 Student Code of Conduct.
 
 If an instructor has concerns about how a student is following COVID-19 policies and protocols, please report those concerns to the Office of the Dean of Students. You can fill out a COVID Safety Measures Reporting Form here:<https://cm.maxient.com/reportingform.php?UnivofMissouriSystem&layout_id=38>
 
@@ -227,40 +227,73 @@ By taking the above measures, we are supporting your health and that of the whol
 
 -   Alternatively, you can also access the materials via my online repository
 
-|     | **Date** | **Topic**                                         | **Assignments Due**                         | **Reading**  |
-|:---:|----------|---------------------------------------------------|---------------------------------------------|--------------|
-|  1  | Aug 24   | Course Intro; Problem Analysis                    |                                             |              |
-|  2  | Aug 26   | The Research Process                              | Project Review Assign; PA \#1 due 5 pm      | Ch. 1        |
-|  3  | Aug 31   | Problem Definition; Intro to Project              | Discussion case \#1 (p. 3-1)                | Chs. 2, 3    |
-|  4  | Sep   2  | Research Designs                                  | PA \#2; Discussion case \#2 (p. 4-1)        | Chs. 4       |
-|     | Sep   7  | Labor Day                                         |                                             |              |
-|  5  | Sep   9  | Information Systems, Dashboards, & Data Analytics | Discussion case \#3 (p. 5-1) & \#4 (p. 5-3) | Chs. 5, 6    |
-|  6  | Sep 14   | Secondary & Syndicated Data                       | PA \#3; Project Meetings: Sign-up here      | Ch. 7        |
-|  7  | Sep 16   | Experimentation; Project Meetings                 |                                             | Ch. 8        |
-|  8  | Sep 21   | Survey Research                                   | Discussion case \#5 (p. 7-1)                | Chs. 9, 11   |
-|  9  | Sep 23   | Measurement; Questionnaire Design                 | Discussion case \#6 (p. 8-1); Qualtrics     | Ch. 12       |
-| 10  | Sep 28   | Questionnaire Design II                           |                                             | Ch. 13       |
-| 11  | Sep 30   | Questionnaire Analysis                            | PA \#4                                      |              |
-| 12  | Oct   5  | Sampling; Data Preparation                        | Discussion case \#7 (p. 12-1)               |              |
-| 13  | Oct   7  | Project Meetings                                  | PA \#5, PA \#6                              | Ch. 14, 15\* |
-| 14  | Oct 12   | **First Exam**                                    |                                             |              |
-| 15  | Oct 14   | Work Day (collecting data)                        | PA \#7                                      | Ch. 16       |
-| 16  | Oct 19   | Descriptive Statistics                            |                                             |              |
-| 17  | Oct 21   | Data Analysis Plans                               | PA \#8 & PA \#9                             |              |
-| 18  | Oct 26   | Data Analysis                                     | PA \#10 & PA \#11                           |              |
-| 19  | Oct 28   | Visualizing and Reporting Data                    |                                             | Ch. 20       |
-| 20  | Nov   2  | Correlation, Simple Regression                    | PA \#12                                     |              |
-| 21  | Nov   4  | Simple Regression (continued)                     | Discussion case \#8 (p. 21-1)               |              |
-| 22  | Nov   9  | Multiple Regression Basics                        | Opinion Outpost Assign (optional)           |              |
-| 23  | Nov 11   | Multiple Regression Applications                  | Zoom presentation practice (extra credit)   |              |
-| 24  | Nov 16   | Project Meetings                                  | PA \#13 (optional; sign up by 11/15)        |              |
-| 25  | Nov 18   | Presentations                                     | PA \#14, PA \#15                            |              |
-|     |          | Thanksgiving Break                                |                                             |              |
-| 26  | Nov 30   | Presentations                                     | PA \#14, PA \#15                            |              |
-| 27  | Dec   2  | Review for Exam                                   |                                             |              |
-| 28  | Dec   7  | **Second Exam**                                   |                                             |              |
-| 29  | Dec   9  | Project Checkup                                   |                                             |              |
-| 30  | Dec 14   | Project Report Due                                | PA \#16 & PA \#17                           |              |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
+|    | **Date** | **Topic**                                         | **Assignments Due**                         | **Reading**  |
++:==:+==========+===================================================+=============================================+==============+
+| 1  | Aug 24   | Course Intro; Problem Analysis                    |                                             |              |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
+| 2  | Aug 26   | The Research Process                              | Project Review Assign; PA \#1 due 5 pm      | Ch. 1        |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
+| 3  | Aug 31   | Problem Definition; Intro to Project              | Discussion case \#1 (p. 3-1)                | Chs. 2, 3    |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
+| 4  | Sep   2  | Research Designs                                  | PA \#2; Discussion case \#2 (p. 4-1)        | Chs. 4       |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
+|    | Sep   7  | Labor Day                                         |                                             |              |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
+| 5  | Sep   9  | Information Systems, Dashboards, & Data Analytics | Discussion case \#3 (p. 5-1) & \#4 (p. 5-3) | Chs. 5, 6    |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
+| 6  | Sep 14   | Secondary & Syndicated Data                       | PA \#3; Project Meetings: Sign-up here      | Ch. 7        |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
+| 7  | Sep 16   | Experimentation; Project Meetings                 |                                             | Ch. 8        |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
+| 8  | Sep 21   | Survey Research                                   | Discussion case \#5 (p. 7-1)                | Chs. 9, 11   |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
+| 9  | Sep 23   | Measurement; Questionnaire Design                 | Discussion case \#6 (p. 8-1); Qualtrics     | Ch. 12       |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
+| 10 | Sep 28   | Questionnaire Design II                           |                                             | Ch. 13       |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
+| 11 | Sep 30   | Questionnaire Analysis                            | PA \#4                                      |              |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
+| 12 | Oct   5  | Sampling; Data Preparation                        | Discussion case \#7 (p. 12-1)               |              |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
+| 13 | Oct   7  | Project Meetings                                  | PA \#5, PA \#6                              | Ch. 14, 15\* |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
+| 14 | Oct 12   | **First Exam**                                    |                                             |              |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
+| 15 | Oct 14   | Work Day (collecting data)                        | PA \#7                                      | Ch. 16       |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
+| 16 | Oct 19   | Descriptive Statistics                            |                                             |              |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
+| 17 | Oct 21   | Data Analysis Plans                               | PA \#8 & PA \#9                             |              |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
+| 18 | Oct 26   | Data Analysis                                     | PA \#10 & PA \#11                           |              |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
+| 19 | Oct 28   | Visualizing and Reporting Data                    |                                             | Ch. 20       |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
+| 20 | Nov   2  | Correlation, Simple Regression                    | PA \#12                                     |              |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
+| 21 | Nov   4  | Simple Regression (continued)                     | Discussion case \#8 (p. 21-1)               |              |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
+| 22 | Nov   9  | Multiple Regression Basics                        | Opinion Outpost Assign (optional)           |              |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
+| 23 | Nov 11   | Multiple Regression Applications                  | Zoom presentation practice (extra credit)   |              |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
+| 24 | Nov 16   | Project Meetings                                  | PA \#13 (optional; sign up by 11/15)        |              |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
+| 25 | Nov 18   | Presentations                                     | PA \#14, PA \#15                            |              |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
+|    |          | Thanksgiving Break                                |                                             |              |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
+| 26 | Nov 30   | Presentations                                     | PA \#14, PA \#15                            |              |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
+| 27 | Dec   2  | Review for Exam                                   |                                             |              |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
+| 28 | Dec   7  | **Second Exam**                                   |                                             |              |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
+| 29 | Dec   9  | Project Checkup                                   |                                             |              |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
+| 30 | Dec 14   | Project Report Due                                | PA \#16 & PA \#17                           |              |
++----+----------+---------------------------------------------------+---------------------------------------------+--------------+
 
 **NOTE**: PA is a group project assignment. Assignment page numbers refer to pages in the course packet; chapters refers to chapters in the textbook.
 
@@ -279,5 +312,3 @@ By taking the above measures, we are supporting your health and that of the whol
 -   Click **"Add This Course".**
 
 -   You attendance, in class participation, and quiz will be done through the iClicker.
-
--   

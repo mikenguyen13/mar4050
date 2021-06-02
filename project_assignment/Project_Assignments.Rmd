@@ -297,7 +297,7 @@ For this assignment, complete the questionnaire design process through Step \#8.
 
 Unless an exception is granted by the instructor, the questionnaire should fit on the front and back of a single sheet of letter size paper. It must include a complete set of demographic questions appropriate to the people you are surveying.
 
-Also, plan a meeting with your client in which you show the client your final problem definition and a copy of your questionnaire. At this meeting, have the client sign the [Project Review Statement]. You will turn in this signed statement when you turn in PA \#6.
+Also, plan a meeting with your client in which you show the client your final problem definition and a copy of your questionnaire. At this meeting, have the client sign the [Project Review Statement](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/project%20review%20statement.docx). You will turn in this signed statement when you turn in PA \#6.
 
 # Assignment 5: CLIENT CHECK, REVISED COPY OF QUESTIONNAIRE, SAMPLING PLAN, AND MEETING WITH INSTRUCTOR ()
 
@@ -317,7 +317,7 @@ On this date, turn in the following items on Canvas:
 
 Also on this date your group will have a meeting with your instructor to review your questionnaire and your group's sampling plan. Bring printed copies of the following materials to this meeting:
 
-(1) Project Review Statement (p. 12-1, course packet) signed by group members and the client
+(1) [Project Review Statement](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/project%20review%20statement.docx) signed by group members and the client
 
 (2) Sampling Plan (3 printed copies)
 
@@ -351,7 +351,7 @@ The codebook contains information about the variables in your study.  At the top
 
 # Assignment 7: DATA COLLECTION UNDERWAY ()
 
-Also by this date, you should have obtained completed questionnaires from at least 8 respondents. Respondents must be chosen according to your sampling plan. Photograph the front page of each completed questionnaire and submit the photos on Canvas. The remaining data collection needs to be completed by the Assignment \#7 due date.
+Also by this date, you should have obtained completed questionnaires from at least 50 respondents (roughly 10 questionnaire per person). Respondents must be chosen according to your sampling plan. Photograph the front page of each completed questionnaire and submit the photos on Canvas. The remaining data collection needs to be completed by the Assignment \#7 due date.
 
 <br>
 
@@ -372,6 +372,8 @@ This assignment requires no new work by team members. However, when class begins
 -   the final version of your team's questionnaire
 
 -   Questionnaire Worksheet B (updated final version)
+
+You are allowed to bring your laptop to the class to access these materials.
 
 <br>
 
@@ -517,7 +519,7 @@ Upload a screenshot of your task completion to the Canvas assignment.
 
 <br>
 
-# Assignment 11: WRITTEN PROJECT REPORT ()
+# Assignment 16: WRITTEN PROJECT REPORT ()
 
 Sample student projects ([1](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/written_report/example1%20SlideDoc%20research%20report.pdf), [2](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/written_report/example2%20SlideDoc%20research%20report.pdf)) are available. [Report format](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/written_report/Slidedocs%20report%20templates.pptx) and other guidelines are covered in class. See also the material titled "[Project Report Guidelines](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/written_report/Project%20Report%20Guideline.pdf)".
 
@@ -541,6 +543,6 @@ This assignment contains 3 parts:
 
 <br>
 
-# Assignment 12: PEER EVALUATION ( by 5 pm)
+# Assignment 17: PEER EVALUATION ( by 5 pm)
 
 In this assignment, you will evaluate your own performance throughout the project and that of other members of your group. [Download the form](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/peer%20evaluation.docx), complete it, then submit on Canvas before 5 p.m. on this date. on this date. If this form is not submitted, you may receive an incomplete grade for the course.
