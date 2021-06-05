@@ -3,6 +3,7 @@ title: "Case Discussion"
 output:
   pdf_document: default
   html_notebook: default
+urlcolor: blue
 editor_options:
   markdown:
     wrap: 72
@@ -73,7 +74,9 @@ method from your textbook (primarily chapters 4 and 6).
 
 # DISCUSSION CASE \#3
 
-Here are the Case 3 materials needed to answer the case.
+Here are the [Case 3
+materials](https://github.com/mikenguyen13/mar4050_F21/raw/master/case_discussion/Materials%20related%20to%20Case3.docx)
+needed to answer the case.
 
 A. For each research question below, indicate the research question form
 (descriptive, differences, or association research question) .
