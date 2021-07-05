@@ -17,16 +17,16 @@ questions. Only the discussion leader team will be graded.
 The discussion leader's presentation should be for 10 - 15 minutes.
 Talking points suggestions:
 
-1) How is it related to the textbook chapters?
+1)  How is it related to the textbook chapters?
 
-2) Your solutions to the case questions.
+2)  Your solutions to the case questions.
 
-3) Questions for the professor or the class.
+3)  Questions for the professor or the class.
 
 The teams who are not presenting for that case need to submit 1-2
 questions/confusions related to the case on Canvas.
 
-# DISCUSSION CASE \#1 A Bigger Bookshop? 
+# DISCUSSION CASE \#1 A Bigger Bookshop?
 
 A used book dealer with a small store in downtown Columbia is
 considering expanding. The shop occupies a small and crowded storefront
@@ -83,10 +83,10 @@ A. For each research question below, indicate the research question form
 
 B. In addition,
 
-1) For each descriptive RQ below, describe the variable to be measured.
+1)  For each descriptive RQ below, describe the variable to be measured.
 
-2) For each difference RQ below, describe both the grouping variable and
-the analysis variable.
+2)  For each difference RQ below, describe both the grouping variable
+    and the analysis variable.
 
 3)For each association RQ below, describe the two variables to be
 associated.
