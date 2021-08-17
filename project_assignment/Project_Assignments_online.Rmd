@@ -114,19 +114,15 @@ The form of research questions will be discussed in class. You can also look at 
 
 # Assignment 4: DESIGN A QUESTIONNAIRE
 
-Note this project requires meeting with the professor and your team members. See the [signup sheet](https://docs.google.com/spreadsheets/d/13Y4uTVFiYiVHVRIfo_7YZZAFuL6Z6JDR3gUXydcBqK8/edit?usp=sharing).
+Note this project requires meeting with the professor and your team members. See the [signup sheet](https://docs.google.com/spreadsheets/d/1_dxqG99lQMBNp_87SlojglrzqVy6KK4FA4T4SBZ88rE/edit?usp=sharing).
 
 <!-- For your partner team meeting. See [instruction](https://docs.google.com/document/d/1m85mnPgACTD9ecyACWnMdcLEEbtFJmAMJb8Q2LSNMkg/edit?usp=sharing). -->
 
 The questionnaire is one of the most important parts of the project.
 
-Example questionnaires are available
+Example questionnaires are [available](https://github.com/mikenguyen13/mar4050_F21/tree/master/project_assignment/questionnaire/example_questionnaire)
 
--   [Nike shoes survey](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/example_questionaire/9-running%20shoe%20Qnaire.pdf)
--   [Dishwasher](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/example_questionaire/9-dishwasher%20Qnaire.pdf)
--   [USPS](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/example_questionaire/9-USPS%20survey.pdf)
-
-You can consult these examples for reference regarding ideas about question wording and format and questionnaire layout. Be sure to also look at [Questionnaire Tips](https://drive.google.com/file/d/1dGOVwNOeMThizUgYtZzf3QJZJX5q5tMB/view?usp=sharing).
+You can consult these examples for reference regarding ideas about question wording and format and questionnaire layout. Be sure to also look at [Questionnaire Tips](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/questionnaire/Questionnaire%20Design%20Cheat%20sheet.docx).
 
 For this assignment, complete all steps of the questionnaire design process as covered in class. Make sure your questionnaire has been pretested and revised by this date. The questionnaire you turn in should be your final, best work. Submit the following items on Canvas:
 
@@ -136,27 +132,13 @@ For this assignment, complete all steps of the questionnaire design process as c
 
 -   your final project objectives and list of research questions; the research questions must be numbered
 
--   a completed copy of Questionnaire Worksheet A ([WorksheetA template](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/questionaire_worksheet/8-Qnaire%20worksheet%20A.xls))
+-   a completed copy of Questionnaire Worksheet A ([WorksheetA template](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/questionnaire/8-Qnaire%20worksheet%20A.xls))
 
--   a completed copy of Questionnaire Worksheet B ([WorksheetB template](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/questionaire_worksheet/8-Qnaire%20worksheet%20B.xls))
+-   a completed copy of Questionnaire Worksheet B ([WorksheetB template](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/questionnaire/8-Qnaire%20worksheet%20B.xls))
 
-The questionnaire must include [screener questions]{.ul} (if relevant) and [a complete set of demographic questions]{.ul} appropriate to the people you are surveying.
+The questionnaire must include [screener questions]{.ul} (if relevant) and [a complete set of demographic questions]{.ul} appropriate to the people you are surveying. Unless an exception is granted by the instructor, the questionnaire should fit on the front and back of a single sheet of letter size paper.
 
-<br>
-
-For this assignment, complete the questionnaire design process through Step \#8. Make sure your questionnaire has been pretested and revised by this date. The questionnaire you turn in should be your final, best work. On this date, bring to class the items listed below. The required number of each of these items must be available at the beginning of class.
-
--   the oral instructions you will use to introduce the survey, including any qualifier or screener questions; put these on a separate page from your questionnaire
--   five (5) blank copies of your questionnaire
--   five (5) copies of your final project objectives and list of research questions; the research questions must be numbered
--   one completed copy of Questionnaire Worksheet A (a template is available on Canvas)
--   one completed copy of Questionnaire Worksheet B (template also available on Canvas)
-
-Unless an exception is granted by the instructor, the questionnaire should fit on the front and back of a single sheet of letter size paper. It must include a complete set of demographic questions appropriate to the people you are surveying.
-
-Also, plan a meeting with your client in which you show the client your final problem definition and a copy of your questionnaire. At this meeting, have the client sign the [Project Review Statement](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/project%20review%20statement.docx). You will turn in this signed statement when you turn in PA \#6.
-
-# Assignment 5: CLIENT CHECK, REVISED COPY OF QUESTIONNAIRE, SAMPLING PLAN, AND MEETING WITH INSTRUCTOR ()
+# Assignment 5: CLIENT CHECK, REVISED COPY OF QUESTIONNAIRE, SAMPLING PLAN, AND MEETING WITH INSTRUCTOR 
 
 On this date, turn in the following items on Canvas:
 
@@ -172,23 +154,19 @@ On this date, turn in the following items on Canvas:
 
 -   your sampling plan
 
+Please **highlight** the changes that you made in green on both the questionnaire and the worksheet A and B.
+
 Also on this date your group will have a meeting with your instructor to review your questionnaire and your group's sampling plan. Bring printed copies of the following materials to this meeting:
 
-(1) [Project Review Statement](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/project%20review%20statement.docx) signed by group members and the client
+(1) Sampling Plan
 
-(2) Sampling Plan (3 printed copies)
-
-(3) Questionnaire (3 printed copies)
+(2) Questionnaire
 
 The sampling plan is a complete description of how you will choose individuals to participate in your survey. Sampling plans have been described in class and an example sampling plan are included in this packet. Before completing the sampling plan, review the Sampling Plan Checklist in the course packet (p. 11-10) The plan may be presented in outline form. Your sampling plan must include a completed time sampling grid (typed).
 
-Revise and resubmit Assignment 4 - Design a questionnaire
-
-Please **highlight** the changes that you made in green on both the questionnaire and the worksheet A and B.
-
 <br>
 
-# Assignment 6: CODEBOOK PREPARED ()
+# Assignment 6: CODEBOOK PREPARED 
 
 Prepare a codebook for entering your survey data into Excel. Submit your codebook on Canvas.
 
@@ -200,21 +178,35 @@ The codebook contains information about the variables in your study. At the top 
 -   Source of the variable (usually the question number on the survey)
 -   Acceptable values for the variable and their definitions
 
-[An example codebook for the library questionnaires](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/questionaire_worksheet/Coodbook%20for%20the%20library%20questionnaire.xlsx).
+[An example codebook for the library questionnaires](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/questionnaire/Coodbook%20for%20the%20library%20questionnaire.xlsx).
 
 <br>
 
-# Assignment 7: DATA COLLECTION UNDERWAY ()
+# Assignment 7: DATA COLLECTION UNDERWAY 
 
-Also by this date, you should have obtained completed questionnaires from at least 50 respondents (roughly 10 questionnaire per person). Respondents must be chosen according to your sampling plan. Photograph the front page of each completed questionnaire and submit the photos on Canvas. The remaining data collection needs to be completed by the Assignment \#7 due date.
+Also by this date, you should have obtained completed questionnaires from at least 50 respondents (roughly 10 questionnaire per person). Respondents must be chosen according to your sampling plan.
+
+Please export your data from Qualtrics:
+
+-   Under "Data & Analysis", click "Export & Import"
+
+-   Choose "Export Data"
+
+-   Pick "ExceL"
+
+-   Then upload your excel file to the appropriate assignment on Canvas.
+
+If you also collect data manually, please submit photos of all completed questionnaire and submit it to the same Canvas assignment.
+
+The remaining data collection needs to be completed by the Assignment \#8 due date.
 
 <br>
 
-# Assignment 8: DATA COLLECTION COMPLETED, EXCEL DATA FILE PREPARED ()
+# Assignment 8: DATA COLLECTION COMPLETED, EXCEL DATA FILE PREPARED
 
 Your data collection must be completed by this date and your data entered into an Excel spreadsheet. Turn in your Excel spreadsheet on Canvas.
 
-[Make sure that at least everyone in your group have access to the complete data file]{.ul}.
+[Make sure that everyone in your group have access to the complete data file]{.ul}.
 
 <br>
 
