@@ -8,9 +8,29 @@ urlcolor: blue
 
 The term project is designed to provide you with firsthand experience in designing and carrying out a marketing research project. The project is divided into n assignments, described below. Each completed assignment should be submitted by the date and time specified below. All components of an assignment must be turned in to receive full credit.
 
+| Assignment | Points |
+|------------|--------|
+| 1          | 10     |
+| 2          | 10     |
+|            |        |
+|            |        |
+|            |        |
+|            |        |
+|            |        |
+|            |        |
+|            |        |
+|            |        |
+|            |        |
+|            |        |
+|            |        |
+|            |        |
+|            |        |
+|            |        |
+| Total      | 200    |
+
 # Assignment 1: GROUP FORMATION
 
-Your group will work together extensively throughout the semester to complete a term research project. There are four to five members per group. You may choose the members of your group or have the instructor assign you to a group. Group assignments done by the instructor will be on a random basis. During the first two class sessions there will be small group breakout sessions that will allow you to get to know some of your classmates.
+Your group will work together extensively throughout the semester to complete a term research project. There are four to five members per group. You may choose the members of your group or have the instructor assign you to a group. Group assignments done by the instructor will be on a random basis. During the first two class sessions, there will be small group breakout sessions that will allow you to get to know some of your classmates.
 
 Submit this assignment on Canvas and indicate:
 
@@ -20,7 +40,7 @@ b\. whether you would like the instructor to assign you to a team.
 
 Submit this assignment on Canvas and indicate:
 
-a)  Title your assignment word document file name with **'Group & team captain's initials'** if you and **three or four** other classmates have formed a team (maximum 5 people in a team). For example, if your team captain is Michael Jordan then you will title your word document as 'Group MJ'. In the word document to be submitted, please include the identity of your teammates including your name in descending order of the first name.
+a)  Title your assignment word document file name with **'Group & team captain's initials'** if you and **three or four** other classmates have formed a team (maximum 6 people in a team). For example, if your team captain is Michael Jordan then you will title your word document as 'Group MJ'. In the word document to be submitted, please include the identity of your teammates including your name in descending order of the first name.
 
 b)  Title your assignment word document file name with **'Random & your initial'** if you would like the instructor to assign you to a team.
 
@@ -34,7 +54,7 @@ On this day, your group should submit the two items below on Canvas.
 
 **(1)** Completed [Team Orientation Assignment](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/Team%20Orientation.docx), including the group project contract.
 
-**(2)** Your group's first, second, and third choices for a project topic, from the "Project Topics". You may also propose a topic of your own.  If you wish to propose a topic, provide some details so your instructor can evaluate whether the proposed project would work for this class.
+**(2)** Your group's first, second, and third choices for a project topic, from the "[Project Topics](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/Project_Topics.pdf)". You may also propose a topic of your own. If you wish to propose a topic, provide some details so your instructor can evaluate whether the proposed project would work for this class.
 
 The instructor will make every attempt to assign your group its first choice for the project topic, but that may not be possible if other groups have the same first choice.  The instructor will notify you of your group's final topic assignment.
 
@@ -138,7 +158,7 @@ For this assignment, complete all steps of the questionnaire design process as c
 
 The questionnaire must include [screener questions]{.ul} (if relevant) and [a complete set of demographic questions]{.ul} appropriate to the people you are surveying. Unless an exception is granted by the instructor, the questionnaire should fit on the front and back of a single sheet of letter size paper.
 
-# Assignment 5: CLIENT CHECK, REVISED COPY OF QUESTIONNAIRE, SAMPLING PLAN, AND MEETING WITH INSTRUCTOR 
+# Assignment 5: CLIENT CHECK, REVISED COPY OF QUESTIONNAIRE, SAMPLING PLAN, AND MEETING WITH INSTRUCTOR
 
 On this date, turn in the following items on Canvas:
 
@@ -166,7 +186,7 @@ The sampling plan is a complete description of how you will choose individuals t
 
 <br>
 
-# Assignment 6: CODEBOOK PREPARED 
+# Assignment 6: CODEBOOK PREPARED
 
 Prepare a codebook for entering your survey data into Excel. Submit your codebook on Canvas.
 
@@ -182,7 +202,7 @@ The codebook contains information about the variables in your study. At the top 
 
 <br>
 
-# Assignment 7: DATA COLLECTION UNDERWAY 
+# Assignment 7: DATA COLLECTION UNDERWAY
 
 Also by this date, you should have obtained completed questionnaires from at least 50 respondents (roughly 10 questionnaire per person). Respondents must be chosen according to your sampling plan.
 

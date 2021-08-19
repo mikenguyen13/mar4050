@@ -9,22 +9,45 @@ editor_options:
     wrap: 72
 ---
 
-Case Discussion Instruction: Everyone should discuss the case within the
-project groups. The project group with the same number as the case will
-lead the discussion in the class by preparing for the slides and the
-questions. Only the discussion leader team will be graded.
+Case Discussion Instruction:
 
-The discussion leader's presentation should be for 10 - 15 minutes.
-Talking points suggestions:
+For each case discussion, please post the following on Canvas:
 
-1)  How is it related to the textbook chapters?
+| Post                                                   | Minimum \# of words | Points |
+|--------------------------------------------------------|---------------------|--------|
+| Your answers/solution to the case questions            | 100 words           | 5      |
+| How is it related to the textbook chapters?            | 50 words            | 2.5    |
+| Questions for the professor or the class               | optional            |        |
+| Your replies to at least **two** other students' posts | 50 words per post   | 2.5    |
 
-2)  Your solutions to the case questions.
+Note: 
 
-3)  Questions for the professor or the class.
+Please separate your answers/ solutions and how you relate the textbook
+chapter materials into two separate paragraphs so viewers can easily
+identify them.
 
-The teams who are not presenting for that case need to submit 1-2
-questions/confusions related to the case on Canvas.
+Please put thoughts, consideration, and substance into your replies.
+Replies without any substance will be graded as 0. Examples include, but
+are not limited to:
+
+-   thank you
+
+-   good jobs
+
+-   I like your thoughts
+
+-   I think it's a great idea.
+
+Basically, give time and real thoughts to your peer's post, and you will
+receive points.
+
+<br>
+
+There will be 6 case discussions. But you will be graded on the highest
+5 only, and the 6th case discussion will be considered as bonus/extra
+credits.
+
+<br>
 
 # DISCUSSION CASE \#1 A Bigger Bookshop?
 
@@ -88,8 +111,8 @@ B. In addition,
 2)  For each difference RQ below, describe both the grouping variable
     and the analysis variable.
 
-3)For each association RQ below, describe the two variables to be
-associated.
+3)  For each association RQ below, describe the two variables to be
+    associated.
 
 <br>
 
@@ -249,31 +272,3 @@ of these approaches would be. Also, be prepared to suggest a better
 option for collecting the data.
 
 <br>
-
-# DISCUSSION CASE \#7 - Homecare of America (confidence intervals)
-
-Do both Part A and part B. Be prepared to show your work on the
-whiteboard in class and to explain what the answers mean?
-
-A. Homecare of America is a franchise operation that provides house
-minders for people when they are out of town. Their services include
-feeding pets, bringing in newspapers and mail, and generally keeping an
-eye on things while the homeowner is gone. They gradually expanding
-their operations to additional cities.
-
-When determining whether to enter a particular market, the company
-conducts a survey in that market to find out how many days per year
-homeowners are out of town. In Scranton, Pennsylvania, a survey of 538
-homeowners found that homeowners are out of town, on average, 16.7 days,
-with a standard deviation of 8.6 days.
-
-What is the true mean number of days out of town among homeowners in
-this area? You want to be 99% confident of your results.
-
-B. In their surveys, the company also describes their house minding
-services and measures respondents' intentions to use this service if the
-company expanded to their area. In the survey of Scranton, 6.2% of the
-people surveyed said they would be likely to use the service. What is
-the likely utilization rate for this service among the population of
-homeowners in Scranton? You want to be 95% confident of your results.
-Carry your work out to 4 decimal places.

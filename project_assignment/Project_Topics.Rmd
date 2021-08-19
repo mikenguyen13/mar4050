@@ -22,4 +22,4 @@ PA \#2 requires you to choose three topics from this list that your group would 
 
 7.  Mizzou's response to COVID19: In this project, you would assess the Mizzou students' satisfaction with Mizzou's response to COVID19 to re-open the campus. Find out how many students prefer to come to campus, find out what safety measures they are taking/ are willing to take if they were back on campus. , and identify the areas that Mizzou can do to ensure the students' safety while allowing them to enjoy college life.
 
-8.  If your team decides to propose your own project, please follow the format above to describe your proposal. Please refer to "**Client**" document for more information and guidance.
+8.  If your team decides to propose your own project, please follow the format above to describe your proposal. Please refer to "[**Client**](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/sponsor/client.pdf)" document for more information and guidance.
