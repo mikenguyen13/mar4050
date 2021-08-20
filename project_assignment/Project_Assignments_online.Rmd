@@ -13,20 +13,19 @@ The term project is designed to provide you with firsthand experience in designi
 | 1          | 10     |
 | 2          | 10     |
 | 3          | 30     |
-|            |        |
-|            |        |
-|            |        |
-|            |        |
-|            |        |
-|            |        |
-|            |        |
-|            |        |
-|            |        |
-|            |        |
-|            |        |
-|            |        |
-|            |        |
-| Total      | 200    |
+| 3.5        | 10     |
+| 4          | 30     |
+| 4.5        | 10     |
+| 5          | 30     |
+| 6          | 20     |
+| 7          | 10     |
+| 8          | 10     |
+| 9          | 0      |
+| 10         | 20     |
+| 11         | 10     |
+| 12         | 30     |
+| 13         | 10     |
+| Total      | 240    |
 
 # Assignment 1: GROUP FORMATION
 
@@ -186,7 +185,7 @@ Submit your results report on Canvas.
 
 <br>
 
-# Assignment 6: DATA ANALYSIS PLAN ()
+# Assignment 6: DATA ANALYSIS PLAN
 
 Type the data analysis plan for your project that you develop in class into a formal document, using the [Data Analysis Plan template](https://drive.google.com/file/d/1hFg5ipjgmUWCkkyC8wLIaBnNijf8N3if/view?usp=sharing) and the [cheat sheet](https://docs.google.com/spreadsheets/d/14IsWrKChT5sRHDjbgIzI41cA7Q6AzSCYRLGiKQ5yv_k/edit?usp=sharing). [Include at least one group comparison analysis in your data analysis plan]{.ul}. You can use this [Qualtrics guide](https://drive.google.com/file/d/1uwyQz2LCU0MSYEZJ1oxITdBiomQla9s2/view?usp=sharing) for the group comparison research questions. You don't need to do the analysis yet, you only need to plan for the analysis.
 
@@ -242,7 +241,7 @@ For each research question
 
 -   indicate which questionnaire question answers the research question
 
--   indicate the statistical test used to answer the question (percent, crosstabulation, etc.)
+-   indicate the statistical test used to answer the question (percent, cross tabulation, etc.)
 
 -   briefly describe the answer to the research question.
 
@@ -254,15 +253,15 @@ You can use an outline format for your report. [Submit the report on Canvas]{.ul
 
 <br>
 
-# Assignment 9: MEETING WITH INSTRUCTOR (optional) (Meeting ; sign by up )
+# Assignment 9: MEETING WITH INSTRUCTOR (optional) 
 
 On this date, you may meet with your professor to ask questions about your presentation or anything else. If you have questions about your data analysis results, bring the following with you to your meeting:
 
 -   your questionnaire
 
--   your data analysis plan (Assignment \#10, updated)
+-   your data analysis plan (Assignment \#6, updated)
 
--   initial data analysis report (PA \#12)
+-   initial data analysis report (PA \#8)
 
 <br>
 
@@ -270,7 +269,7 @@ On this date, you may meet with your professor to ask questions about your prese
 
 If you have a client, please notify your client in advance of the presentation date and time and invite your client to attend. Provide a map and parking information if necessary. The instructor can provide a parking permit (which requires name, license plate, make, model, and color to submit to Halsey) for your client if you provide **four days** advance notice.
 
-On the day of your presentation [before 9:00 am, submit your presentation PowerPoint deck (or your choice of presentation tools) on Canvas]{.ul}
+This assignment is due the day before your presentation at 11:59 PM.
 
 -   The presentation of your term project should cover the topics described on the [Pointers on Presentations](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/presentation/Pointers%20on%20presentations.docx).
 
@@ -294,7 +293,7 @@ On the day of your presentation [before 9:00 am, submit your presentation PowerP
 
 # Assignment 11: PRESENTATION CRITIQUE
 
-Prepare a written critique of the presentations of your **paired four other peer teams**, based on their video recording. Details of the critique assignment are described in the "[Presentation Evaluation Form](https://docs.google.com/document/d/15P8bHYcZ5shXgm6F2nqEfhUCn_GbDkQsEE-M41pcWm8/edit)". The video recording for each presentation team is included as a link in the evaluation sheet under each presentation team number.
+Prepare a written critique of the presentations of your **paired four other peer teams**, based on their video recording. Details of the critique assignment are described in the "[Presentation Evaluation Form](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/presentation/Presentation%20Evaluation%20Assignment.docx)". The video recording for each presentation team is included as a link in the evaluation sheet under each presentation team number.
 
 Upload a screenshot of your task completion to the Canvas assignment.
 
