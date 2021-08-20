@@ -6,7 +6,6 @@ output:
     toc: true
   html_notebook: 
     number_sections: true
-    toc: true
 urlcolor: blue
 date: "`r Sys.Date()`"
 ---
@@ -117,17 +116,17 @@ Students will be able to interpret correlation and regression results, including
 
 # Student Evaluation
 
-| Components                           | Points |
-|--------------------------------------|--------|
-| Exam (2)                             | 400    |
-| Group Term Project Assignments       | 240    |
-| Case Discussion                      | 100    |
-| Attendance                           | 50     |
-| Participation                        | 50     |
-| Professionalism                      | 10     |
-| Qualtrics Homework                   | 50     |
-| Individual Assignments (Weekly Quiz) | 100    |
-| Total                                | 1000   |
+| Components                     | Points |
+|--------------------------------|--------|
+| Exam (2)                       | 400    |
+| Group Term Project Assignments | 240    |
+| Case Discussions               | 100    |
+| Attendance                     | 50     |
+| Participation                  | 50     |
+| Professionalism                | 10     |
+| Qualtrics Homework             | 50     |
+| Weekly Quiz                    | 100    |
+| Total                          | 1000   |
 
 Extra Credit: 3-5%
 
@@ -208,40 +207,46 @@ Extra Credit: 3-5%
 
 -   Assignments are to be turned in using Canvas and are due at the time noted on Canvas.
 
--   Late assignments are eligible for up to 50% of total points if they are turned in with 24 hours of the due date; after that, no credit will be given for late assignments. To be considered, any requests to re-grade an assignment must be made within **one week after the grade has been posted on Canvas**.
+-   Late assignments are eligible for up to 50% of total points if they are turned in within 24 hours of the due date; after that, no credit will be given for late assignments. To be considered, any requests to re-grade an assignment must be made within **one week after the grade has been posted on Canvas**.
 
 Assignments consist of:
 
--   [Individual Assignment (Weekly Quiz)](#individual-assignment-weekly-quiz)
--   [Discussion Cases]
+-   [Weekly Quizzes]
+-   [Case Discussions]
 -   [Group Term Project (Project Assignment)](#group-term-project-project-assignment)
 -   [Qualtrics Homework]
 
 <br>
 
-### Individual Assignment (Weekly Quiz) {#individual-assignment-weekly-quiz}
+### Weekly Quizzes
 
 -   Each week you will have to complete a quiz on Canvas that is open after Wednesday class (9:30 AM) and is due on Sunday evening (11:59 PM). Students can view correct answers after the due date.
 
 -   The quiz will cover class materials and chapter readings. It's very important that you read the chapter before taking the quiz.
 
--   There will be 10 questions to be completed in 60 minutes.
+-   You can use your notes during quizzes, but you can't search for answers online (lockdown browser).
+
+-   There will be 10 questions to be completed in 30 minutes.
 
 -   Students will have 2 attempts to take the quiz and only the higher score of the two will be taken as the final quiz grade
 
--   These questions are randomly selected from a test bank. Hence, no two quizzes will be the same to prevent students from cheating. And 2 attempts from the students will be different as well.
+-   These questions are randomly selected from a test bank. Hence, no two quizzes will be the same to prevent students from cheating. Hence, 2 attempts from a student will be different as well.
 
 -   Weekly quiz only goes up until week 12, which means you will only need to do 12 quizzes
 
--   Only the 10 quizzes with highest scores will be taken as your individual assignment grade. Since 2 lowest quizzes will given as your bonus/ extra credits, **no extensions whatever will be granted**.
+-   Only the 10 quizzes with highest scores will be taken as your weekly quizzes grade. Since 2 lowest quizzes will given as your bonus/ extra credits, **no extensions whatever will be granted**.
 
 <br>
 
-### Discussion Cases
+### Case Discussions
 
-***Discussion Cases*** are [individual]{.ul} exercises to be completed on your own and form the basis for our class discussions. They need to be completed before class meets, and you will be called upon at various times throughout the semester to discuss your work on these exercises. Your work on these exercises will not be collected, but if you're unable to discuss your work when called upon, your participation grade will be negatively affected.
+-   ***Case Discussions*** are [individual]{.ul} exercises to be completed on your own and form the basis for our class discussions.
 
--   [Case Discussion Document](https://github.com/mikenguyen13/mar4050_F21/raw/master/case_discussion/case_discussion.pdf)
+-   They need to be completed before class meets, and you will be called upon at various times throughout the semester to discuss your work on these exercises.
+
+-   This is a chance for you to apply marketing research materials to real-life settings.
+
+-   Please read the "[Case Discussions Document](https://github.com/mikenguyen13/mar4050_F21/raw/master/case_discussion/case_discussion.pdf)" for more information.
 
 <br>
 
@@ -263,9 +268,11 @@ The group project is a small-scale marketing research project and includes probl
 
 ## Examinations
 
-Examinations will be multiple choice questions.
+-   Examinations will be multiple choice questions.
 
-Makeup exams will be given only in cases of verified illness or in other extenuating circumstances approved at least one week beforehand by the instructor. Makeup exams are normally given during final exam week. An unexcused absence from an exam will result in a grade of zero for that exam.
+-   Makeup exams will be given only in cases of verified illness or in other extenuating circumstances approved at least one week beforehand by the instructor. Makeup exams are normally given during final exam week. An unexcused absence from an exam will result in a grade of zero for that exam.
+
+-   You can use your notes during exams, but you can't search for answers online (lockdown browser).
 
 <br>
 
