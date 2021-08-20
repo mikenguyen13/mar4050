@@ -229,7 +229,7 @@ To answer your research questions, you must analyze your data. In the assignment
 
 2.  You can use the lecture slides [Descriptive Statistics (means, frequencies, crosstabs)](https://github.com/mikenguyen13/mar4050_F21/raw/master/lectures/9/1_Chapter12_Descriptive%20stats%20.pptx) for the difference questions bar-charts.
 
-3.  You can use the [analysis techniques](https://mailmissouri-my.sharepoint.com/:x:/g/personal/ylb3c_umsystem_edu/EeYgQWvbg3NHsFYaKMe4hqMBRXjaRjkU3IJ7W57lZMwyFA?e=ySDwtD) excel sheet when you do the actual analysis.
+3.  You can use the [analysis techniques](https://github.com/mikenguyen13/mar4050_F21/raw/master/lectures/Cross-tab%20worksheet.xlsx) excel sheet when you do the actual analysis.
 
 4.  You can consult the [level of measurement common issues](https://docs.google.com/document/d/1tz06AxAxUWbbhGNhJnae5nunS54TUeoLHgxAQUR4yF8/edit?usp=sharing) for your revision on the level of measurement.
 
