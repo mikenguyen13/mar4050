@@ -12,7 +12,7 @@ The term project is designed to provide you with firsthand experience in designi
 |------------|--------|
 | 1          | 10     |
 | 2          | 10     |
-|            |        |
+| 3          | 30     |
 |            |        |
 |            |        |
 |            |        |
@@ -60,11 +60,13 @@ The instructor will make every attempt to assign your group its first choice for
 
 # Assignment 3: DEFINE THE RESEARCH PROBLEM
 
+Each team will submit a word or pdf document for this assignment.
+
 Note this project requires meeting with the professor. See the [signup sheet](https://docs.google.com/spreadsheets/d/1_dxqG99lQMBNp_87SlojglrzqVy6KK4FA4T4SBZ88rE/edit?usp=sharing).
 
 Note: this PA is highly similar to our [first case discussion](https://github.com/mikenguyen13/mar4050_F21/raw/master/case_discussion/CE1%20%20discussion.docx).
 
-Your project topic is typical of the kind of problem or decision facing a local business or nonprofit organization. Your group's role is to act as marketing consultants to the business described by your topic.
+Your project topic is typical of the problem or decision facing a local business or nonprofit organization. Your group's role is to act as marketing consultants to the business described by your topic.
 
 In this assignment, based on your knowledge of marketing, business principle, and the student population, you will set at least **two research objectives** for your research project and a set of research questions for each objective that your project will answer. Your assignment should include the following elements:
 
@@ -90,7 +92,7 @@ In this assignment, based on your knowledge of marketing, business principle, an
 
         -   "to increase the number of college students who shop at our store."
 
-    -   A research objective is different from a managerial objective. Your research objective should be to provide information that will help your client reach his/her managerial objective. For the managerial objective in example above, a good research objective might be
+    -   A research objective is different from a managerial objective. Your research objective should be to provide information that will help your client reach his/her managerial objective. For the managerial objective in the example above, a good research objective might be
 
         -   "to determine which media college students are exposed to most frequently, and which media most strongly influence their purchase behavior."
 
@@ -116,7 +118,7 @@ Organize this assignment so that each objective is followed by the research ques
 
 The form of research questions will be discussed in class. You can also look at example term projects ([1](https://github.com/mikenguyen13/mar4050_F21/blob/master/project_assignment/written_report/example1%20SlideDoc%20research%20report.pdf),[2](https://github.com/mikenguyen13/mar4050_F21/blob/master/project_assignment/written_report/example2%20SlideDoc%20research%20report.pdf)) to see examples of research questions. Some important points to remember are below.
 
--   Research questions are [not]{.ul} the same as questionnaire questions. Questionnaire questions are what you ask the consumer on a survey. Research questions are the questions the **manager** wants answered. Put [research questions only]{.ul} in this assignment. Review lecture and [CE 1 discussion](https://github.com/mikenguyen13/mar4050_F21/raw/master/CE1%20%20discussion.docx) to make sure your research questions are phrased appropriately. They should [not]{.ul} include any second person pronouns.
+-   Research questions are [not]{.ul} the same as questionnaire questions. Questionnaire questions are what you ask the consumer on a survey. Research questions are the questions the **manager** wants to answer. Put [research questions only]{.ul} in this assignment. Review lecture and [CE 1 discussion](https://github.com/mikenguyen13/mar4050_F21/raw/master/case_discussion/CE1%20%20discussion.docx) to make sure your research questions are phrased appropriately. They should [not]{.ul} include any second person pronouns.
 
 -   The research questions should be very **specific**.
 
@@ -158,91 +160,11 @@ For this assignment, complete all steps of the questionnaire design process as c
 
 The questionnaire must include [screener questions]{.ul} (if relevant) and [a complete set of demographic questions]{.ul} appropriate to the people you are surveying. Unless an exception is granted by the instructor, the questionnaire should fit on the front and back of a single sheet of letter size paper.
 
-# Assignment 5: CLIENT CHECK, REVISED COPY OF QUESTIONNAIRE, SAMPLING PLAN, AND MEETING WITH INSTRUCTOR
+# Assignment 4.5: REVISED COPY OF QUESTIONNAIRE
 
-On this date, turn in the following items on Canvas:
-
--   the message you will use to introduce the survey and ask for participation; put these on a separate page from your questionnaire
-
--   the final version of your questionnaire, which has been revised based on classmates' reviews of your questionnaire
-
--   your final project objectives and list of research questions; the research questions must be numbered
-
--   a revised copy of Questionnaire Worksheet A, incorporating changes made to the questionnaire based on the classroom review
-
--   a revised copy of Questionnaire Worksheet B, incorporating changes made
-
--   your sampling plan
+Revise and resubmit Assignment \#4 - Design a questionnaire
 
 Please **highlight** the changes that you made in green on both the questionnaire and the worksheet A and B.
-
-Also on this date your group will have a meeting with your instructor to review your questionnaire and your group's sampling plan. Bring printed copies of the following materials to this meeting:
-
-(1) Sampling Plan
-
-(2) Questionnaire
-
-The sampling plan is a complete description of how you will choose individuals to participate in your survey. Sampling plans have been described in class and an example sampling plan are included in this packet. Before completing the sampling plan, review the Sampling Plan Checklist in the course packet (p. 11-10) The plan may be presented in outline form. Your sampling plan must include a completed time sampling grid (typed).
-
-<br>
-
-# Assignment 6: CODEBOOK PREPARED
-
-Prepare a codebook for entering your survey data into Excel. Submit your codebook on Canvas.
-
-Codebooks for Research Projects
-
-The codebook contains information about the variables in your study. At the top of the codebook is a title and a sentence or two describing the study. This is followed by information concerning each of the variables in your survey. For each variable, the following should be included.
-
--   The variable name (must not begin with a number)
--   Source of the variable (usually the question number on the survey)
--   Acceptable values for the variable and their definitions
-
-[An example codebook for the library questionnaires](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/questionnaire/Coodbook%20for%20the%20library%20questionnaire.xlsx).
-
-<br>
-
-# Assignment 7: DATA COLLECTION UNDERWAY
-
-Also by this date, you should have obtained completed questionnaires from at least 50 respondents (roughly 10 questionnaire per person). Respondents must be chosen according to your sampling plan.
-
-Please export your data from Qualtrics:
-
--   Under "Data & Analysis", click "Export & Import"
-
--   Choose "Export Data"
-
--   Pick "ExceL"
-
--   Then upload your excel file to the appropriate assignment on Canvas.
-
-If you also collect data manually, please submit photos of all completed questionnaire and submit it to the same Canvas assignment.
-
-The remaining data collection needs to be completed by the Assignment \#8 due date.
-
-<br>
-
-# Assignment 8: DATA COLLECTION COMPLETED, EXCEL DATA FILE PREPARED
-
-Your data collection must be completed by this date and your data entered into an Excel spreadsheet. Turn in your Excel spreadsheet on Canvas.
-
-[Make sure that everyone in your group have access to the complete data file]{.ul}.
-
-<br>
-
-# Assignment 9: PREPARE FOR DATA ANALYSIS
-
-This assignment requires no new work by team members. However, when class begins, each team member should have in his/her possession the following items to refer to during class:
-
--   your final list of research questions (numbered)
-
--   the final version of your team's questionnaire
-
--   Questionnaire Worksheet B (updated final version)
-
-You are allowed to bring your laptop to the class to access these materials.
-
-<br>
 
 # Assignment 5: COMPLETE DATA COLLECTION, DATA COLLECTION RESULTS REPORT
 
@@ -264,27 +186,31 @@ Submit your results report on Canvas.
 
 <br>
 
-# Assignment 10: DATA ANALYSIS PLAN ()
+# Assignment 6: DATA ANALYSIS PLAN ()
 
 Type the data analysis plan for your project that you develop in class into a formal document, using the [Data Analysis Plan template](https://drive.google.com/file/d/1hFg5ipjgmUWCkkyC8wLIaBnNijf8N3if/view?usp=sharing) and the [cheat sheet](https://docs.google.com/spreadsheets/d/14IsWrKChT5sRHDjbgIzI41cA7Q6AzSCYRLGiKQ5yv_k/edit?usp=sharing). [Include at least one group comparison analysis in your data analysis plan]{.ul}. You can use this [Qualtrics guide](https://drive.google.com/file/d/1uwyQz2LCU0MSYEZJ1oxITdBiomQla9s2/view?usp=sharing) for the group comparison research questions. You don't need to do the analysis yet, you only need to plan for the analysis.
 
 Submit your typed data analysis plan on Canvas including:
 
-(1) your typed data analysis plan
+-   Your typed data analysis plan
 
-(2) your research questions and research objectives
+When class begins, each team member should have in his/her possession the following items to refer to during class:
 
-(3) your questionnaire & Questionnaire Worksheet B (updated final version)
+1.  your typed data analysis plan
 
-(4) the Results Report from Qualtrics (see PA 5)
+2.  your research questions and research objectives
+
+3.  your questionnaire
+
+4.  the Results Report from Qualtrics (see PA 5)
 
 when the actual in-class analysis begins, each team member should have in his/her possession the above items to refer to during class.
 
 <br>
 
-# Assignment 11: MID-SEMESTER PEER EVALUATION
+# Assignment 7: MID-SEMESTER PEER EVALUATION
 
-In this assignment, you will evaluate your own performance throughout the project and that of other members of your group on the major project assignments completed so far. [A Word version of the evaluation form](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/Mid-semester%20peer%20evaluation%20form.docx) is available on Canvas. Download the form, complete it, then submit on Canvas. (remember to put it on Canvas, not as a word doc for student)
+In this assignment, you will evaluate your own performance throughout the project and that of other members of your group on the major project assignments completed so far. [A Word version of the evaluation form](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/evaluations/mid-semester%20peer%20evaluation%20form.docx) is available on Canvas. Download the form, complete it, then submit on Canvas. (remember to put it on Canvas, not as a word doc for student)
 
 This evaluation is confidential and will not be shared with group members. However, if you have a concern about your level of contribution to the project, or the contribution of another group member, you are encouraged to discuss this with your group. Regardless, it is a good time of the semester to take a few minutes of a regularly scheduled group meeting to discuss the following issues:
 
@@ -296,7 +222,7 @@ This evaluation is confidential and will not be shared with group members. Howev
 
 -   what changes could each group member make to enhance group functioning?
 
-# Assignment 12: INITIAL DATA ANALYSIS REPORT
+# Assignment 8: INITIAL DATA ANALYSIS REPORT
 
 To answer your research questions, you must analyze your data. In the assignment, you will conduct the analyses to answer your research questions and summarize the results in a pdf document. [Be sure to number the pages on this document]{.ul}. You can consult the following documents that we went through in class:
 
@@ -328,7 +254,7 @@ You can use an outline format for your report. [Submit the report on Canvas]{.ul
 
 <br>
 
-# Assignment 13: MEETING WITH INSTRUCTOR (optional) (Meeting ; sign by up )
+# Assignment 9: MEETING WITH INSTRUCTOR (optional) (Meeting ; sign by up )
 
 On this date, you may meet with your professor to ask questions about your presentation or anything else. If you have questions about your data analysis results, bring the following with you to your meeting:
 
@@ -340,21 +266,11 @@ On this date, you may meet with your professor to ask questions about your prese
 
 <br>
 
-# Assignment: Extra credit - STATISTICAL TESTS 10 points
+# Assignment 10: TERM PROJECT PRESENTATION
 
-Completing this assignment will gain your ten extra points in total or five points per analysis.
+If you have a client, please notify your client in advance of the presentation date and time and invite your client to attend. Provide a map and parking information if necessary. The instructor can provide a parking permit (which requires name, license plate, make, model, and color to submit to Halsey) for your client if you provide **four days** advance notice.
 
-You need to apply **up to two analyses** among following statistical tools that we covered for second exam: a) confidence interval for mean b) confidence interval for percent c) independent t test d) two way chi-square test
-
-Follow the same format as the Assignment 12: INITIAL DATA ANALYSIS REPORT on those appropriate research questions.
-
-<br>
-
-# Assignment 14: TERM PROJECT PRESENTATION ()
-
-Notify your client in advance of the presentation date and time and invite your client to attend. Provide a map and parking information if necessary. The instructor can provide a parking permit (which requires name, license plate, make, model, and color to submit to Halsey) for your client if you provide **four days** advance notice.
-
-On the day of your presentation [before 9:00 am, submit your presentation PowerPoint deck (or your choice of presentation tools) on Canvas]{.ul},
+On the day of your presentation [before 9:00 am, submit your presentation PowerPoint deck (or your choice of presentation tools) on Canvas]{.ul}
 
 -   The presentation of your term project should cover the topics described on the [Pointers on Presentations](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/presentation/Pointers%20on%20presentations.docx).
 
@@ -376,11 +292,7 @@ On the day of your presentation [before 9:00 am, submit your presentation PowerP
 
 <br>
 
-# Assignment 15: PRESENTATION CRITIQUE ()
-
-This assignment is due 11/20 if your presentation was on 11/18.
-
-It's due 12/2 if your presentation was on 11/30.
+# Assignment 11: PRESENTATION CRITIQUE
 
 Prepare a written critique of the presentations of your **paired four other peer teams**, based on their video recording. Details of the critique assignment are described in the "[Presentation Evaluation Form](https://docs.google.com/document/d/15P8bHYcZ5shXgm6F2nqEfhUCn_GbDkQsEE-M41pcWm8/edit)". The video recording for each presentation team is included as a link in the evaluation sheet under each presentation team number.
 
@@ -388,27 +300,11 @@ Upload a screenshot of your task completion to the Canvas assignment.
 
 <br>
 
-# Assignment 16: WRITTEN PROJECT REPORT ()
+# Assignment 12: WRITTEN PROJECT REPORT
 
 Sample student projects ([1](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/written_report/example1%20SlideDoc%20research%20report.pdf), [2](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/written_report/example2%20SlideDoc%20research%20report.pdf)) are available. [Report format](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/written_report/Slidedocs%20report%20templates.pptx) and other guidelines are covered in class. See also the material titled "[Project Report Guidelines](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/written_report/Project%20Report%20Guideline.pdf)".
 
 For this assignment, submit an electronic copy of your report on Canvas.
-
-This assignment contains 3 parts:
-
-(1) Submit an electronic copy of your report on Canvas
-
-(2) Provide your client each of the following items by this date:
-
--   a printed and bound copy of your report
-
--   a hard copy and an electronic copy of the client Project Evaluation Form (available on Canvas)
-
--   contact information for all group members
-
--   in addition, the group must make itself available to your client to discuss the report should he/she have questions.
-
-(3) Turn in the Statement of Submission to Client form (course packet p. 30-2). This statement acknowledges that you have provided the above items to your client. Turn in a copy of this statement, [signed by the contact person for your client company]{.ul} and by all group members, to the instructor. [If this form isn't received in time, all group members will receive an incomplete for the class]{.ul}. The incomplete will be removed with the instructor receives the signed form.
 
 NOTE:
 
@@ -417,6 +313,6 @@ NOTE:
 
 <br>
 
-# Assignment 17: PEER EVALUATION ( by 5 pm)
+# Assignment 13: PEER EVALUATION (by 5 pm)
 
-In this assignment, you will evaluate your own performance throughout the project and that of other members of your group. [Download the form](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/peer%20evaluation.docx), complete it, then submit on Canvas before 5 p.m. on this date. on this date. If this form is not submitted, you may receive an incomplete grade for the course.
+In this assignment, you will evaluate your own performance throughout the project and that of other members of your group. [Download the form](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/evaluations/final%20peer%20evaluation.docx), complete it, then submit on Canvas before 5 p.m. on this date. on this date. If this form is not submitted, you may receive an incomplete grade for the course.
