@@ -157,7 +157,7 @@ For this assignment, complete all steps of the questionnaire design process as c
 
 -   a completed copy of Questionnaire Worksheet B ([WorksheetB template](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/questionnaire/8-Qnaire%20worksheet%20B.xls))
 
-The questionnaire must include [screener questions]{.ul} (if relevant) and [a complete set of demographic questions]{.ul} appropriate to the people you are surveying. Unless an exception is granted by the instructor, the questionnaire should fit on the front and back of a single sheet of letter size paper.
+The questionnaire must include [screener questions]{.ul} (if relevant) and [a complete set of demographic questions]{.ul} appropriate to the people you are surveying. Unless an exception is granted by the instructor, the questionnaire should fit on the front and back of a single sheet of letter-size paper.
 
 # Assignment 4.5: REVISED COPY OF QUESTIONNAIRE
 
@@ -187,7 +187,7 @@ Submit your results report on Canvas.
 
 # Assignment 6: DATA ANALYSIS PLAN
 
-Type the data analysis plan for your project that you develop in class into a formal document, using the [Data Analysis Plan template](https://drive.google.com/file/d/1hFg5ipjgmUWCkkyC8wLIaBnNijf8N3if/view?usp=sharing) and the [cheat sheet](https://docs.google.com/spreadsheets/d/14IsWrKChT5sRHDjbgIzI41cA7Q6AzSCYRLGiKQ5yv_k/edit?usp=sharing). [Include at least one group comparison analysis in your data analysis plan]{.ul}. You can use this [Qualtrics guide](https://drive.google.com/file/d/1uwyQz2LCU0MSYEZJ1oxITdBiomQla9s2/view?usp=sharing) for the group comparison research questions. You don't need to do the analysis yet, you only need to plan for the analysis.
+Type the data analysis plan for your project that you develop in class into a formal document, using the [Data Analysis Plan template](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/Data%20Anal%20Plan%20wkst.xlsx) and the [cheat sheet](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/data%20analysis%20plan%20grid.xlsx). [Include at least one group comparison analysis in your data analysis plan]{.ul}. You can use this [Qualtrics guide](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/differences%20RQ%20analysis%20on%20Qualtrics.docx) for the group comparison research questions. You don't need to do the analysis yet, you only need to plan for the analysis.
 
 Submit your typed data analysis plan on Canvas including:
 
@@ -209,7 +209,7 @@ when the actual in-class analysis begins, each team member should have in his/he
 
 # Assignment 7: MID-SEMESTER PEER EVALUATION
 
-In this assignment, you will evaluate your own performance throughout the project and that of other members of your group on the major project assignments completed so far. [A Word version of the evaluation form](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/evaluations/mid-semester%20peer%20evaluation%20form.docx) is available on Canvas. Download the form, complete it, then submit on Canvas. (remember to put it on Canvas, not as a word doc for student)
+In this assignment, you will evaluate your own performance throughout the project and that of other members of your group on the major project assignments completed so far. [A Word version of the evaluation form](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/evaluations/mid-semester%20peer%20evaluation%20form.docx) is available on Canvas. Download the form, complete it, then submit on Canvas. (remember to put it on Canvas, not as a word doc for students)
 
 This evaluation is confidential and will not be shared with group members. However, if you have a concern about your level of contribution to the project, or the contribution of another group member, you are encouraged to discuss this with your group. Regardless, it is a good time of the semester to take a few minutes of a regularly scheduled group meeting to discuss the following issues:
 
@@ -225,15 +225,15 @@ This evaluation is confidential and will not be shared with group members. Howev
 
 To answer your research questions, you must analyze your data. In the assignment, you will conduct the analyses to answer your research questions and summarize the results in a pdf document. [Be sure to number the pages on this document]{.ul}. You can consult the following documents that we went through in class:
 
-1.  You can use this [Qualtrics guide](https://drive.google.com/file/d/1uwyQz2LCU0MSYEZJ1oxITdBiomQla9s2/view?usp=sharing) for the difference research questions.
+1.  You can use this [Qualtrics guide](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/differences%20RQ%20analysis%20on%20Qualtrics.docx) for the difference research questions.
 
 2.  You can use the lecture slides [Descriptive Statistics (means, frequencies, crosstabs)](https://drive.google.com/file/d/128nJxj9V3o4HOVajncStfItfAEcNjPPo/view?usp=sharing) for the difference questions bar-charts.
 
-3.  You can use the [analysis techniques](https://mailmissouri-my.sharepoint.com/:x:/g/personal/ylb3c_umsystem_edu/EeYgQWvbg3NHsFYaKMe4hqMBRXjaRjkU3IJ7W57lZMwyFA?e=ySDwtD) excel sheet when you do actual analysis.
+3.  You can use the [analysis techniques](https://mailmissouri-my.sharepoint.com/:x:/g/personal/ylb3c_umsystem_edu/EeYgQWvbg3NHsFYaKMe4hqMBRXjaRjkU3IJ7W57lZMwyFA?e=ySDwtD) excel sheet when you do the actual analysis.
 
 4.  You can consult the [level of measurement common issues](https://docs.google.com/document/d/1tz06AxAxUWbbhGNhJnae5nunS54TUeoLHgxAQUR4yF8/edit?usp=sharing) for your revision on the level of measurement.
 
-5.  You **should** consult the [Sample student projects](https://drive.google.com/file/d/11SbGxUXGmUYsVaeKNiF-9rb3eXC0oD_h/view?usp=sharing) for its **result session** (from pages 29 to 49) on the **expected PA outputs**. The analysis report is organized by research question and should include the following:
+5.  You **should** consult the [Sample student projects](https://drive.google.com/file/d/11SbGxUXGmUYsVaeKNiF-9rb3eXC0oD_h/view?usp=sharing) for their **result section** on the **expected PA outputs**. The analysis report is organized by research question and should include the following:
 
 For each research question
 
@@ -241,13 +241,13 @@ For each research question
 
 -   indicate which questionnaire question answers the research question
 
--   indicate the statistical test used to answer the question (percent, cross tabulation, etc.)
+-   indicate the statistical test used to answer the question (percent, cross-tabulation, etc.)
 
 -   briefly describe the answer to the research question.
 
 -   for each research question, copy and paste the relevant part of the Qualtrics Results Report into your document.
 
--   add bar chart to visualize the results.
+-   add bar charts to visualize the results.
 
 You can use an outline format for your report. [Submit the report on Canvas]{.ul}.
 
