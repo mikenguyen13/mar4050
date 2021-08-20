@@ -6,7 +6,7 @@ output:
 urlcolor: blue
 ---
 
-The term project is designed to provide you with firsthand experience in designing and carrying out a marketing research project. The project is divided into n assignments, described below. Each completed assignment should be submitted by the date and time specified below. All components of an assignment must be turned in to receive full credit.
+The term project is designed to provide you with firsthand experience in designing and carrying out a marketing research project. The project is divided into 13 assignments, described below. Each completed assignment should be submitted by the date and time specified below. All components of an assignment must be turned in to receive full credit.
 
 | Assignment | Points |
 |------------|--------|
@@ -141,7 +141,7 @@ Note this project requires meeting with the professor and your team members. See
 
 The questionnaire is one of the most important parts of the project.
 
-Example questionnaires are [available](https://github.com/mikenguyen13/mar4050_F21/tree/master/project_assignment/questionnaire/example_questionnaire)
+Example questionnaires are [available](https://github.com/mikenguyen13/mar4050_F21/tree/master/project_assignment/questionnaire/example_questionaire)
 
 You can consult these examples for reference regarding ideas about question wording and format and questionnaire layout. Be sure to also look at [Questionnaire Tips](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/questionnaire/Questionnaire%20Design%20Cheat%20sheet.docx).
 
@@ -231,7 +231,7 @@ To answer your research questions, you must analyze your data. In the assignment
 
 3.  You can use the [analysis techniques](https://github.com/mikenguyen13/mar4050_F21/raw/master/lectures/Cross-tab%20worksheet.xlsx) excel sheet when you do the actual analysis.
 
-4.  You can consult the [level of measurement common issues](https://docs.google.com/document/d/1tz06AxAxUWbbhGNhJnae5nunS54TUeoLHgxAQUR4yF8/edit?usp=sharing) for your revision on the level of measurement.
+4.  You can consult the [level of measurement common issues](https://github.com/mikenguyen13/mar4050_F21/raw/master/lectures/Common%20issue%20level%20of%20measurement.docx) for your revision on the level of measurement.
 
 5.  You **should** consult the Sample student projects ([1](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/written_report/example1%20SlideDoc%20research%20report.pdf), [2](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/written_report/example2%20SlideDoc%20research%20report.pdf)) for their **result section** on the **expected PA outputs**. The analysis report is organized by research question and should include the following:
 
@@ -267,13 +267,13 @@ On this date, you may meet with your professor to ask questions about your prese
 
 # Assignment 10: TERM PROJECT PRESENTATION
 
-If you have a client, please notify your client in advance of the presentation date and time and invite your client to attend. Provide a map and parking information if necessary. The instructor can provide a parking permit (which requires name, license plate, make, model, and color to submit to Halsey) for your client if you provide **four days** advance notice.
+If you have a client, please notify your client in advance of the presentation date and time and invite your client to attend. Provide a map and parking information if necessary. The instructor can provide a parking permit (which requires name, license plate, make, model, and color to submit to the instructor) for your client if you provide **four days** advance notice.
 
 This assignment is due the day before your presentation at 11:59 PM.
 
 -   The presentation of your term project should cover the topics described on the [Pointers on Presentations](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/presentation/Pointers%20on%20presentations.docx).
 
--   The presentation can be either PowerPoint format, Google Slides or Prezi.
+-   The presentation can be either in PowerPoint format, Google Slides, or Prezi.
 
 -   During the presentation, the monitor at the back of the room will be turned off so that you can get more practice in a setting similar to what you will encounter in a business environment.
 
@@ -281,7 +281,7 @@ This assignment is due the day before your presentation at 11:59 PM.
 
 -   The presentation should last between 12 and 14 minutes. If you go under or over this time frame, there is a grade deduction of 1 point per minute. The class will have an opportunity to ask you questions following your presentation.
 
--   Your presentation will be graded on the criteria described in "[Presentation Evaluation Form](https://github.com/mikenguyen13/mar4050_F21/blob/master/project_assignment/presentation/Presentation%20Evaluation%20Assignment.docx)."
+-   Your presentation will be graded on the criteria described in the "[Presentation Evaluation Form](https://github.com/mikenguyen13/mar4050_F21/blob/master/project_assignment/presentation/Presentation%20Evaluation%20Assignment.docx)."
 
 -   Each person will submit an evaluation for every group.
 
@@ -307,11 +307,11 @@ For this assignment, submit an electronic copy of your report on Canvas.
 
 NOTE:
 
--   You may wonder what the difference between the presentation (if you use powerpoint) and the written report. In the presentation, you have 10-12 minutes to present in the most succinct way about your research project, which means that you might not be able to address all the research questions. However, in the report, you can put everything that is of interest to the consumers of that report (e.g., managers).
--   If you attempt to submit the same powerpoint presentation as your written report. You will receive no points for this assignment because you did not perform any work for this assignment.
+-   You may wonder what the difference is between the presentation (if you use Powerpoint) and the written report. In the presentation, you have 10-12 minutes to present in the most succinct way about your research project, which means that you might not be able to address all the research questions. However, in the report, you can put everything that is of interest to the consumers of that report (e.g., managers).
+-   If you attempt to submit the same Powerpoint presentation as your written report. You will receive no points for this assignment because you did not perform any work for this assignment.
 
 <br>
 
 # Assignment 13: PEER EVALUATION (by 5 pm)
 
-In this assignment, you will evaluate your own performance throughout the project and that of other members of your group. [Download the form](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/evaluations/final%20peer%20evaluation.docx), complete it, then submit on Canvas before 5 p.m. on this date. on this date. If this form is not submitted, you may receive an incomplete grade for the course.
+In this assignment, you will evaluate your own performance throughout the project and that of other members of your group. [Download the form](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/evaluations/final%20peer%20evaluation.docx), complete it, then submit it on Canvas before 5 p.m. on this date. on this date. If this form is not submitted, you may receive an incomplete grade for the course.

@@ -1,10 +1,17 @@
 ---
 title: 'Syllabus Fall 2021 \linebreak Marketing 4050 - Marketing Research' 
 output:
-  pdf_document: default
-  html_notebook: default
+  pdf_document: 
+    number_sections: true
+    toc: true
+  html_notebook: 
+    number_sections: true
+    toc: true
 urlcolor: blue
+date: "`r Sys.Date()`"
 ---
+
+\newpage
 
 Instructor: Mike Nguyen
 
@@ -28,7 +35,17 @@ Course packet, College of Business Copy Center (required---will be used in almos
 
 <br>
 
-# Course Objectives
+# **Prerequisites**
+
+Mktg 3000, junior standing, and Statistics 3500.
+
+If you don't have these prerequisites, please talk to the instructor.
+
+<br>
+
+# Objectives
+
+## Course Objectives
 
 This course will provide students with an understanding of the role of marketing research in organizations and knowledge about how marketing research is carried out. Students will learn the language of marketing research, the value of primary and secondary sources of data, and how errors in research can be reduced or avoided. The course is also designed to further students' professional development by enhancing their ability to:
 
@@ -43,14 +60,6 @@ This course will provide students with an understanding of the role of marketing
 -   make effective formal presentations
 
 This course has been constructed based on previous notes by professor Marsha Richins, and Frank Lin
-
-<br>
-
-## **Prerequisites**
-
-Mktg 3000, junior standing, and Statistics 3500.
-
-If you don't have these prerequisites, please talk to the instructor.
 
 <br>
 
@@ -106,7 +115,7 @@ Students will be able to interpret correlation and regression results, including
 
 <br>
 
-## Student Evaluation
+# Student Evaluation
 
 | Components                           | Points |
 |--------------------------------------|--------|
@@ -122,49 +131,20 @@ Students will be able to interpret correlation and regression results, including
 
 Extra Credit: 3-5%
 
-| Letter Grade | Percentage    |
-|--------------|---------------|
-| A            | $\ge 90 \%$   |
-| B            | $80\% - 90\%$ |
-| C            | $70\% - 80\%$ |
-| D            | $60\% - 70\%$ |
-| F            | $< 60\%$      |
-
-<br>
-
-## Examinations
-
-Examinations will be multiple choice questions.
-
-Makeup exams will be given only in cases of verified illness or in other extenuating circumstances approved at least one week beforehand by the instructor. Makeup exams are normally given during final exam week. An unexcused absence from an exam will result in a grade of zero for that exam.
-
-<br>
-
-## Individual Assignment (Weekly Quiz)
-
--   Each week you will have to complete a quiz on Canvas that is open after Wednesday class (9:30 AM) and is due on Sunday evening (11:59 PM). Students can view correct answers after the due date.
-
--   The quiz will cover class materials and chapter readings. It's very important that you read the chapter before taking the quiz.
-
--   There will be 10 questions to be completed in 60 minutes.
-
--   Students will have 2 attempts to take the quiz and only the higher score of the two will be taken as the final quiz grade
-
--   These questions are randomly selected from a test bank. Hence, no two quizzes will be the same to prevent students from cheating. And 2 attempts from the students will be different as well.
-
--   Weekly quiz only goes up until week 12, which means you will only need to do 12 quizzes
-
--   Only the 10 quizzes with highest scores will be taken as your individual assignment grade. Since 2 lowest quizzes will given as your bonus/ extra credits, **no extensions whatever will be granted**.
-
-<br>
-
-## Group Term Project
-
-The group project is a small-scale marketing research project and includes problem definition, questionnaire design, data collection, data analysis, and writing up the research report. Each group will also give an oral presentation at the end of the semester. Group members will evaluate each other's performance on the project, and the evaluation will be considered in assigning individual students' grades for the project. If a group member consistently fails to contribute appropriately to the group's work, the other group members may request in writing to the instructor that the non-performing member be terminated from group. In such instances, the terminated group member will be allowed to use data collected by the group but will be required to complete remaining project assignments on his/her own, including data analysis, presentation, and final report. A terminated group member may appeal this decision to the instructor in writing, but must do so within **four calendar days of notice of dismissal**.
-
--   Project Assignment (PA) Document
-
--   Sample term project report
+| Letter Grade | Range | To  |
+|--------------|-------|-----|
+| A            | 100%  | 94% |
+| A-           | \<94% | 90% |
+| B+           | \<90% | 87% |
+| B            | \<87% | 84% |
+| B-           | \<84% | 80% |
+| C+           | \<80% | 77% |
+| C            | \<77% | 74% |
+| C-           | \<74% | 70% |
+| D+           | \<70% | 67% |
+| D            | \<67% | 64% |
+| D-           | \<64% | 61% |
+| F            | \<61% | 0%  |
 
 <br>
 
@@ -180,15 +160,37 @@ The group project is a small-scale marketing research project and includes probl
 
 -   Professional behavior is expected of all students. Professionalism includes being on time, being courteous to class members and the instructor, being reliable and conscientious when working on group projects, and other aspects of behavior normally expected of students or employees.
 
--   **Important note on attendance:** Everyone is allowed to have **two** absences without questions asked. After that each absence will cost you 50% of the attendance score unless excused by the instructor. Thus, **on your fourth absence**, all your attendance points will be gone. For example, when you miss two classes, your attendance won't be affected. when you miss the third class, you attendance point is now only 20. when you miss the fourth class, you will receive 0 in your attendance point. **Attendance points are recorded by iClicker.**
+### Attendance
 
--   **Import note on participation**: Your participation points are also recorded by **iClicker in class polls**. Students who are late to class will be marked **absent**. The start and end times for the class are determined by the classroom clock, not the time on students' phones.
+-   Everyone is allowed to have **two** absences without questions asked. After that, each absence will cost you 50% of the attendance score unless excused by the instructor. Thus, **on your fourth absence**, all your attendance points will be gone.
 
--   **Import note on professionalism**: Students are expected to act in a professional manner during the class. If over half of your group members rate your performance as poor, professionalism point will automatically be 0. Professionalism includes being on time, being courteous to class members and the instructor, being reliable and conscientious when working on group projects, and other aspects of behavior normally expected of students or employees.
+-   iClicker attendance will be run automatically from 7:55 AM to 8:10 AM (UTC-06:00) Central Time (US & Canada) on class days.
+
+-   For example, when you miss two classes, your attendance won't be affected. when you miss the third class, your attendance point is now only 20. When you miss the fourth class, you will receive 0 in your attendance point.
+
+-   **Attendance points are recorded by iClicker.**
+
+### Participation
+
+-   Your participation points are also recorded by **iClicker in class polls**.
+
+-   Students who are late to class will be marked **absent**, but can still earn participation points.
+
+-   We have 25 class sessions, and each class participation can earn you 2 points, in total 50 participation points.
+
+-   You need to respond to **at least 75% of the questions to earn participation points**.
+
+-   **For each correct response, you can earn 1 point extra credit.** (This can add up!!!)
+
+-   The start and end times for the class are determined by the classroom clock, not the time on students' phones.
+
+### Professionalism
+
+-   Students are expected to act in a professional manner during the class. If over half of your group members rate your performance as poor, professionalism point will automatically be 0. Professionalism includes being on time, being courteous to class members and the instructor, being reliable and conscientious when working on group projects, and other aspects of behavior normally expected of students or employees.
 
 <br>
 
-## **IClicker Reef**
+### IClicker Reef {.unnumbered}
 
 -   Please create an account on iClicker App in Apple or Android store with your full name on the Myzou. If you don't have a smart phone, you can do so through desktop version.
 
@@ -208,13 +210,196 @@ The group project is a small-scale marketing research project and includes probl
 
 -   Late assignments are eligible for up to 50% of total points if they are turned in with 24 hours of the due date; after that, no credit will be given for late assignments. To be considered, any requests to re-grade an assignment must be made within **one week after the grade has been posted on Canvas**.
 
--   ***Project Assignments*** (PA) are described in a separate document tilted "Project Assignment". They are to be completed by group members and turned in on the due dates shown. To be considered, any requests to re-grade an assignment must be made within **one week after the grade has been posted on Canvas.**
+Assignments consist of:
 
-    -   Project Assignment Document
+-   [Individual Assignment (Weekly Quiz)](#individual-assignment-weekly-quiz)
+-   [Discussion Cases]
+-   [Group Term Project (Project Assignment)](#group-term-project-project-assignment)
+-   [Qualtrics Homework]
 
--   ***Discussion Cases*** are [individual]{.ul} exercises to be completed on your own and form the basis for our class discussions. They need to be completed before class meets, and you will be called upon at various times throughout the semester to discuss your work on these exercises. Your work on these exercises will not be collected, but if you're unable to discuss your work when called upon, your participation grade will be negatively affected.
+<br>
 
-    -   Case Discussion Document
+### Individual Assignment (Weekly Quiz) {#individual-assignment-weekly-quiz}
+
+-   Each week you will have to complete a quiz on Canvas that is open after Wednesday class (9:30 AM) and is due on Sunday evening (11:59 PM). Students can view correct answers after the due date.
+
+-   The quiz will cover class materials and chapter readings. It's very important that you read the chapter before taking the quiz.
+
+-   There will be 10 questions to be completed in 60 minutes.
+
+-   Students will have 2 attempts to take the quiz and only the higher score of the two will be taken as the final quiz grade
+
+-   These questions are randomly selected from a test bank. Hence, no two quizzes will be the same to prevent students from cheating. And 2 attempts from the students will be different as well.
+
+-   Weekly quiz only goes up until week 12, which means you will only need to do 12 quizzes
+
+-   Only the 10 quizzes with highest scores will be taken as your individual assignment grade. Since 2 lowest quizzes will given as your bonus/ extra credits, **no extensions whatever will be granted**.
+
+<br>
+
+### Discussion Cases
+
+***Discussion Cases*** are [individual]{.ul} exercises to be completed on your own and form the basis for our class discussions. They need to be completed before class meets, and you will be called upon at various times throughout the semester to discuss your work on these exercises. Your work on these exercises will not be collected, but if you're unable to discuss your work when called upon, your participation grade will be negatively affected.
+
+-   [Case Discussion Document](https://github.com/mikenguyen13/mar4050_F21/raw/master/case_discussion/case_discussion.pdf)
+
+<br>
+
+### Group Term Project (Project Assignment) {#group-term-project-project-assignment}
+
+The group project is a small-scale marketing research project and includes problem definition, questionnaire design, data collection, data analysis, and writing up the research report. Each group will also give an oral presentation at the end of the semester. Group members will evaluate each other's performance on the project, and the evaluation will be considered in assigning individual students' grades for the project. If a group member consistently fails to contribute appropriately to the group's work, the other group members may request in writing to the instructor that the non-performing member be terminated from group. In such instances, the terminated group member will be allowed to use data collected by the group but will be required to complete remaining project assignments on his/her own, including data analysis, presentation, and final report. A terminated group member may appeal this decision to the instructor in writing, but must do so within **four calendar days of notice of dismissal**.
+
+-   ***Project Assignments*** (PA) are described in a separate document tilted "[Project Assignment](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/Project_Assignments_online.pdf)". They are to be completed by group members and turned in on the due dates shown. To be considered, any requests to re-grade an assignment must be made within **one week after the grade has been posted on Canvas.**
+-   [Sample term project report](https://github.com/mikenguyen13/mar4050_F21/tree/master/project_assignment/written_report)
+-   Sign-up [here](https://docs.google.com/spreadsheets/d/1_dxqG99lQMBNp_87SlojglrzqVy6KK4FA4T4SBZ88rE/edit?usp=sharing)
+
+<br>
+
+### Qualtrics Homework
+
+[This assignment](https://github.com/mikenguyen13/mar4050_F21/raw/master/Qualtrics%20assign.docx) helps you familiarize yourself with Qualtrics, which will aid you in preparing your questionnaire for the group project.
+
+<br>
+
+## Examinations
+
+Examinations will be multiple choice questions.
+
+Makeup exams will be given only in cases of verified illness or in other extenuating circumstances approved at least one week beforehand by the instructor. Makeup exams are normally given during final exam week. An unexcused absence from an exam will result in a grade of zero for that exam.
+
+<br>
+
+# **TENTATIVE SCHEDULE -- MRKTNG 4050**
+
+**Import note:**
+
+-   All of the course materials are published on Canvas
+
+-   PA is a group project assignment.
+
+-   CD is case discussion
+
+-   Chapters refers to chapters in the textbook.
+
+-   This schedule is subject to changes due to possible adaption to the class' pace. Hence, you should always view the most updated version on Canvas.
+
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+| Week | **Date** | **Topic**                                         | **Assignments Due**                | **Chapter Reading** |
++:====:+==========+===================================================+====================================+=====================+
+| 1    | Aug 23   | Course Intro                                      |                                    | 1                   |
+|      |          |                                                   |                                    |                     |
+|      |          | Problem Analysis                                  |                                    |                     |
+|      |          |                                                   |                                    |                     |
+|      |          | Case Discussion                                   |                                    |                     |
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+|      | Aug 25   | The Research Process                              | PA \#1 (end of the day)            | 2, 3                |
+|      |          |                                                   |                                    |                     |
+|      |          | Problem Definition                                | Quiz 1 (Sunday)                    |                     |
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+| 2    | Aug 30   | Intro to Project                                  | PA \#2 (end of the day)            |                     |
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+|      | Sep 1    | Research Designs                                  | CD \#1 (Sunday)                    | 4                   |
+|      |          |                                                   |                                    |                     |
+|      |          |                                                   | Quiz 2 (Sunday)                    |                     |
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+| 3    | Sep 6    | Labor Day                                         |                                    |                     |
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+|      | Sep 8    | Information Systems, Dashboards, & Data Analytics | CD \#2 (Sunday)                    | 5, 6                |
+|      |          |                                                   |                                    |                     |
+|      |          |                                                   | PA \#3 (Sunday)                    |                     |
+|      |          |                                                   |                                    |                     |
+|      |          |                                                   | Quiz 3 (Sunday)                    |                     |
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+| 4    | Sep 13   | Project Meeting                                   |                                    |                     |
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+|      | Sep 15   | Secondary & Syndicated Data                       | CD \#3 (Sunday)                    | 7, 8                |
+|      |          |                                                   |                                    |                     |
+|      |          | Experimentation                                   | PA \# 3.5 revision (Sunday)        |                     |
+|      |          |                                                   |                                    |                     |
+|      |          | Project Meeting                                   | Quiz 4 (Sunday)                    |                     |
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+| 5    | Sep 20   | Survey Research                                   | Qualtrics homework published       | 9, 10, 11           |
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+|      | Sep 22   | Measurement                                       | CD \#4 (Sunday)                    | 12                  |
+|      |          |                                                   |                                    |                     |
+|      |          | Questionnaire Design                              | Quiz 5 (Sunday)                    |                     |
+|      |          |                                                   |                                    |                     |
+|      |          |                                                   | Qualtrics homework (Sunday)        |                     |
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+| 6    | Sep 27   | Questionnaire Design II                           | PA \#4                             | 13                  |
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+|      | Sep 29   | Questionnaire Analysis                            | CD \#5 (Sunday)                    |                     |
+|      |          |                                                   |                                    |                     |
+|      |          |                                                   | Quiz 6 (Sunday)                    |                     |
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+| 7    | Oct 4    | Sampling                                          | PA \# 4.5 (revision)               |                     |
+|      |          |                                                   |                                    |                     |
+|      |          | Data Preparation                                  |                                    |                     |
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+|      | Oct 6    | Project Meetings                                  | PA \#5 (strongly suggest to begin) | 14, 15              |
+|      |          |                                                   |                                    |                     |
+|      |          |                                                   | CD \#6 (Sunday)                    |                     |
+|      |          |                                                   |                                    |                     |
+|      |          |                                                   | Quiz 7 (Sunday)                    |                     |
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+| 8    | Oct 11   | **First Exam**                                    |                                    |                     |
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+|      | Oct 13   | Work Day (collecting data)                        | PA \#5 (Sunday)                    | 16                  |
+|      |          |                                                   |                                    |                     |
+|      |          |                                                   | Quiz 8 (Sunday)                    |                     |
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+| 9    | Oct 18   | Descriptive Statistics                            |                                    | 12                  |
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+|      | Oct 20   | Data Analysis Plans                               | PA \#6 (Sunday)                    |                     |
+|      |          |                                                   |                                    |                     |
+|      |          |                                                   | Quiz 9 (Sunday)                    |                     |
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+| 10   | Oct 25   | Data Analysis                                     |                                    |                     |
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+|      | Oct 27   | Visualizing and Reporting Data                    | PA \#7 (Sunday)                    | 20                  |
+|      |          |                                                   |                                    |                     |
+|      |          |                                                   | Quiz 10 (Sunday)                   |                     |
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+| 11   | Nov 1    | Correlation                                       |                                    | 17                  |
+|      |          |                                                   |                                    |                     |
+|      |          | Simple Regression                                 |                                    |                     |
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+|      | Nov 3    | Simple Regression (continued)                     | Quiz 11 (Sunday)                   |                     |
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+| 12   | Nov 8    | Multiple Regression Basics                        |                                    | 18                  |
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+|      | Nov 10   | Multiple Regression Applications                  | Quiz 12 (Sunday)                   |                     |
+|      |          |                                                   |                                    |                     |
+|      |          |                                                   | PA \#8 (Sunday)                    |                     |
+|      |          |                                                   |                                    |                     |
+|      |          |                                                   | PA \#9 (optional) (end of the day) |                     |
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+| 13   | Nov 15   | Project Meeting (optional)                        |                                    |                     |
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+|      | Nov 17   | Presentations                                     | 3 presentations                    |                     |
+|      |          |                                                   |                                    |                     |
+|      |          |                                                   | PA \#10 (due the day before)       |                     |
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+| 14   |          | Thanksgiving Break                                |                                    |                     |
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+|      | Nov 29   | Presentations                                     | 3 presentations                    |                     |
+|      |          |                                                   |                                    |                     |
+|      |          |                                                   | PA \#10 (the day before)           |                     |
+|      |          |                                                   |                                    |                     |
+|      |          |                                                   | PA \#11                            |                     |
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+| 15   | Dec 1    | Review for Exam                                   |                                    |                     |
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+|      | Dec 6    | **Second Exam**                                   |                                    |                     |
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+| 16   | Dec 8    | Project Checkup                                   |                                    |                     |
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+|      | Dec 13   | Project Report Due                                | PA \#12 (end of the day)           |                     |
+|      |          |                                                   |                                    |                     |
+|      |          |                                                   | PA \#13 (end of the day)           |                     |
++------+----------+---------------------------------------------------+------------------------------------+---------------------+
+
+: Tentative Schedule
 
 <br>
 
@@ -227,6 +412,18 @@ Academic honesty is fundamental to the activities and principles of a university
 # Special Needs
 
 If you have special needs as addressed by the Americans with Disabilities Act and need assistance, you must notify the instructor by the second week of the semester. To request academic accommodations, students must also register with Disability Services, AO38 Brady Commons, 882-4696. It is the campus office responsible for reviewing documentation provided by students requesting academic accommodations, and for accommodations planning in cooperation with students and instructors, as needed and consistent with course requirements.
+
+## Disability Accommodation Statement {.unnumbered}
+
+The goal of the University of Missouri is to ensure an inclusive learning environment for all students. [[The University of Missouri Disability Center]{.ul}](https://disabilitycenter.missouri.edu/) provides services and accommodations for students to participate fully in the learning experience and to experience equitable evaluation of their performance.
+
+Students (including online students) with a documented disability can contact the Disability Center to establish an [accommodation plan](https://disabilitycenter.missouri.edu/accommodations-and-supports/). Documented disabilities include hearing, vision, mobility, learning and attention, psychological health and physical health.
+
+Students' accommodations are implemented with the input of students to maximize the learning experiences.
+
+The MU Disability Center keeps information about a student's disability confidential.
+
+Please notify me of your eligibility for accommodations as soon as possible. Additionally, if there are aspects of the course that present as barriers, such as inaccessible course content (e.g., learning assessments, PowerPoints, non-captioned videos, images, tables, PDFs) or if you need an immediate accommodation due to an injury, please contact me or the Disability Center as soon as possible.
 
 <br>
 
@@ -259,135 +456,3 @@ If an instructor has concerns about how a student is following COVID-19 policies
 By taking the above measures, we are supporting your health and that of the whole Mizzou community. Thank you in advance for joining me and your peers in adhering to these safety measures.
 
 <br>
-
-# **TENTATIVE SCHEDULE -- MRKTNG 4050**
-
-**Import note:**
-
--   All of the course materials are published on Canvas
-
--   PA is a group project assignment.
-
--   CD is case discussion
-
--   Chapters refers to chapters in the textbook.
-
--   This schedule is subject to changes due to possible adaption to the class' pace. Hence, you should always view the most updated version on Canvas.
-
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-| Week | **Date** | **Topic**                                         | **Assignments Due**                                                                                                  | **Chapter Reading** |
-+:====:+==========+===================================================+======================================================================================================================+=====================+
-| 1    | Aug 23   | Course Intro                                      |                                                                                                                      | 1                   |
-|      |          |                                                   |                                                                                                                      |                     |
-|      |          | Problem Analysis                                  |                                                                                                                      |                     |
-|      |          |                                                   |                                                                                                                      |                     |
-|      |          | Case Discussion                                   |                                                                                                                      |                     |
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-|      | Aug 25   | The Research Process                              | PA \#1 (end of the day)                                                                                              | 2, 3                |
-|      |          |                                                   |                                                                                                                      |                     |
-|      |          | Problem Definition                                | Quiz 1 (Sunday)                                                                                                      |                     |
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-| 2    | Aug 30   | Intro to Project                                  | PA \#2 (end of the day)                                                                                              |                     |
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-|      | Sep 1    | Research Designs                                  | CD \#1 (Sunday)                                                                                                      | 4                   |
-|      |          |                                                   |                                                                                                                      |                     |
-|      |          |                                                   | Quiz 2 (Sunday)                                                                                                      |                     |
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-| 3    | Sep 6    | Labor Day                                         |                                                                                                                      |                     |
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-|      | Sep 8    | Information Systems, Dashboards, & Data Analytics | CD \#2 (Sunday)                                                                                                      | 5, 6                |
-|      |          |                                                   |                                                                                                                      |                     |
-|      |          |                                                   | PA \#3 (Sunday)                                                                                                      |                     |
-|      |          |                                                   |                                                                                                                      |                     |
-|      |          |                                                   | Quiz 3 (Sunday)                                                                                                      |                     |
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-| 4    | Sep 13   | Project Meeting                                   | Sign-up [here](https://docs.google.com/spreadsheets/d/1_dxqG99lQMBNp_87SlojglrzqVy6KK4FA4T4SBZ88rE/edit?usp=sharing) |                     |
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-|      | Sep 15   | Secondary & Syndicated Data                       | CD \#3 (Sunday)                                                                                                      | 7, 8                |
-|      |          |                                                   |                                                                                                                      |                     |
-|      |          | Experimentation                                   | PA \# 3.5 revision (Sunday)                                                                                          |                     |
-|      |          |                                                   |                                                                                                                      |                     |
-|      |          | Project Meeting                                   | Quiz 4 (Sunday)                                                                                                      |                     |
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-| 5    | Sep 20   | Survey Research                                   | Qualtrics homework published                                                                                         | 9, 10, 11           |
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-|      | Sep 22   | Measurement                                       | CD \#4 (Sunday)                                                                                                      | 12                  |
-|      |          |                                                   |                                                                                                                      |                     |
-|      |          | Questionnaire Design                              | Quiz 5 (Sunday)                                                                                                      |                     |
-|      |          |                                                   |                                                                                                                      |                     |
-|      |          |                                                   | Qualtrics homework (Sunday)                                                                                          |                     |
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-| 6    | Sep 27   | Questionnaire Design II                           | PA \#4                                                                                                               | 13                  |
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-|      | Sep 29   | Questionnaire Analysis                            | CD \#5 (Sunday)                                                                                                      |                     |
-|      |          |                                                   |                                                                                                                      |                     |
-|      |          |                                                   | Quiz 6 (Sunday)                                                                                                      |                     |
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-| 7    | Oct 4    | Sampling                                          | PA \# 4.5 (revision)                                                                                                 |                     |
-|      |          |                                                   |                                                                                                                      |                     |
-|      |          | Data Preparation                                  |                                                                                                                      |                     |
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-|      | Oct 6    | Project Meetings                                  | PA \#5 (strongly suggest to begin)                                                                                   | 14, 15              |
-|      |          |                                                   |                                                                                                                      |                     |
-|      |          |                                                   | CD \#6 (Sunday)                                                                                                      |                     |
-|      |          |                                                   |                                                                                                                      |                     |
-|      |          |                                                   | Quiz 7 (Sunday)                                                                                                      |                     |
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-| 8    | Oct 11   | **First Exam**                                    |                                                                                                                      |                     |
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-|      | Oct 13   | Work Day (collecting data)                        | PA \#5 (Sunday)                                                                                                      | 16                  |
-|      |          |                                                   |                                                                                                                      |                     |
-|      |          |                                                   | Quiz 8 (Sunday)                                                                                                      |                     |
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-| 9    | Oct 18   | Descriptive Statistics                            |                                                                                                                      | 12                  |
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-|      | Oct 20   | Data Analysis Plans                               | PA \#6 (Sunday)                                                                                                      |                     |
-|      |          |                                                   |                                                                                                                      |                     |
-|      |          |                                                   | Quiz 9 (Sunday)                                                                                                      |                     |
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-| 10   | Oct 25   | Data Analysis                                     |                                                                                                                      |                     |
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-|      | Oct 27   | Visualizing and Reporting Data                    | PA \#7 (Sunday)                                                                                                      | 20                  |
-|      |          |                                                   |                                                                                                                      |                     |
-|      |          |                                                   | Quiz 10 (Sunday)                                                                                                     |                     |
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-| 11   | Nov 1    | Correlation                                       |                                                                                                                      | 17                  |
-|      |          |                                                   |                                                                                                                      |                     |
-|      |          | Simple Regression                                 |                                                                                                                      |                     |
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-|      | Nov 3    | Simple Regression (continued)                     | Quiz 11 (Sunday)                                                                                                     |                     |
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-| 12   | Nov 8    | Multiple Regression Basics                        |                                                                                                                      | 18                  |
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-|      | Nov 10   | Multiple Regression Applications                  | Quiz 12 (Sunday)                                                                                                     |                     |
-|      |          |                                                   |                                                                                                                      |                     |
-|      |          |                                                   | PA \#8 (Sunday)                                                                                                      |                     |
-|      |          |                                                   |                                                                                                                      |                     |
-|      |          |                                                   | PA \#9 (optional) (end of the day)                                                                                   |                     |
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-| 13   | Nov 15   | Project Meeting (optional)                        |                                                                                                                      |                     |
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-|      | Nov 17   | Presentations                                     | 3 presentations                                                                                                      |                     |
-|      |          |                                                   |                                                                                                                      |                     |
-|      |          |                                                   | PA \#10 (due the day before)                                                                                         |                     |
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-| 14   |          | Thanksgiving Break                                |                                                                                                                      |                     |
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-|      | Nov 29   | Presentations                                     | 3 presentations                                                                                                      |                     |
-|      |          |                                                   |                                                                                                                      |                     |
-|      |          |                                                   | PA \#10 (the day before)                                                                                             |                     |
-|      |          |                                                   |                                                                                                                      |                     |
-|      |          |                                                   | PA \#11                                                                                                              |                     |
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-| 15   | Dec 1    | Review for Exam                                   |                                                                                                                      |                     |
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-|      | Dec 6    | **Second Exam**                                   |                                                                                                                      |                     |
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-| 16   | Dec 8    | Project Checkup                                   |                                                                                                                      |                     |
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-|      | Dec 13   | Project Report Due                                | PA \#12 (end of the day)                                                                                             |                     |
-|      |          |                                                   |                                                                                                                      |                     |
-|      |          |                                                   | PA \#13 (end of the day)                                                                                             |                     |
-+------+----------+---------------------------------------------------+----------------------------------------------------------------------------------------------------------------------+---------------------+
-
-: Tentative Schedule
