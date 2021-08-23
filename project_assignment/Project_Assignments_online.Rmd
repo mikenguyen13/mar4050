@@ -6,7 +6,7 @@ output:
 urlcolor: blue
 ---
 
-The term project is designed to provide you with firsthand experience in designing and carrying out a marketing research project. The project is divided into 13 assignments, described below. Each completed assignment should be submitted by the date and time specified below. All components of an assignment must be turned in to receive full credit.
+The term project is designed to provide you with firsthand experience in designing and carrying out a marketing research project. The project is divided into 13 assignments, described below. Each completed assignment should be submitted by the date and time specified on Canvas. All components of an assignment must be turned in to receive full credit.
 
 | Assignment | Points |
 |------------|--------|
@@ -29,11 +29,11 @@ The term project is designed to provide you with firsthand experience in designi
 
 # Assignment 1: GROUP FORMATION
 
-Your group will work together extensively throughout the semester to complete a term research project. There are four to five members per group. You may choose the members of your group or have the instructor assign you to a group. Group assignments done by the instructor will be on a random basis. During the first two class sessions, there will be small group breakout sessions that will allow you to get to know some of your classmates.
+Your group will work together extensively throughout the semester to complete a term research project. There are **four to five members per group**. You may choose the members of your group or have the instructor assign you to a group. Group assignments done by the instructor will be on a random basis. During the first two class sessions, there will be small group breakout sessions that will allow you to get to know some of your classmates.
 
 Submit this assignment on Canvas and indicate:
 
-a)  Title your assignment word document file name with **'Group & team captain's initials'** if you and **four or five** other classmates have formed a team (maximum 6 people in a team). For example, if your team captain is Michael Jordan then you will title your word document as 'Group MJ'. In the word document to be submitted, please include the identity of your teammates including your name in descending order of the first name.
+a)  Title your assignment word document file name with **'Group & team captain's initials'** if you and **three or four** other classmates have formed a team (maximum 6 people in a team). For example, if your team captain is Michael Jordan then you will title your word document as 'Group MJ'. In the word document to be submitted, please include the identity of your teammates, including your name in descending order of the first name.
 
 b)  Title your assignment word document file name with **'Random & your initial'** if you would like the instructor to assign you to a team.
 
@@ -247,7 +247,7 @@ You can use an outline format for your report. [Submit the report on Canvas]{.ul
 
 <br>
 
-# Assignment 9: MEETING WITH INSTRUCTOR (optional) 
+# Assignment 9: MEETING WITH INSTRUCTOR (optional)
 
 On this date, you may meet with your professor to ask questions about your presentation or anything else. If you have questions about your data analysis results, bring the following with you to your meeting:
 
