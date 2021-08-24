@@ -331,17 +331,19 @@ The group project is a small-scale marketing research project and includes probl
 |      |          |                                                   |                                    |                     |
 |      |          |                                                   | Qualtrics homework (Sunday)        |                     |
 +------+----------+---------------------------------------------------+------------------------------------+---------------------+
-| 6    | Sep 27   | Questionnaire Design II                           | PA \#4                             | 13                  |
+| 6    | Sep 27   | Questionnaire Design II                           |                                    | 13                  |
 +------+----------+---------------------------------------------------+------------------------------------+---------------------+
 |      | Sep 29   | Questionnaire Analysis                            | CD \#5 (Sunday)                    |                     |
 |      |          |                                                   |                                    |                     |
 |      |          |                                                   | Quiz 6 (Sunday)                    |                     |
+|      |          |                                                   |                                    |                     |
+|      |          |                                                   | PA \#4 (Sunday)                    |                     |
 +------+----------+---------------------------------------------------+------------------------------------+---------------------+
-| 7    | Oct 4    | Sampling                                          | PA \# 4.5 (revision)               |                     |
+| 7    | Oct 4    | Sampling                                          | PA \#5 (strongly suggest to begin) |                     |
 |      |          |                                                   |                                    |                     |
 |      |          | Data Preparation                                  |                                    |                     |
 +------+----------+---------------------------------------------------+------------------------------------+---------------------+
-|      | Oct 6    | Project Meetings                                  | PA \#5 (strongly suggest to begin) | 14, 15              |
+|      | Oct 6    | Project Meetings                                  | PA \# 4.5 (revision) (Sunday)      | 14, 15              |
 |      |          |                                                   |                                    |                     |
 |      |          |                                                   | CD \#6 (Sunday)                    |                     |
 |      |          |                                                   |                                    |                     |
