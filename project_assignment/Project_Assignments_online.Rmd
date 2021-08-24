@@ -43,9 +43,9 @@ This assignment needs to be submitted individually by each student in the class.
 
 # Assignment 2: TEAM ORIENTATION; PROJECT TOPIC CHOICES
 
-On this day, your group should submit the two items below on Canvas.
+Your group should submit the two items below on Canvas.
 
-**(1)** Completed [Team Orientation Assignment](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/Team%20Orientation.docx), including the group project contract.
+**(1)** Completed [Team Orientation Assignment](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/Team%20Orientation.docx).
 
 **(2)** Your group's first, second, and third choices for a project topic, from the "[Project Topics](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/Project_Topics.pdf)". You may also propose a topic of your own. If you wish to propose a topic, provide some details so your instructor can evaluate whether the proposed project would work for this class.
 
