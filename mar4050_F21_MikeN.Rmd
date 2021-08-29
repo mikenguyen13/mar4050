@@ -301,9 +301,9 @@ The group project is a small-scale marketing research project and includes probl
 |      |          |                                                   |                                    |                     |
 |      |          | Problem Definition                                | Quiz 1 (Sunday)                    |                     |
 +------+----------+---------------------------------------------------+------------------------------------+---------------------+
-| 2    | Aug 30   | Intro to Project                                  | PA \#2 (end of the day)            |                     |
+| 2    | Aug 30   | Intro to Project                                  | PA \#2 (end of the day)            | 4                   |
 +------+----------+---------------------------------------------------+------------------------------------+---------------------+
-|      | Sep 1    | Exploratory Research                              | CD \#1 (Sunday)                    | 4                   |
+|      | Sep 1    | Exploratory Research                              | CD \#1 (Sunday)                    |                     |
 |      |          |                                                   |                                    |                     |
 |      |          | Research Designs                                  | Quiz 2 (Sunday)                    |                     |
 +------+----------+---------------------------------------------------+------------------------------------+---------------------+
@@ -316,6 +316,8 @@ The group project is a small-scale marketing research project and includes probl
 |      |          |                                                   | Quiz 3 (Sunday)                    |                     |
 +------+----------+---------------------------------------------------+------------------------------------+---------------------+
 | 4    | Sep 13   | Project Meeting                                   |                                    |                     |
+|      |          |                                                   |                                    |                     |
+|      |          | (RM 449)                                          |                                    |                     |
 +------+----------+---------------------------------------------------+------------------------------------+---------------------+
 |      | Sep 15   | Secondary & Syndicated Data                       | CD \#3 (Sunday)                    | 7, 8                |
 |      |          |                                                   |                                    |                     |
@@ -343,9 +345,9 @@ The group project is a small-scale marketing research project and includes probl
 |      |          |                                                   |                                    |                     |
 |      |          | Data Preparation                                  |                                    |                     |
 +------+----------+---------------------------------------------------+------------------------------------+---------------------+
-|      | Oct 6    | Project Meetings                                  | PA \# 4.5 (revision) (Sunday)      | 14, 15              |
+|      | Oct 6    | Project Meeting                                   | PA \# 4.5 (revision) (Sunday)      | 14, 15              |
 |      |          |                                                   |                                    |                     |
-|      |          |                                                   | CD \#6 (Sunday)                    |                     |
+|      |          | (RM 449)                                          | CD \#6 (Sunday)                    |                     |
 |      |          |                                                   |                                    |                     |
 |      |          |                                                   | Quiz 7 (Sunday)                    |                     |
 +------+----------+---------------------------------------------------+------------------------------------+---------------------+
