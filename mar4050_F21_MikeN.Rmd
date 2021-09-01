@@ -384,6 +384,8 @@ The group project is a small-scale marketing research project and includes probl
 |      |          |                                                   | PA \#9 (optional) (end of the day) |                     |
 +------+----------+---------------------------------------------------+------------------------------------+---------------------+
 | 13   | Nov 15   | Project Meeting (optional)                        |                                    |                     |
+|      |          |                                                   |                                    |                     |
+|      |          | (RM 449)                                          |                                    |                     |
 +------+----------+---------------------------------------------------+------------------------------------+---------------------+
 |      | Nov 17   | Presentations                                     | 3 presentations                    |                     |
 |      |          |                                                   |                                    |                     |
