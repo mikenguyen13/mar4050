@@ -55,9 +55,9 @@ The instructor will make every attempt to assign your group its first choice for
 
 Each team will submit a word or pdf document for this assignment.
 
-Note this project requires meeting with the professor. See the [signup sheet](https://docs.google.com/spreadsheets/d/1_dxqG99lQMBNp_87SlojglrzqVy6KK4FA4T4SBZ88rE/edit?usp=sharing).
+This assignment requires meeting with the professor. See the [signup sheet](https://docs.google.com/spreadsheets/d/1_dxqG99lQMBNp_87SlojglrzqVy6KK4FA4T4SBZ88rE/edit?usp=sharing).
 
-Note: this PA is highly similar to our [first case discussion](https://github.com/mikenguyen13/mar4050_F21/raw/master/case_discussion/CE1%20%20discussion.docx).
+This PA is highly similar to our [first case discussion](https://github.com/mikenguyen13/mar4050_F21/raw/master/case_discussion/CE1%20%20discussion.docx).
 
 Your project topic is typical of the problem or decision facing a local business or nonprofit organization. Your group's role is to act as marketing consultants to the business described by your topic.
 
@@ -111,7 +111,7 @@ Organize this assignment so that each objective is followed by the research ques
 
 The form of research questions will be discussed in class. You can also look at example term projects ([1](https://github.com/mikenguyen13/mar4050_F21/blob/master/project_assignment/written_report/example1%20SlideDoc%20research%20report.pdf),[2](https://github.com/mikenguyen13/mar4050_F21/blob/master/project_assignment/written_report/example2%20SlideDoc%20research%20report.pdf)) to see examples of research questions. Some important points to remember are below.
 
--   Research questions are [not]{.ul} the same as questionnaire questions. Questionnaire questions are what you ask the consumer on a survey. Research questions are the questions the **manager** wants to answer. Put [research questions only]{.ul} in this assignment. Review lecture and [CE 1 discussion](https://github.com/mikenguyen13/mar4050_F21/raw/master/case_discussion/CE1%20%20discussion.docx) to make sure your research questions are phrased appropriately. They should [not]{.ul} include any second person pronouns.
+-   Research questions are [not]{.ul} the same as questionnaire questions. Questionnaire questions are what you ask the consumer on a survey. Research questions are the questions the **manager** wants to answer. Review lecture and [Case Discussion 1](https://github.com/mikenguyen13/mar4050_F21/raw/master/case_discussion/CE1%20%20discussion.docx) to make sure your research questions are phrased appropriately. They should [not]{.ul} include any second person pronouns.
 
 -   The research questions should be very **specific**.
 
@@ -129,9 +129,7 @@ The form of research questions will be discussed in class. You can also look at 
 
 # Assignment 4: DESIGN A QUESTIONNAIRE
 
-Note this project requires meeting with the professor and your team members. See the [signup sheet](https://docs.google.com/spreadsheets/d/1_dxqG99lQMBNp_87SlojglrzqVy6KK4FA4T4SBZ88rE/edit?usp=sharing).
-
-<!-- For your partner team meeting. See [instruction](https://docs.google.com/document/d/1m85mnPgACTD9ecyACWnMdcLEEbtFJmAMJb8Q2LSNMkg/edit?usp=sharing). -->
+Note this assignment requires meeting with the professor and your team members. See the [signup sheet](https://docs.google.com/spreadsheets/d/1_dxqG99lQMBNp_87SlojglrzqVy6KK4FA4T4SBZ88rE/edit?usp=sharing).
 
 The questionnaire is one of the most important parts of the project.
 

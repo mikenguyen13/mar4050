@@ -323,7 +323,7 @@ The group project is a small-scale marketing research project and includes probl
 |      |          |                                                   |                                    |                     |
 |      |          | Experimentation                                   | PA \# 3.5 revision (Sunday)        |                     |
 |      |          |                                                   |                                    |                     |
-|      |          | Project Meeting                                   | Quiz 4 (Sunday)                    |                     |
+|      |          |                                                   | Quiz 4 (Sunday)                    |                     |
 +------+----------+---------------------------------------------------+------------------------------------+---------------------+
 | 5    | Sep 20   | Survey Research                                   | Qualtrics homework published       | 9, 10, 11           |
 +------+----------+---------------------------------------------------+------------------------------------+---------------------+
