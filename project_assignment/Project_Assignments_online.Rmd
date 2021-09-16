@@ -63,13 +63,13 @@ Your project topic is typical of the problem or decision facing a local business
 
 In this assignment, based on your knowledge of marketing, business principle, and the student population, you will set at least **two research objectives** for your research project and a set of research questions for each objective that your project will answer. Your assignment should include the following elements:
 
-**(1)** a general statement of the client's problem that the client hopes to solve with the information you will provide in your report.
+**(1)** a general statement of the **client's problem** that the client hopes to solve with the information you will provide in your report.
 
 **(2)** the decision(s) to be made by your client based on your research, and the decision alternatives
 
 **(3)** the target for the decision(s) to be made:
 
--   Is the goal to increase satisfaction/patronage of existing customers or
+-   Is the goal to increase satisfaction/patronage of existing customers?
 
 -   Is it to bring new customers to the business?
 
@@ -120,6 +120,8 @@ The form of research questions will be discussed in class. You can also look at 
 -   **At least one of your research questions must be a group comparison research question** in which you compare groups of people among your respondents. For instance, you might compare heavy or light users of a product; compare students living in three different areas of Columbia with respect to their interest in a particular type of store; compare new versus established customers' brand perceptions, etc. This is called a group comparison research question. **Clearly identify which of your research questions is intended to be a group comparison research question.**
 
 -   Number the research questions so they are easy to refer to.
+
+5 points will be deducted for each question that does not follow the instruction.
 
 **REMEMBER**: When you prepare this assignment, **put each research question directly beneath the objective** the research question it relates to.
 

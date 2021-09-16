@@ -159,7 +159,7 @@ Extra Credit: 3-5%
 
 ### Attendance
 
--   Everyone is allowed to have **two** absences without questions asked. After that, each absence will cost you 50% of the attendance score unless excused by the instructor. Thus, **on your fourth absence**, all your attendance points will be gone.
+-   Everyone is allowed to have four absences without questions asked. After that, each absence will cost you 50% of the attendance score unless excused by the instructor. Thus, **on your sixth absence**, all your attendance points will be gone.
 
 -   iClicker attendance will be run automatically from 7:55 AM to 8:10 AM (UTC-06:00) Central Time (US & Canada) on class days.
 
