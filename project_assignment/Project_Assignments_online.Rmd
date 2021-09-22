@@ -141,17 +141,19 @@ You can consult these examples for reference regarding ideas about question word
 
 For this assignment, complete all steps of the questionnaire design process as covered in class. Make sure your questionnaire has been pretested and revised by this date. The questionnaire you turn in should be your final, best work. Submit the following items on Canvas:
 
--   the message you will use to introduce the survey and ask for participation; put these on a separate page from your questionnaire
+1.  the message you will use to introduce the survey and ask for participation; put these on a separate page from your questionnaire
 
--   your questionnaire (downloaded from Qualtrics)
+2.  your questionnaire (downloaded from Qualtrics)
 
--   your final project objectives and list of research questions; the research questions must be numbered
+3.  your final project objectives and list of research questions (the research questions must be numbered)
 
--   a completed copy of Questionnaire Worksheet A ([WorksheetA template](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/questionnaire/8-Qnaire%20worksheet%20A.xls))
+4.  a completed copy of Questionnaire Worksheet A ([WorksheetA template](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/questionnaire/8-Qnaire%20worksheet%20A.xls))
 
--   a completed copy of Questionnaire Worksheet B ([WorksheetB template](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/questionnaire/8-Qnaire%20worksheet%20B.xls))
+5.  a completed copy of Questionnaire Worksheet B ([WorksheetB template](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/questionnaire/8-Qnaire%20worksheet%20B.xls))
 
-The questionnaire must include [screener questions]{.ul} (if relevant) and [a complete set of demographic questions]{.ul} appropriate to the people you are surveying. Unless an exception is granted by the instructor, the questionnaire should fit on the front and back of a single sheet of letter-size paper.
+The questionnaire must include [**screener questions**]{.ul} (if relevant) and [**a complete set of demographic questions**]{.ul} appropriate to the people you are surveying.
+
+Unless an exception is granted by the instructor, the questionnaire should fit on the front and back of a single sheet of letter-size paper.
 
 # Assignment 4.5: REVISED COPY OF QUESTIONNAIRE
 
