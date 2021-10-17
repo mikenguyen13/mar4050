@@ -183,13 +183,13 @@ Submit your results report on Canvas.
 
 # Assignment 6: DATA ANALYSIS PLAN
 
-Type the data analysis plan for your project that you develop in class into a formal document, using the [Data Analysis Plan template](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/Data%20Anal%20Plan%20wkst.xlsx) and the [cheat sheet](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/data%20analysis%20plan%20grid.xlsx). [Include at least one group comparison analysis in your data analysis plan]{.ul}. You can use this [Qualtrics guide](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/differences%20RQ%20analysis%20on%20Qualtrics.docx) for the group comparison research questions. You don't need to do the analysis yet, you only need to plan for the analysis.
+Type the data analysis plan for your project that you develop in class into a formal document, using the [Data Analysis Plan template](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/Data%20Anal%20Plan%20wkst.xlsx) and the [template](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/data%20analysis%20plan%20grid.xlsx). [Include at least one group comparison analysis in your data analysis plan]{.ul}. You can use this [Qualtrics guide](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/differences%20RQ%20analysis%20on%20Qualtrics.docx) for the group comparison research questions. You don't need to do the analysis yet, you only need to plan for the analysis.
 
 Submit your typed data analysis plan on Canvas including:
 
 -   Your typed data analysis plan
 
-When class begins, each team member should have in his/her possession the following items to refer to during class:
+When next week's class begins, each team member should have in his/her possession the following items to refer to during class:
 
 1.  your typed data analysis plan
 
