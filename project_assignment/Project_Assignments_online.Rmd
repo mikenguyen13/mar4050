@@ -163,7 +163,7 @@ Please **highlight** the changes that you made in green on both the questionnair
 
 # Assignment 5: COMPLETE DATA COLLECTION, DATA COLLECTION RESULTS REPORT
 
-Complete your data collection. Each team will need 160\~200 completed questionnaires to have enough sample size to do the subsequent data analysis.
+Complete your data collection. Each team will need 200 completed questionnaires to have enough sample size to do the subsequent data analysis.
 
 Prepare a results report in Qualtrics. Go to Projects in Qualtrics and do the following to get your report.
 
