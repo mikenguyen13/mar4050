@@ -147,10 +147,12 @@ data = data.frame(spending = spending,
 # F-test for 2 variances
 
 ```{r}
+library(webr)
+library(moonBook)
 var.test(ClevelandSpending, NYSpending)
 
 # Alternatively 
-F_test = var.test(spending ~ city, data = data)
+F_test = var.test(data$spending ~ data$city, data = data)
 plot(F_test)
 ```
 
@@ -159,6 +161,8 @@ plot(F_test)
 ## Equal Variances
 
 ```{r}
+# Null: the two samples' means are equal 
+# Ha: the sample
 t.test(ClevelandSpending, NYSpending, var.equal = TRUE)
 ```
 
