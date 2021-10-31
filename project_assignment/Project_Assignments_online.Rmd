@@ -205,7 +205,21 @@ when the actual in-class analysis begins, each team member should have in his/he
 
 # Assignment 7: MID-SEMESTER PEER EVALUATION
 
-In this assignment, you will evaluate your own performance throughout the project and that of other members of your group on the major project assignments completed so far. [A Word version of the evaluation form](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/evaluations/mid-semester%20peer%20evaluation%20form.docx) is available on Canvas. Download the form, complete it, then submit on Canvas. (remember to put it on Canvas, not as a word doc for students)
+In this assignment, you will evaluate your own performance throughout the project and that of other members of your group on the major project assignments completed so far. Click this [link](https://missouri.qualtrics.com/jfe/form/SV_9ov35wcAs9vOiHA) to complete your evaluation. This evaluation will be used as 1/3 of the weight for your final report score, which means you can still have a chance to work hard and make up the work to earn a higher grade.
+
+The formula to calculate your final report score is
+
+$$
+(\text{Mid-term Evaluation} \times \frac{1}{3} + \text{Final Evaluation} \times \frac{2}{3} ) \times \text{Instructor's score for the group}
+$$
+
+For example, you are evaluated to have contributed 60% to the project based on the mid-term evaluation. However, you try to make it up and in the final evaluation, your team evaluates you to have contributed 100% to the project. And the instructor assigns 30 points to your group. Then your score will be
+
+$$
+(60\% \times \frac{1}{3} + 100 \% \times \frac{2}{3}) \times 30 = 26
+$$
+
+Moreover, this evaluation is also used in conjunction with the final evaluation to assess your professionalism. If there is evidence that you did not contribute and slack off, your professionalism point will be 0 (as discussed and mentioned in the syllabus).
 
 This evaluation is confidential and will not be shared with group members. However, if you have a concern about your level of contribution to the project, or the contribution of another group member, you are encouraged to discuss this with your group. Regardless, it is a good time of the semester to take a few minutes of a regularly scheduled group meeting to discuss the following issues:
 
@@ -223,9 +237,9 @@ To answer your research questions, you must analyze your data. In the assignment
 
 1.  You can use this [Qualtrics guide](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/differences%20RQ%20analysis%20on%20Qualtrics.docx) for the difference research questions.
 
-2.  You can use the lecture slides [Descriptive Statistics (means, frequencies, crosstabs)](https://github.com/mikenguyen13/mar4050_F21/raw/master/lectures/9/1_Chapter12_Descriptive%20stats%20.pptx) for the difference questions bar-charts.
+2.  You can use the lecture slides on [Descriptive Statistics](https://github.com/mikenguyen13/mar4050_F21/raw/master/lectures/9/1_Descriptive%20Statistics.pptx), and [Data Analysis Plan](https://github.com/mikenguyen13/mar4050_F21/raw/master/lectures/9/2_Data%20Analysis%20Plan.pptx), and worksheets on [cross-tab](https://github.com/mikenguyen13/mar4050_F21/raw/master/lectures/9/Cross-tab%20worksheet.xlsx) and [descriptive](https://github.com/mikenguyen13/mar4050_F21/raw/master/lectures/9/descriptive.xlsx) for the difference questions bar-charts and other statistics.
 
-3.  You can use the [analysis techniques](https://github.com/mikenguyen13/mar4050_F21/raw/master/lectures/Cross-tab%20worksheet.xlsx) excel sheet when you do the actual analysis.
+3.  You can use the [cheat sheet excel sheet](https://github.com/mikenguyen13/mar4050_F21/raw/master/regression%20materials/2-Excel%20help%20sheet.docx) when you do the actual analysis.
 
 4.  You can consult the [level of measurement common issues](https://github.com/mikenguyen13/mar4050_F21/raw/master/lectures/Common%20issue%20level%20of%20measurement.docx) for your revision on the level of measurement.
 
@@ -304,10 +318,24 @@ For this assignment, submit an electronic copy of your report on Canvas.
 NOTE:
 
 -   You may wonder what the difference is between the presentation (if you use Powerpoint) and the written report. In the presentation, you have 10-12 minutes to present in the most succinct way about your research project, which means that you might not be able to address all the research questions. However, in the report, you can put everything that is of interest to the consumers of that report (e.g., managers).
--   If you attempt to submit the same Powerpoint presentation as your written report. You will receive no points for this assignment because you did not perform any work for this assignment.
+-   If you attempt to submit the same Powerpoint presentation as your written report. You will receive **no points** for this assignment because you did not perform any work for this assignment.
 
 <br>
 
 # Assignment 13: PEER EVALUATION (by 5 pm)
 
-In this assignment, you will evaluate your own performance throughout the project and that of other members of your group. [Download the form](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/evaluations/final%20peer%20evaluation.docx), complete it, then submit it on Canvas before 5 p.m. on this date. on this date. If this form is not submitted, you may receive an incomplete grade for the course.
+In this assignment, you will evaluate your own performance throughout the project and that of other members of your group on the major project assignments completed so far. Click this [link](https://missouri.qualtrics.com/jfe/form/SV_cYYVV4ICwqR4mMK) to complete your evaluation. If this form is not submitted, you may receive an incomplete grade for the course.
+
+The formula to calculate your final report score is
+
+$$
+(\text{Mid-term Evaluation} \times \frac{1}{3} + \text{Final Evaluation} \times \frac{2}{3} ) \times \text{Instructor's score for the group}
+$$
+
+For example, you are evaluated to have contributed 60% to the project based on the mid-term evaluation. However, you try to make it up and in the final evaluation, your team evaluates you to have contributed 100% to the project. And the instructor assigns 30 points to your group. Then your score will be
+
+$$
+(60\% \times \frac{1}{3} + 100 \% \times \frac{2}{3}) \times 30 = 26
+$$
+
+Moreover, this evaluation is also used in conjunction with the mid-semester evaluation to assess your professionalism. If there is evidence that you did not contribute and slack off, your professionalism point will be 0 (as discussed and mentioned in the syllabus).

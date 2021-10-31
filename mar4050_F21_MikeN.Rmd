@@ -371,7 +371,7 @@ The group project is a small-scale marketing research project and includes probl
 |      |          |                                                   |                                    |                     |
 |      |          | Simple Regression                                 |                                    |                     |
 +------+----------+---------------------------------------------------+------------------------------------+---------------------+
-|      | Nov 3    | Simple Regression (continued)                     | PA \#7 (Sunday)                    |                     |
+|      | Nov 3    | Simple Regression (continued)                     | PA \#7 (Sunday)                    | 20                  |
 |      |          |                                                   |                                    |                     |
 |      |          |                                                   | Quiz 11 (Sunday)                   |                     |
 +------+----------+---------------------------------------------------+------------------------------------+---------------------+
