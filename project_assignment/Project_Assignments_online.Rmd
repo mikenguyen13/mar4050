@@ -315,7 +315,7 @@ Sample student projects ([1](https://github.com/mikenguyen13/mar4050_F21/raw/mas
 
 For this assignment, submit an electronic copy of your report on Canvas.
 
-NOTE:
+Notes:
 
 -   You may wonder what the difference is between the presentation (if you use Powerpoint) and the written report. In the presentation, you have 10-12 minutes to present in the most succinct way about your research project, which means that you might not be able to address all the research questions. However, in the report, you can put everything that is of interest to the consumers of that report (e.g., managers).
 -   If you attempt to submit the same Powerpoint presentation as your written report. You will receive **no points** for this assignment because you did not perform any work for this assignment.
