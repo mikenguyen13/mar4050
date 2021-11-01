@@ -119,7 +119,7 @@ Students will be able to interpret correlation and regression results, including
 | Exam (2)                       | 400    |
 | Group Term Project Assignments | 240    |
 | Case Discussions               | 100    |
-| Attendance                     | 50     |
+| Attendance                     | 40     |
 | Participation                  | 50     |
 | Professionalism                | 10     |
 | Qualtrics Homework             | 50     |
