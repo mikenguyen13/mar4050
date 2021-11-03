@@ -1,6 +1,8 @@
 ---
 title: "Project Report Guidelines"
-output: html_notebook
+output:
+  pdf_document: default
+  html_notebook: default
 ---
 
 Your report must be prepared in SlideDocs format (this format is covered during class). There are also sample reports on Canvas. Especially helpful will be the annotated SlideDocs research report available in Canva; it has many helpful tips
@@ -25,7 +27,7 @@ The table of contents should have the following entries:
 
 -   Objectives and research questions
 
--   MEthods
+-   Methods
 
 -   Results
 
@@ -122,7 +124,7 @@ Be sure to include all relevant output
 
 # Additional Guidelines
 
-***Font size*** for a Slidedocs report should be the same size as fonts in a tradaitonal report (no larger than font size 13) except that headings may be larger
+***Font size*** for a Slidedocs report should be the same size as fonts in a traditional report (no larger than font size 13) except that headings may be larger
 
 Make sure all text is easy to read, including text in the copy of the questionnaire provided in the appendix and graph labels. Signification point deductions are made if text is too small to read.
 
@@ -168,6 +170,22 @@ Analysis revealed important differences between the two groups [^1]. These are i
 
 [^1]: $\chi^2 =13.12, df = 4, p< .05$ <br> note to students: you use the footnote format above when you reject the null hypothesis. If you did NOT reject the null hypothesis, your footnote would be in this format: $\chi^2 = 1.68, df = 4, n.s.$
 
+```{r, echo = FALSE, warning=FALSE}
+data = data.frame(Percent = c(c(30, 17, 20, 10, 23),
+                              c(15, 27, 22, 20, 16)), segment = c(rep("College", 5), rep("Business", 5)), Attribute = rep(c("Low \n price","Efficient \n service", "Convenient \n location", "Pleasant \n atmosphere","Menu \n variety"),2))
+# data
+
+# library
+library(ggplot2)
+
+ 
+# Grouped
+ggplot(data, aes(fill = segment, y = Percent, x = Attribute)) +
+  geom_col(width = 0.5, position=position_dodge(0.5)) + 
+  # geom_bar(position = "dodge", stat = "identity") + 
+  ggtitle("Important Restaurant Attributes for \n College Student and Business Customers")
+```
+
 <br>
 
 ## Example for a Descriptive Research Question
@@ -177,3 +195,14 @@ Awareness of JJ's Cafe
 An area of concern for JJ's Cafe was student awareness of the restaurant. three levels of awareness were assessed. Question two on the questionnaire asked respondents whether they had heard of JJ's Cafe, question three asked if they knew where it is located, and question four asked if they knew what kind of food was served at the cafe.
 
 Among the 100 college students surveyed, 47% had heard of JJ's Cafe. However, only 29% knew where it was located, and 34% knew what kind of food was served at the restaurant. These results are shown in the graph below.
+
+```{r, echo = FALSE}
+data = data.frame(Percent = c(47,29,34), Attribute = c("Heard of JJ's","Aware of location", "Aware of good served"))
+# data
+
+# Grouped
+ggplot(data, aes(y = Percent, x = Attribute)) +
+  geom_col(width = 0.5, position=position_dodge(0.5)) +
+  # geom_bar(position = "dodge", stat = "identity") +
+  ggtitle("Student Awareness of JJ's Cafe")
+```
