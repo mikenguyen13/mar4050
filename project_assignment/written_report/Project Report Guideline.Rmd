@@ -9,7 +9,7 @@ Here is an outline for your report, followed by additional guidelines and some e
 
 # **OUTLINE OF REPORT CONTENT**
 
-## I. TITLE PAGE 
+## I. TITLE PAGE
 
 \- must contain the report title, the client's name, the names of group members, and the date
 
@@ -43,7 +43,7 @@ This is a table of contents of the results section only. The entries are the hea
 
 <br>
 
-##  IV. EXECUTIVE SUMMARY 
+## IV. EXECUTIVE SUMMARY
 
 A 2-3 page summary of the entire report
 
@@ -120,7 +120,7 @@ FInally, include a list of ***recommendations***, if appropriate, for your clien
 
 Be sure to include all relevant output
 
-# Additional Guidelines 
+# Additional Guidelines
 
 ***Font size*** for a Slidedocs report should be the same size as fonts in a tradaitonal report (no larger than font size 13) except that headings may be larger
 
@@ -160,8 +160,20 @@ Don't paste Excel output into the results section of your report. Create a graph
 
 ## Example for a Differences Analysis Research Question
 
-Important Attributes for College Student and Business Customers
+**Important Attributes for College Student and Business Customers**
 
 An important issue for JJ's Cafe was whether college student and business customers differ in what they consider most important when choosing a restaurant for lunch. the sixth question on the questionnaire was used to address this issue. This question asked respondents which of five attributes was most important to them when choosing a restaurant for lunch. Th The attributes were low price, efficient service, convenient location, a pleasant atmosphere, and menu variety.
 
-Analysis revealed important differences between the two groups ^[$\chi^2 =13.12, df = 4, p< .05$ <br> note to students: you use the footnote format above when you reject the null hypothesis. If you did NOT reject the null hypothesis, your footnote would be in this format: $\chi^2 = 1.68, df = 4, n.s.$].
+Analysis revealed important differences between the two groups [^1]. These are illustrated in the graph below. For college students, a low price was the most important attribute, while business customers placed the greatest emphasis on efficient service. Business customers were also more likely than to college students to say that a pleasant atmosphere was important. A convenient location was important to both groups.
+
+[^1]: $\chi^2 =13.12, df = 4, p< .05$ <br> note to students: you use the footnote format above when you reject the null hypothesis. If you did NOT reject the null hypothesis, your footnote would be in this format: $\chi^2 = 1.68, df = 4, n.s.$
+
+<br>
+
+## Example for a Descriptive Research Question
+
+Awareness of JJ's Cafe
+
+An area of concern for JJ's Cafe was student awareness of the restaurant. three levels of awareness were assessed. Question two on the questionnaire asked respondents whether they had heard of JJ's Cafe, question three asked if they knew where it is located, and question four asked if they knew what kind of food was served at the cafe.
+
+Among the 100 college students surveyed, 47% had heard of JJ's Cafe. However, only 29% knew where it was located, and 34% knew what kind of food was served at the restaurant. These results are shown in the graph below.

@@ -8,6 +8,8 @@ urlcolor: blue
 
 The term project is designed to provide you with firsthand experience in designing and carrying out a marketing research project. The project is divided into 13 assignments, described below. Each completed assignment should be submitted by the date and time specified on Canvas. All components of an assignment must be turned in to receive full credit.
 
+[comment]: <> (remember to change assignment 6 to be 10, and 12 to 40)
+
 | Assignment | Points |
 |------------|--------|
 | 1          | 10     |
