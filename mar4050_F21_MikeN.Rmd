@@ -276,6 +276,8 @@ The group project is a small-scale marketing research project and includes probl
 
 # **TENTATIVE SCHEDULE -- MRKTNG 4050**
 
+[comment]: <> (switch project meeting and multiple regression basics)
+
 **Import note:**
 
 -   All of the course materials are published on Canvas
