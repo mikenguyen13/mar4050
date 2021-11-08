@@ -279,7 +279,10 @@ On this date, you may meet with your professor to ask questions about your prese
 
 # Assignment 10: TERM PROJECT PRESENTATION
 
-If you have a client, please notify your client in advance of the presentation date and time and invite your client to attend. Provide a map and parking information if necessary. The instructor can provide a parking permit (which requires name, license plate, make, model, and color to submit to the instructor) for your client if you provide **four days** advance notice.
+
+[comment]: <> (If you have a client, please notify your client in advance of the presentation date and time and invite your client to attend. Provide a map and parking information if necessary. The instructor can provide a parking permit (which requires name, license plate, make, model, and color to submit to the instructor) for your client if you provide **four days** advance notice.)
+
+
 
 This assignment is due the day before your presentation at 11:59 PM.
 
@@ -291,9 +294,9 @@ This assignment is due the day before your presentation at 11:59 PM.
 
 -   While preparing the presentation, carefully read and follow the Pointers on Presentations and review [the slides design tips](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/presentation/Presentation%20slide%20examples.pptx) and the [sample student presentation slides](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/presentation/Sample%20Student%20Presentation%20from%20previous%20semester.pptx) for reference.
 
--   The presentation should last between 12 and 14 minutes. If you go under or over this time frame, there is a grade deduction of 1 point per minute. The class will have an opportunity to ask you questions following your presentation.
+-   The presentation should last 15 minutes. If you go under or over this time frame, there is a grade deduction of 1 point per minute. The class will have an opportunity to ask you questions following your presentation (5 minutes).
 
--   Your presentation will be graded on the criteria described in the "[Presentation Evaluation Form](https://github.com/mikenguyen13/mar4050_F21/blob/master/project_assignment/presentation/Presentation%20Evaluation%20Assignment.docx)."
+-   Your presentation will be graded on the criteria described in the "[Presentation Evaluation Form](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/presentation/Presentation%20Evaluation%20Assignment.docx)."
 
 -   Each person will submit an evaluation for every group.
 
