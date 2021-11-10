@@ -310,7 +310,7 @@ This assignment is due the day before your presentation at 11:59 PM.
 The grade for this assignment is based on 
 
  * Presentation submission (5 points)
- * Instructor's evaluation (5 points)
+ * [Instructor's evaluation](https://docs.google.com/spreadsheets/d/1EmvxRjSobmu4Wcl0rrez1PjnlX6ky3J7pRfFn-Hjw1w/edit#gid=0) (5 points)
  * Peers' evaluations (10 points)
  
 
