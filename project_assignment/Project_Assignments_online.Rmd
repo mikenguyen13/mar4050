@@ -306,13 +306,25 @@ This assignment is due the day before your presentation at 11:59 PM.
 
 -   On presentation day, you must be set up and ready to go [before]{.ul} the beginning of class. If you are not ready at that time, there will be point deductions and you may be asked to give your presentation at another time. Class time is very tightly scheduled during presentation days, and it is necessary that all groups be ready to present at the appointed time.
 
+
+The grade for this assignment is based on 
+
+ * Presentation submission (5 points)
+ * Instructor's evaluation (5 points)
+ * Peers' evaluations (10 points)
+ 
+
+[comment]: <> (remember to re-weight this assignemnt, it should be 30 points)
 <br>
 
 # Assignment 11: PRESENTATION CRITIQUE
 
-Prepare a written critique of the presentations of your **paired four other peer teams**, based on their video recording. Details of the critique assignment are described in the "[Presentation Evaluation Form](https://github.com/mikenguyen13/mar4050_F21/raw/master/project_assignment/presentation/Presentation%20Evaluation%20Assignment.docx)". The video recording for each presentation team is included as a link in the evaluation sheet under each presentation team number.
+Step 1: Familiarize yourself with the details of the critique assignment as described in the "[Presentation Evaluation Form](https://github.com/mikenguyen13/mar4050_F21/blob/master/project_assignment/presentation/Presentation%20Evaluation%20Assignment.pdf)". 
 
-Upload a screenshot of your task completion to the Canvas assignment.
+Step 2: All teams that are not presenting are required to submit their evaluation (1 evaluation per team for a presenting group). To submit your presentation critique, please fill out [this Qualtrics survey](https://missouri.qualtrics.com/jfe/form/SV_0xPBVxlRxxOmejQ) after each presentation (you can submit the survey multiple times)
+
+Step 3: On your "Thank you" page, click "Download PDF." Please submit this PDF document to Assignment 11. 
+There should be one pdf document submission per group (you can submit to Assignment 11 on Canvas multiple times)
 
 <br>
 
